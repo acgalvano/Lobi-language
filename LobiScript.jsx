@@ -115,14 +115,14 @@ var HomepageFR = React.createClass(
 //=========================HOMEPAGE===============================
   return   <div className='ui text container'> 
 
+    
+    <h1 className='ui dividing header'>Langue et culture Lobi</h1>
+    <h2 >Lobi dɪɪrɪ</h2>
 
-      <h1 className='ui dividing header'>Langue et culture Lobi</h1>
-      <h2 >Lobi dɪɪrɪ</h2>
-
-      <div className="ui segment">
-      <img className="ui medium spaced rounded image" src="./images/Sansan_smiling.png"></img>
-      <img className="ui medium spaced rounded image" src="./images/Sansan_serious.png"></img>
-      </div>
+    <div className="ui segment">
+    <img className="ui medium spaced rounded image" src="./images/Sansan_smiling.png"></img>
+    <img className="ui medium spaced rounded image" src="./images/Sansan_serious.png"></img>
+    </div>
 
     <p> Ce site est en construction. </p> 
   
