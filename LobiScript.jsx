@@ -120,8 +120,8 @@ var HomepageFR = React.createClass(
       <h2 >Lobi dɪɪrɪ</h2>
 
       <div className="ui segment">
-      <img className="ui medium spaced rounded image" src="./images/Anono_street.jpg"></img>
-      <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
+      <img className="ui medium spaced rounded image" src="./images/Sansan_smiling.png"></img>
+      <img className="ui medium spaced rounded image" src="./images/Sansan_serious.png"></img>
       </div>
 
     <p> Ce site est en construction. </p> 
