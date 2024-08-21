@@ -130,7 +130,7 @@ var HomepageFR = React.createClass(
   
     <p> Ce site Web est le fruit d'une collaboration entre Sansan Claude Hien et des linguistes de l'Université de Californie à Berkeley. </p>
 
-    <p> Ce site Web est destiné avant tout à être une ressource pour le peuple Lobi, mais également pour les apprenants de tous horizons qui souhaitent en savoir plus sur la langue et la culture Lobi. <p>
+    <p> Ce site Web est destiné avant tout à être une ressource pour le peuple Lobi, mais également pour les apprenants de tous horizons qui souhaitent en savoir plus sur la langue et la culture Lobi. </p>
     
     <h1 className='ui dividing header'>Membres du projet</h1>
 
