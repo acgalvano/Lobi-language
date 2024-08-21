@@ -22,12 +22,10 @@ var State = ReactRouter.State;
 // Loaded from static files in the repository rather than from lingsync.
 
 // Static file with sentences.
-var sentence_url = '/story_compiler/sentences.json';
-// var sentence_url = 'FHB/fhb_sentences.json'
+var sentence_url = 'super_sentences.json';
 
 // Static file with stories.
-var story_url = '/story_compiler/story_index.json';
-// var story_url = 'FHB/fhb_stories.json'
+var story_url = 'short_stories.json';
 
 var global_show_french = true;
 
@@ -82,44 +80,29 @@ var Homepage = React.createClass(
   return   <div className='ui text container'> 
 
 
-    <h1 className='ui dividing header'>Atchan Song and Story Corpus</h1>
-    <h2 >ÁCAN NANMƐ LÊ ÁLƐ́BHƆ́ </h2>
+    <h1 className='ui dividing header'>Lobi language & culture</h1>
+    <h2 >Lobi dɪɪrɪ</h2>
 
     <div className="ui segment">
-    <img className="ui medium spaced rounded image" src="./images/Anono_street.jpg"></img>
-    <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
+    <img className="ui medium spaced rounded image" src="./images/Sansan_smiling.png"></img>
+    <img className="ui medium spaced rounded image" src="./images/Sansan_serious.png"></img>
     </div>
         
-    <p>This website contains a collection of texts, songs, and stories in the Atchan language (also known as Ébrié). 
-      Atchan is a language spoken by the Tchaman people (also called the Ébrié people), who live in approximately sixty villages located within and near the city of Abidjan, Côte d’Ivoire’s economic capital. 
-      Following the classification of Williamson & Blench (2000:18), Atchan, along with its sister language Nghlwa (Mbatto), forms the Potou subgroup in the Kwa (and broader Niger-Congo) language family. 
-      Through the resources on this page, you can learn more about the Tchaman people, their language, and their culture.</p> 
+    <p>This website is under construction.</p> 
   
-    <p>This website is a collaboration between Dr. Yao Maxime Dido, Professor of Linguistics at Université Alassane Ouattara de Bouaké (Côte d’Ivoire), and linguists at the University of California, Berkeley. Dr. Dido participated in the implementation of the Atchan orthography along with Prof. Rémy Bôle-Richard, a linguist specializing in West African languages and the designer of the orthography.</p>
+    <p>This website is a collaboration between Sansan Claude Hien and linguists at the University of California, Berkeley. </p>
     
-    <p>This website is intended first and foremost as a resource for the Tchaman people, and in addition for researchers who are interested in learning more about the Atchan language.</p>
+    <p>This website is intended first and foremost as a resource for the Lobi people, and in addition for learners of all backgrounds who are interested in learning more about Lobi language & culture. </p>
     
     <h1 className='ui dividing header'>Project members</h1>
 
     {/* <h2> (Visit the Storytellers page to learn more about the people who you see and hear in the texts.) </h2> */}
 
-    <h3> Yao Maxime Dido </h3>
-        <p> Prof. Dido is a native speaker of Atchan, originally from the village of Blockhauss. He published multiple articles about his mother tongue between 2018 and 2021, and he plans to publish more in the coming months. </p> 
+    <h3> Sansan Claude Hien </h3>
+        <p> TBD </p> 
 
-    <h3> Becky Jarvis </h3>
-        <p> <a href="https://sites.google.com/berkeley.edu/rebecca-jarvis/">Becky</a> is a Ph.D. candidate in linguistics at UC Berkeley. </p>
-
-    <h3> Katie Russell </h3>
-        <p> <a href="https://www.krrussell.com">Katie</a> is a Ph.D. candidate in linguistics at UC Berkeley. </p> 
-
-    <h3> Siddharth Ganapathy </h3>
-        <p> Siddharth is an undergraduate student in computer science and linguistics at UC Berkeley. </p> 
-
-    <h3> Lindsay Hatch </h3>
-        <p> Lindsay is an undergraduate student in linguistics at UC Berkeley. </p> 
-
-    <h3> Marie-Anne Xu </h3>
-        <p> Marie-Anne is an undergraduate student in EECS at UC Berkeley. </p> 
+    <h3> Amber Galvano </h3>
+        <p> <a href="https://ambergalvano.weebly.com/">Amber</a> is a Ph.D. student in Linguistics at UC Berkeley. </p>
 
       </div>
       }
@@ -133,45 +116,29 @@ var HomepageFR = React.createClass(
   return   <div className='ui text container'> 
 
 
-      <h1 className='ui dividing header'>Recueil de contes et chants Atchan </h1>
-      <h2 >ÁCAN NANMƐ LÊ ÁLƐ́BHƆ́ </h2>
+      <h1 className='ui dividing header'>Langue et culture Lobi</h1>
+      <h2 >Lobi dɪɪrɪ</h2>
 
       <div className="ui segment">
       <img className="ui medium spaced rounded image" src="./images/Anono_street.jpg"></img>
       <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
       </div>
 
-    <p> Ce site web fait la collection de textes, chansons et contes en langue atchan plus connue sous le nom ébrié. 
-      Cette langue est parlée par les Ébrié qui se nomment eux-mêmes Tchaman et qui vivent dans une soixantaine de villages tous situés à Abidjan (actuelle capitale de la Côte d'Ivoire) et ses alentours. 
-      Selon la classification de Williamson & Blench (2000:18), l'atchan forme, avec le nghlwa (mbatto), le sous-groupe Potou, lui-même issu du groupe Kwa appartenant à la Famille Niger-Congo. 
-      Les éléments collectés ici vous permettront d'apprendre davantage sur le peuple, sa langue et ses us et coutumes.   </p> 
+    <p> Ce site est en construction. </p> 
   
-    <p> Ce site est une collaboration entre Dr Yao Maxime Dido, Professeur de linguistique à l'Université Alassane Ouattara de Bouaké (Côte d'Ivoire) et des linguistes de l'Université de Berkeley en Californie aux USA. 
-      Dr Dido a participé à la mise en place de l'orthographe de l'atchan avec le Prof. Rémy Bôle-Richard, un linguiste spécialiste des langues Ouest-Africaines, qui en est le concepteur.</p>
-    
-    <p> C'est un site qui sert de ressource d'abord aux Tchaman, ensuite aux chercheurs qui souhaitent en savoir plus sur la langue. </p>
+    <p> Ce site Web est le fruit d'une collaboration entre Sansan Claude Hien et des linguistes de l'Université de Californie à Berkeley. </p>
+
+    <p> Ce site Web est destiné avant tout à être une ressource pour le peuple Lobi, mais également pour les apprenants de tous horizons qui souhaitent en savoir plus sur la langue et la culture Lobi. </p>
     
     <h1 className='ui dividing header'>Membres du projet</h1>
 
     {/* <h2> (Visit the Storytellers page to learn more about the people who you see and hear in the texts.) </h2> */}
 
-    <h3> Yao Maxime Dido </h3>
-        <p> Dr Dido est locuteur natif de l'atchan, originaire du village de Blockhauss et auteur d'articles publiés sur sa langue maternelle de 2018 à 2021 et prévoit de publier d'autres dans les mois à venir. </p> 
+    <h3> Sansan Claude Hien </h3>
+        <p> À déterminer </p> 
 
-    <h3> Becky Jarvis </h3>
-        <p> <a href="http://sites.google.com/berkeley.edu/rebecca-jarvis/">Becky</a> est candidate au doctorat en linguistique à l’Université de Californie à Berkeley.  </p>
-
-    <h3> Katie Russell </h3>
-        <p> <a href="http://www.krrussell.com">Katie</a> est candidate au doctorat en linguistique à l’Université de Californie à Berkeley. </p> 
-
-    <h3> Siddharth Ganapathy </h3>
-        <p> Siddharth est étudiant en informatique et linguistique à l’Université de Californie à Berkeley. </p> 
-
-    <h3> Lindsay Hatch </h3>
-        <p> Lindsay est étudiante en linguistique à l’Université de Californie à Berkeley. </p> 
-
-    <h3> Marie-Anne Xu </h3>
-        <p> Marie-Anne est étudiante en génie électrique et informatique  à l'Université de Californie à Berkeley. </p> 
+    <h3> Amber Galvano </h3>
+        <p> <a href="https://ambergalvano.weebly.com/">Amber</a> est doctorante en linguistique à l'Université de Californie à Berkeley.  </p>
 
         </div>
         }
@@ -542,7 +509,7 @@ var OrthographyFR = React.createClass(
           <tr>
               <td data-label="IPA">r</td>
               <td data-label="Orthography">r</td>
-              <td data-label="Example">bwri ‘ratte’</td>
+              <td data-label="Example">bwri ‘rat’</td>
           </tr>
           <tr>
             <td data-label="IPA">ɲ</td>
@@ -552,7 +519,7 @@ var OrthographyFR = React.createClass(
           <tr>
             <td data-label="IPA">ŋʷ</td>
             <td data-label="Orthography"><b>w</b></td>
-            <td data-label="Example">wan ‘ramperl’</td>
+            <td data-label="Example">wan ‘ramper’</td>
           </tr>
           <tr>
               <td data-label="IPA">i</td>
@@ -615,190 +582,6 @@ var OrthographyFR = React.createClass(
 )
 
 //React Class for a single story view
-// var StoryView = React.createClass({
-//   //React object state
-//   //
-//   //sentence: loaded flag and sentence data
-//   //story: loaded flag and story data
-//   //show_gloss: flag true if we show interlinear gloss lines
-//   getInitialState: function() {
-//     return {sentence: {data: [], loaded: false},
-//             story: {data: [], loaded: false},
-//             show_gloss: false,
-//             show_gloss_fr: false,
-//             story_view: false, 
-//             french_view: true, // EDIT: added french toggle
-//             french_story: {data: [], loaded: false}
-//             };
-//   },
-//   //queue uploading of story and sentence data when this component is mounted
-//   componentDidMount: function() {
-//     story_data_promise.then(function(rawdata){
-//       this.setState({story:{data: rawdata.rows, loaded: true}});
-//     }.bind(this));
-
-//     sentence_data_promise.then(function(sentences){
-//       this.setState({sentence:{data: sentences, loaded: true}});
-//     }.bind(this));
-//   },
-//   //only ready to display story when story and sentence data have loaded
-//   loaded: function() {
-//     return this.state.story.loaded && this.state.sentence.loaded;
-//   },
-//   // Get the story object
-//   getStory: function() {
-//     var arr = this.state.story.data;
-//     for (var i = 0; i < arr.length; i++) {
-//       var o = arr[i];
-//       if (o.key == this.props.params.key) {
-//         return  o.value;
-//       }
-//     }
-//     return {};
-//   },
-//   //return name of story by searching story data for this story's id
-//   getStoryName: function() {
-//     return _.get(this.getStory(), 'name', "<Unknown Story>");
-//   },
-//   getStoryName_fr: function() {
-//     return _.get(this.getStory(), 'name_fr', "<Unknown Story>");
-//   },
-//   //return author of story by searching story data for this story's id
-//   getStoryAuthor: function() {
-//     return _.get(this.getStory(), 'author', "");
-//   },
-//   //toggles interlinear gloss or not
-//   toggleGloss: function() {
-//     var new_show_gloss = !this.state.show_gloss;
-//     var new_show_gloss_fr = !this.state.show_gloss_fr;
-//     var new_story_view = this.state.story_view;
-//     if(new_show_gloss) {
-//       new_story_view = false;
-//     }
-//     this.setState({show_gloss: new_show_gloss,
-//                    show_gloss_fr: new_show_gloss_fr,
-//                     story_view: new_story_view});
-//   },
-//   //toggles story view
-//   toggleStoryView: function() {
-//     var new_show_gloss = this.state.show_gloss;
-//     var new_show_gloss_fr = this.state.show_gloss_fr;
-//     var new_story_view = !this.state.story_view;
-//     var new_french_view = this.state.french_view; // EDIT
-//     if(new_story_view) {
-//       new_show_gloss = false;
-//       new_show_gloss_fr = false;
-//     }
-//     this.setState({show_gloss: new_show_gloss,
-//                    show_gloss_fr: new_show_gloss,
-//                     story_view: new_story_view,
-//                     french_view: new_french_view}); // EDIT
-//   },
-//   //renders component
-//   render: function() {
-//     // If we haven't loaded yet, just render the dimmer.
-//     if (!this.loaded()) {
-//       return <div className="ui active dimmer">
-//         <div className="ui text loader">Loading</div>
-//       </div>;
-//     }
-//     // process sentence data to render alignment of morphemes/glosses and show one clause per line
-//     // lodash chaining: https://lodash.com/docs#_
-//     var sentences;
-//     var story_sentences = _(this.state.sentence.data).filter(
-//       // render sentences from this story
-//       function(x){
-//         return x.value.story == this.props.params.key;
-//       }.bind(this)
-//     );
-//     if (this.state.story_view) {
-//       var sentence_rows = story_sentences.map(
-//         function(x) {
-//             return [
-//               (
-//                 <div key={x.key + "-1"} className="eight wide column"
-//                     style={{"padding": "0px"}}>
-//                   <Sentence sentence={x.value.sentence}
-//                             only_utterance="true" />
-//                 </div>
-//               ),
-//               (
-//                 <div key={x.key + "-2"} className="eight wide column"
-//                     style={{"padding": "0px"}}>
-//                   <Sentence sentence={x.value.sentence}
-//                             only_translation="true" />
-//                 </div>
-//               )
-//             ];
-//         }.bind(this)
-//       ).value();
-      
-//       sentences = (
-//         <div className='ui text container'
-//             style={{"padding-top": "14px"}}>
-//           <div className="ui grid">
-//             <div className="eight wide column"
-//                 style={{"padding": "0px"}}>
-//                 <h2>Atchan</h2>
-//             </div>
-//             <div className="eight wide column"
-//                 style={{"padding": "0px"}}>
-//                 <h2>English</h2>
-//             </div>
-//           {sentence_rows}
-//           </div>
-//         </div>
-//       );
-//       // }
-//     } else {
-//       sentences = story_sentences.map(
-//         // how to render a sentence
-//         function(x){
-//           return <Sentence key={x.key}
-//                     sentence={x.value.sentence}
-//                     show_gloss={this.state.show_gloss}
-//                     show_gloss_fr={this.state.show_gloss_fr}/>;
-//         }.bind(this)
-//       ).value();
-//     }
-
-//     return (
-//       <div>
-//         <h1>{this.getStoryName()}</h1> by {this.getStoryAuthor()} <div className="ui form">
-
-//           <div className="grouped fields">
-//             <label>View Options</label>
-
-//             <div className="field">
-//               <div className="ui slider checkbox">
-//                 <input type="radio" name="throughput" checked={this.state.show_gloss} onChange={this.toggleGloss}> </input>
-//                 <label>Show Glosses</label>
-//               </div>
-//             </div>
-
-//             <div className="field">
-//               <div className="ui slider checkbox">
-//                 <input type="radio" name="throughput" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
-//                 <label>Story View</label>
-//               </div>
-//             </div>
-
-//             {/* <iframe width="560" height="315" 
-//             src="https://www.youtube.com/embed/fMIiQwCIzGQ?si=d3gMisqGeOdMJyw1" 
-//             title="YouTube video player" 
-//             frameborder="0" 
-//             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-//             </iframe> */}
-          
-//           </div>
-//         </div>
-//         {sentences}
-//       </div>
-//     );
-
-//   }
-// });
-
 var StoryView = React.createClass({
   //React object state
   //
@@ -808,12 +591,9 @@ var StoryView = React.createClass({
   getInitialState: function() {
     return {sentence: {data: [], loaded: false},
             story: {data: [], loaded: false},
-            show_ipa: false,
-            show_orthography: false,
             show_gloss: false,
-            show_gloss_fr: false,
             story_view: false, 
-            story_view_fr: true, // EDIT: added french toggle
+            french_view: true, // EDIT: added french toggle
             french_story: {data: [], loaded: false}
             };
   },
@@ -837,7 +617,7 @@ var StoryView = React.createClass({
     for (var i = 0; i < arr.length; i++) {
       var o = arr[i];
       if (o.key == this.props.params.key) {
-        return o.value;
+        return  o.value;
       }
     }
     return {};
@@ -856,65 +636,24 @@ var StoryView = React.createClass({
   //toggles interlinear gloss or not
   toggleGloss: function() {
     var new_show_gloss = !this.state.show_gloss;
-    // var new_show_gloss_fr = this.state.show_gloss_fr;
     var new_story_view = this.state.story_view;
     if(new_show_gloss) {
       new_story_view = false;
-      new_show_ipa = false;
     }
     this.setState({show_gloss: new_show_gloss,
-                   show_ipa: new_show_ipa,
-                   story_view: new_story_view});
-  },
-  toggleIPA: function() {
-    var new_show_ipa = !this.state.show_ipa;
-    var new_story_view = this.state.story_view;
-    if (new_show_ipa) {
-      new_story_view = false;
-    }
-    this.setState({show_ipa: new_show_ipa,
-                  //   show_gloss: new_show_gloss,
-                  //  show_gloss_fr: this.state.show_gloss_fr,
-                   story_view: new_story_view});
-  },
-  showIPAToggle: function() {
-    if (this.state.show_gloss) {
-      return <div className="field">
-        <div className="ui slider checkbox">
-        <input type="radio" name="throughput" checked={this.state.show_ipa} onChange={this.toggleIPA}> </input>
-        <label>Show IPA</label>
-      </div>
-    </div>
-    }
-    else {return;}
+                    story_view: new_story_view});
   },
   //toggles story view
   toggleStoryView: function() {
     var new_show_gloss = this.state.show_gloss;
-    // var new_show_gloss_fr = this.state.show_gloss_fr;
     var new_story_view = !this.state.story_view;
     var new_french_view = this.state.french_view; // EDIT
     if(new_story_view) {
       new_show_gloss = false;
-      // new_show_gloss_fr = false;
     }
     this.setState({show_gloss: new_show_gloss,
-                  //  show_gloss_fr: new_show_gloss_fr,
                     story_view: new_story_view,
                     french_view: new_french_view}); // EDIT
-  },
-  //  TODO: embed video links from story index
-  showVideo: function() {
-    var link = _.get(this.getStory(), 'link', "");
-    if (link != "") {
-      return <iframe width="560" height="315" 
-              src={link}
-              title="YouTube video player" 
-              frameborder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-            </iframe>
-    }
-    else {return;}
   },
   //renders component
   render: function() {
@@ -941,7 +680,7 @@ var StoryView = React.createClass({
                 <div key={x.key + "-1"} className="eight wide column"
                     style={{"padding": "0px"}}>
                   <Sentence sentence={x.value.sentence}
-                            only_orthography="true" />
+                            only_utterance="true" />
                 </div>
               ),
               (
@@ -978,14 +717,15 @@ var StoryView = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
-                    show_gloss={this.state.show_gloss}
-                    show_ipa={this.state.show_ipa}
-                    show_french={false}/>;
-                    // show_gloss_fr={this.state.show_gloss_fr}/>;
+                    show_gloss={this.state.show_gloss}/>;
         }.bind(this)
       ).value();
     }
-
+    // render story content page with title and checkbox to toggle interlinear gloss display
+    // if (self.state.french_view) {
+    //   story_name = this.getStoryName_fr();
+    // }
+    // else {story_name = this.getStoryName();}
     return (
       <div>
         <h1>{this.getStoryName()}</h1> by {this.getStoryAuthor()} <div className="ui form">
@@ -1000,8 +740,6 @@ var StoryView = React.createClass({
               </div>
             </div>
 
-            {this.showIPAToggle()}
-
             <div className="field">
               <div className="ui slider checkbox">
                 <input type="radio" name="throughput" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
@@ -1009,13 +747,12 @@ var StoryView = React.createClass({
               </div>
             </div>
 
-            {/* <iframe width="560" height="315" 
+            <iframe width="560" height="315" 
             src="https://www.youtube.com/embed/fMIiQwCIzGQ?si=d3gMisqGeOdMJyw1" 
             title="YouTube video player" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-            </iframe> */}
-            {this.showVideo()}
+            </iframe>
           
           </div>
         </div>
@@ -1036,8 +773,6 @@ var StoryViewFR = React.createClass({
     return {sentence: {data: [], loaded: false},
             story: {data: [], loaded: false},
             show_gloss: false,
-            show_gloss_fr: false,
-            show_ipa: false,
             story_view: false, 
             french_view: true, // EDIT: added french toggle
             french_story: {data: [], loaded: false}
@@ -1079,71 +814,27 @@ var StoryViewFR = React.createClass({
   getStoryAuthor: function() {
     return _.get(this.getStory(), 'author', "");
   },
-  // toggles IPA
-  toggleIPA: function() {
-    var new_show_ipa = !this.state.show_ipa;
-    var new_story_view = this.state.story_view;
-    if (new_show_ipa) {
-      new_story_view = false;
-    }
-    this.setState({show_ipa: new_show_ipa,
-                  //   show_gloss: new_show_gloss,
-                  //  show_gloss_fr: this.state.show_gloss_fr,
-                   story_view: new_story_view});
-  },
-  showIPAToggle: function() {
-    if (this.state.show_gloss_fr) {
-      return <div className="field">
-        <div className="ui slider checkbox">
-        <input type="radio" name="throughput" checked={this.state.show_ipa} onChange={this.toggleIPA}> </input>
-        <label>Show IPA</label>
-      </div>
-    </div>
-    }
-    else {return;}
-  },
   //toggles interlinear gloss or not
   toggleGloss: function() {
-    var new_show_gloss_fr = !this.state.show_gloss_fr;
-    // var new_show_gloss_fr = this.state.show_gloss_fr;
+    var new_show_gloss = !this.state.show_gloss;
     var new_story_view = this.state.story_view;
-    if (new_show_gloss_fr) {
+    if(new_show_gloss) {
       new_story_view = false;
-      new_show_ipa = false;
     }
-    this.setState({show_gloss_fr: new_show_gloss_fr,
-                   show_ipa: new_show_ipa,
-                  //  show_gloss_fr: this.state.show_gloss_fr,
-                   story_view: new_story_view});
+    this.setState({show_gloss: new_show_gloss,
+                    story_view: new_story_view});
   },
   //toggles story view
   toggleStoryView: function() {
-    // var new_show_gloss = this.state.show_gloss;
-    var new_show_gloss_fr = this.state.show_gloss_fr;
+    var new_show_gloss = this.state.show_gloss;
     var new_story_view = !this.state.story_view;
-    var new_french_view = this.state.french_view; // EDIT
+    // var new_french_view = this.state.french_view; // EDIT
     if(new_story_view) {
-      // new_show_gloss = false;
-      new_show_gloss_fr = false;
-      // new_show_ipa = false;
+      new_show_gloss = false;
     }
-    this.setState({// show_gloss: new_show_gloss,
-                    show_gloss_fr: new_show_gloss_fr,
-                    // show_ipa: new_show_ipa,
+    this.setState({show_gloss: new_show_gloss,
                     story_view: new_story_view,
-                    french_view: new_french_view}); // EDIT
-  },
-  showVideo: function() {
-    var link = _.get(this.getStory(), 'link', "");
-    if (link != "") {
-      return <iframe width="560" height="315" 
-              src={link}
-              title="YouTube video player" 
-              frameborder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-            </iframe>
-    }
-    else {return;}
+                    french_view: global_show_french}); // EDIT
   },
   //renders component
   render: function() {
@@ -1172,7 +863,7 @@ var StoryViewFR = React.createClass({
                   <div key={x.key + "-1"} className="eight wide column"
                         style={{"padding": "0px"}}>
                     <Sentence sentence={x.value.sentence}
-                              only_orthography="true" />
+                              only_utterance="true" />
                   </div>
                 ),
                 (
@@ -1209,9 +900,7 @@ var StoryViewFR = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
-                    show_gloss_fr={this.state.show_gloss_fr}
-                    show_ipa={this.state.show_ipa}
-                    show_french={true}/>;
+                    show_gloss={this.state.show_gloss}/>;
         }.bind(this)
       ).value();
     }
@@ -1225,25 +914,28 @@ var StoryViewFR = React.createClass({
         <h1>{this.getStoryName()}</h1> de {this.getStoryAuthor()} <div className="ui form">
 
           <div className="grouped fields">
-            <label>View Options FR</label>
+            <label>View Options</label>
 
             <div className="field">
               <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.show_gloss_fr} onChange={this.toggleGloss}> </input>
-                <label>Show Glosses FR</label>
+                <input type="radio" name="throughput" checked={this.state.show_gloss} onChange={this.toggleGloss}> </input>
+                <label>Show Glosses</label>
               </div>
             </div>
-
-            {this.showIPAToggle()}
 
             <div className="field">
               <div className="ui slider checkbox">
                 <input type="radio" name="throughput" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
-                <label>Story View FR</label>
+                <label>Story View</label>
               </div>
             </div>
 
-            {this.showVideo()}
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/fMIiQwCIzGQ?si=d3gMisqGeOdMJyw1" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+            </iframe>
           
           </div>
         </div>
@@ -2193,21 +1885,11 @@ var TextBoxFR = React.createClass({
 var Sentence = React.createClass({
   render: function() {
     var gloss = '';
-    var gloss_fr = '';
-    // var ipa = '';
-    var orthography = '';
-    // var show_french = false;
-    // var show_ipa = true;
-    var lang_display;
     var sentence = this.props.sentence;
 
-    if (!(this.props.show_gloss || this.props.show_gloss_fr)) {
-      orthography = <b>{sentence.orthography}</b>;
-    }
-
-    if (this.props.only_orthography) {
+    if (this.props.only_utterance) {
       return <div style={{marginBottom: "10px"}}>
-        {sentence.orthography}
+        {sentence.utterance}
       </div>;
     }
 
@@ -2222,99 +1904,29 @@ var Sentence = React.createClass({
         {sentence.french}
       </div>;
     }
-
-    // if (this.props.show_ipa) {
-    //   ipa =  <div style={{marginBottom: "10px"}}>
-    //     {sentence.morphemes}
-    //   </div>;
-    // }
-
-    if (this.props.show_french) {
-      lang_display = <span>{sentence.french}<br/></span>
-    }
-    else {lang_display = <span>{sentence.translation}<br/></span>}
     
     // interlinear gloss alignment
     if (this.props.show_gloss) {
-      // var morphemes = sentence.morphemes.split(' ');
-      // var glosses = sentence.gloss.split(' ');
-      // var pairs = _.zip(morphemes, glosses);
-      // // render one inline block div containing morpheme and gloss per word
-      // var glosses = _(pairs).map(function(x, i){
-      //   var morpheme = x[0];
-      //   var gloss = x[1];
-      //   // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
-      //   return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{gloss}</div>
-      // }.bind(this)).value();
-      // gloss = <span>{glosses}<br/></span>;
-      if (this.props.show_ipa) {
-        var morphemes = sentence.morphemes.split(' ');
-        var glosses = sentence.gloss.split(' ');
-        var pairs = _.zip(morphemes, glosses);
-      }
-      else {
-        var orthography = sentence.orthography.split(' ');
-        var glosses = sentence.gloss.split(' ');
-        var pairs = _.zip(orthography, glosses);
-      }
-      
-      // var pairs = _.zip(orthography, glosses);
+      var morphemes = sentence.morphemes.split(' ');
+      var glosses = sentence.gloss.split(' ');
+      var pairs = _.zip(morphemes, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(pairs).map(function(x, i){
         var morpheme = x[0];
         var gloss = x[1];
-        // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{morpheme}</b><br/>{gloss}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
       }.bind(this)).value();
       gloss = <span>{glosses}<br/></span>;
     }
 
-    if (this.props.show_gloss_fr) {
-      // var morphemes = sentence.morphemes.split(' ');
-      // var glosses_fr = sentence.gloss_fr.split(' ');
-      // var pairs = _.zip(morphemes, glosses_fr);
-      // // render one inline block div containing morpheme and gloss per word
-      // var glosses_fr = _(pairs).map(function(x, i){
-      //   var morpheme = x[0];
-      //   var gloss_fr = x[1];
-      //   // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
-      //   return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{gloss_fr}</div>
-      // }.bind(this)).value();
-      // gloss_fr = <span>{glosses_fr}<br/></span>;
-
-      if (this.props.show_ipa) {
-        var morphemes = sentence.morphemes.split(' ');
-        var glosses_fr = sentence.gloss_fr.split(' ');
-        var pairs = _.zip(morphemes, glosses_fr);
-      }
-      else {
-        var orthography = sentence.orthography.split(' ');
-        var glosses_fr = sentence.gloss_fr.split(' ');
-        var pairs = _.zip(orthography, glosses_fr);
-      }
-      
-      // var pairs = _.zip(orthography, glosses);
-      // render one inline block div containing morpheme and gloss per word
-      var glosses_fr = _(pairs).map(function(x, i){
-        var alignment_ref = x[0];
-        var gloss_fr = x[1];
-        // return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss_fr}</div>
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}><b>{alignment_ref}</b><br/>{gloss_fr}</div>
-      }.bind(this)).value();
-      gloss_fr = <span>{glosses_fr}<br/></span>;
-    }
-
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
-      <b>{sentence.orthography}</b><br/>
-      {/* {ipa} */}
+      <b>{sentence.utterance}</b><br/>
       {gloss}
-      {gloss_fr}
-      {/* {<span>{sentence.translation}<br/></span>}
-      {sentence.french} */}
-      {lang_display}
+      {<span>{sentence.translation}<br/></span>}
+      {sentence.french}
     </div>
-  }
+  } // EDIT: sentence.translation to <span>{sentence.translation}<br/></span> to add french
 });
 
 
@@ -2518,7 +2130,7 @@ var App = React.createClass({
             <div className="ui slider checkbox">
             <input type="radio" name="toggle_lang" checked={global_show_french} onChange={this.toggleLang}> </input>
             
-            <label>Français 🇫🇷</label>
+            <label>French 🇫🇷</label>
             </div>
           </div>
       {/* <Link to={gloss} className='right item' ref='glossingPopupActivator'>{gloss_label}
