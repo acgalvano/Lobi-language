@@ -1,12 +1,12 @@
 var Homepage = React.createClass(
         
-    {render: function() {
+  {render: function() {
 //=========================HOMEPAGE===============================
-     return   <div className='ui text container'> 
+  return   <div className='ui text container'> 
 
 
     <h1 className='ui dividing header'>Lobi language & culture</h1>
-    <h2 >Langue et culture Lobi</h2>
+    <h2 >Lobi dɪɪrɪ</h2>
 
     <div className="ui segment">
     <img className="ui medium spaced rounded image" src="./images/Sansan_smiling.png"></img>
@@ -17,7 +17,7 @@ var Homepage = React.createClass(
   
     <p>This website is a collaboration between Sansan Claude Hien and linguists at the University of California, Berkeley. </p>
     
-    <p>This website is intended first and foremost as a resource for the Lobi people, and in addition for language-learners who are interested in learning more about the Lobi language.</p>
+    <p>This website is intended first and foremost as a resource for the Lobi people, and in addition for learners of all backgrounds who are interested in learning more about Lobi language & culture. </p>
     
     <h1 className='ui dividing header'>Project members</h1>
 
@@ -27,7 +27,7 @@ var Homepage = React.createClass(
         <p> TBD </p> 
 
     <h3> Amber Galvano </h3>
-        <p> <a href="https://ambergalvano.weebly.com/">Amber</a> is a Ph.D. student in linguistics at UC Berkeley. </p>
+        <p> <a href="https://ambergalvano.weebly.com/">Amber</a> is a Ph.D. student in Linguistics at UC Berkeley. </p>
 
       </div>
       }
