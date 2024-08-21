@@ -1,5 +1,5 @@
 var Homepage = React.createClass(
-        
+
   {render: function() {
 //=========================HOMEPAGE===============================
   return   <div className='ui text container'> 
