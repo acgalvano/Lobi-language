@@ -82,12 +82,12 @@ var Homepage = React.createClass(
   return   <div className='ui text container'> 
 
 
-    <h1 className='ui dividing header'>Atchan Song and Story Corpus</h1>
+    <h1 className='ui dividing header'>Langue et culture Lobi</h1>
     <h2 >ÁCAN NANMƐ LÊ ÁLƐ́BHƆ́ </h2>
 
     <div className="ui segment">
-    <img className="ui medium spaced rounded image" src="./images/Anono_street.jpg"></img>
-    <img className="ui medium spaced rounded image" src="./images/Blockhauss_ceremony.jpg"></img>
+    <img className="ui medium spaced rounded image" src="./images/Sansan_smiling.PNG"></img>
+    <img className="ui medium spaced rounded image" src="./images/Sansan_serious.PNG"></img>
     </div>
         
     <p>This website contains a collection of texts, songs, and stories in the Atchan language (also known as Ébrié). 
