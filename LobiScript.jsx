@@ -99,7 +99,7 @@ var Homepage = React.createClass(
     {/* <h2> (Visit the Storytellers page to learn more about the people who you see and hear in the texts.) </h2> */}
 
     <h3> Sansan Claude Hien </h3>
-        <p> TBD </p> 
+        <p> Lobi speaker </p> 
 
     <h3> Amber Galvano </h3>
         <p> <a href="https://ambergalvano.weebly.com/">Amber</a> is a Ph.D. student in Linguistics at UC Berkeley. </p>
