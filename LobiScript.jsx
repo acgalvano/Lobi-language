@@ -152,16 +152,16 @@ var Orthography = React.createClass(
           <h1 className='ui dividing header'>Orthography</h1>
           <table className='ui unstackable celled table '>
           <thead>
-            <tr><th>IPA</th>
-            <th>Orthography</th>
-            <th>Example (from Bôle-Richard & Dido book)</th>
+            <tr><th>Sound</th>
+            <th>French analogue</th>
+            <th>Example in Lobi (w/ English/French translations)</th>
           </tr></thead>
 
           <tbody>
           <tr>
-            <td data-label="IPA">p</td>
-            <td data-label="Orthography">p</td>
-            <td data-label="Job">ápɛn ‘debt’</td>
+            <td data-label="IPA">i</td>
+            <td data-label="Orthography">mil</td>
+            <td data-label="Example">síí, ‘snake/serpent’; dìì, ‘yesterday/hier’</td>
           </tr>
           <tr>
             <td data-label="IPA">pʰ</td>
