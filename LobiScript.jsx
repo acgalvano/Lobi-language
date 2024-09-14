@@ -175,34 +175,34 @@ var Orthography = React.createClass(
             <td data-label="Example">dɪɪ, ‘village/village’; bɪɛl, ‘one/un’</td>
           </tr>
           <tr>
-              <td data-label="IPA">t</td>
-              <td data-label="Orthography">t</td>
-              <td data-label="Example">áta ‘insult’</td>
+              <td data-label="IPA">ɪ̃</td>
+              <td data-label="Orthography">–</td>
+              <td data-label="Example">cɪ̃ncɛ̃́nã́, ‘flies/mouches’; ɪ̃nɛ̃, ‘to come/viens’</td>
           </tr>
           <tr>
-            <td data-label="IPA">tʰ</td>
-            <td data-label="Orthography"><b>th</b></td>
-            <td data-label="Example">átha ‘war’</td>
+            <td data-label="IPA">e</td>
+            <td data-label="Orthography">fée</td>
+            <td data-label="Example">féé (or fér), ‘breath (noun)/respiration’; déékùn, ‘joking ally/allier a plaisantérie’</td>
           </tr>
           <tr>
-              <td data-label="IPA">d</td>
-              <td data-label="Orthography">d</td>
-              <td data-label="Example">du ‘snake’</td>
+              <td data-label="IPA">ẽ</td>
+              <td data-label="Orthography">beignet</td>
+              <td data-label="Example">mɪ̃́ɪ̃̀n ɟẽ́, ‘my uncle’</td>
           </tr>
           <tr>
-              <td data-label="IPA">c</td>
-              <td data-label="Orthography">c</td>
-              <td data-label="Example">ácɔn ‘fish’</td>
+              <td data-label="IPA">ɛ</td>
+              <td data-label="Orthography">mère</td>
+              <td data-label="Example">khɛ́r, ‘woman/femme’; pɛ́ɛ́, ‘intestines/intestins’; ɓɛ̀ɓɛ́, ‘Kpèkpè'</td>
           </tr>
           <tr>
-            <td data-label="IPA">cʰ</td>
-            <td data-label="Orthography"><b>ch</b></td>
-            <td data-label="Example">chɔn ‘hen’</td>
+            <td data-label="IPA">ɛ̃</td>
+            <td data-label="Orthography">main</td>
+            <td data-label="Example">ɲɛ̃̀ɛ̃̀, ‘arms/mains’</td>
           </tr>
           <tr>
-            <td data-label="IPA">ɟ</td>
-            <td data-label="Orthography"><b>j</b></td>
-            <td data-label="Example">ájí ‘respect’</td>
+            <td data-label="IPA">a</td>
+            <td data-label="Orthography">bal</td>
+            <td data-label="Example">j’àá, ‘market/marchè; week/semaine’</td>
           </tr>
           <tr>
               <td data-label="IPA">k</td>
