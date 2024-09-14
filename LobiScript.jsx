@@ -163,11 +163,13 @@ var Orthography = React.createClass(
             <td data-label="IPA">i</td>
             <td data-label="Orthography">mil</td>
             <td data-label="Example">síí, ‘snake/serpent’; dìì, ‘yesterday/hier’</td>
-          </tr>
+          
           <tr>
-            <td data-label="IPA">pʰ</td>
-            <td data-label="Orthography"><b>ph</b></td>
-            <td data-label="Example">áphɛ̂n ‘twenty’</td>
+            <td data-label="IPA">ĩ</td>
+            <td data-label="Orthography"><b>digne</b></td>
+            <td data-label="Example">anĩ̀ĩ̀ ‘oil/huile’; sĩ̀ĩ̀ ‘urine/urine’</tr>
+
+</td>
           </tr>
           <tr>
             <td data-label="IPA">b</td>
