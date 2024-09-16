@@ -205,49 +205,49 @@ var Orthography = React.createClass(
             <td data-label="Example">j’àá, ‘market/marchè; week/semaine’</td>
           </tr>
           <tr>
-              <td data-label="IPA">k</td>
-              <td data-label="Orthography">k</td>
-              <td data-label="Example">áko ‘hunger’</td>
+              <td data-label="IPA">ã</td>
+              <td data-label="Orthography">maman</td>
+              <td data-label="Example">bã́ã́nbri, ‘bracelet/bracelet/’</td>
           </tr>
           <tr>
-            <td data-label="IPA">kʰ</td>
-            <td data-label="Orthography"><b>kh</b></td>
-            <td data-label="Example">ákhɔ́ ‘friendship’</td>
+            <td data-label="IPA">u</td>
+            <td data-label="Orthography">vous</td>
+            <td data-label="Example">pùr, ‘pigeon/pigeon’</td>
           </tr>
           <tr>
-              <td data-label="IPA">g</td>
-              <td data-label="Orthography">g</td>
-              <td data-label="Example">gwe ‘sea’</td>
+              <td data-label="IPA">ũ</td>
+              <td data-label="Orthography">-</td>
+              <td data-label="Example">kũ̀(n) ‘man, garçon/friend, ami(e)’</td>
           </tr>
           <tr>
-              <td data-label="IPA">kp</td>
-              <td data-label="Orthography">kp</td>
-              <td data-label="Example">kpakpâ ‘papaya’</td>
+              <td data-label="IPA">ʊ</td>
+              <td data-label="Orthography">-</td>
+              <td data-label="Example">bʊ̀, ‘goat’/cabri; cʊ́lá, ‘pistachio/pistache’; ɟʊ̀r, ‘fufu/foutou’</td>
           </tr>
           <tr>
-              <td data-label="IPA">gb</td>
-              <td data-label="Orthography">gb</td>
-              <td data-label="Example">gba ‘dog’</td>
+              <td data-label="IPA">ʊ̃</td>
+              <td data-label="Orthography">-</td>
+              <td data-label="Example">á gʊ̃́nɛ̃́, ‘he climbed/il est monté’</td>
           </tr>
           <tr>
-              <td data-label="IPA">f</td>
-              <td data-label="Orthography">f</td>
-              <td data-label="Example">ńfɛ ‘eggplant’</td>
+              <td data-label="IPA">o</td>
+              <td data-label="Orthography">mot</td>
+              <td data-label="Example">lóbi, ‘Lobi’; mĩ́ĩ̀ kó, ‘my husband/mon mari’</td>
           </tr>
           <tr>
-              <td data-label="IPA">v</td>
-              <td data-label="Orthography">v</td>
-              <td data-label="Example">nvrâ ‘appattam’</td>
+              <td data-label="IPA">õ</td>
+              <td data-label="Orthography">-</td>
+              <td data-label="Example">lṍṍ, ‘door/porte’</td>
           </tr>
           <tr>
-              <td data-label="IPA">s</td>
-              <td data-label="Orthography">s</td>
-              <td data-label="Example">asa ‘gecko’</td>
+              <td data-label="IPA">ɔ</td>
+              <td data-label="Orthography">force</td>
+              <td data-label="Example">ɔ̀lɟɔ́, ‘corn/maïs’, lɔ́ɔ́, ‘farm/champ’</td>
           </tr>
           <tr>
-              <td data-label="IPA">z</td>
-              <td data-label="Orthography">z</td>
-              <td data-label="Example">zúmwɛn ‘fish species’</td>
+              <td data-label="IPA">ɔ̃</td>
+              <td data-label="Orthography">montagne</td>
+              <td data-label="Example">gɔ̃́gʊ̃́wɔ̃̀(n), ‘mountain’/montagne’</td>
           </tr>
           <tr>
               <td data-label="IPA">h</td>
