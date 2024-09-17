@@ -166,12 +166,12 @@ var Orthography = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">ĩ</td>
-            <td data-label="Orthography">digne</td>
+            <td data-label="Orthography">d<b>i</b>gne</td>
             <td data-label="Example">anĩ̀ĩ̀ ‘oil/huile’; sĩ̀ĩ̀ ‘urine/urine’</td>
           </tr>
           <tr>
             <td data-label="IPA">ɪ</td>
-            <td data-label="Orthography">miel</td>
+            <td data-label="Orthography">m<b>i</b>el</td>
             <td data-label="Example">dɪɪ, ‘village/village’; bɪɛl, ‘one/un’</td>
           </tr>
           <tr>
@@ -181,27 +181,27 @@ var Orthography = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">e</td>
-            <td data-label="Orthography">fée</td>
+            <td data-label="Orthography">f<b>é</b>e</td>
             <td data-label="Example">féé (or fér), ‘breath (noun)/respiration’; déékùn, ‘joking ally/allier a plaisantérie’</td>
           </tr>
           <tr>
               <td data-label="IPA">ẽ</td>
-              <td data-label="Orthography">beignet</td>
+              <td data-label="Orthography">beign<b>e</b>t</td>
               <td data-label="Example">mɪ̃́ɪ̃̀n ɟẽ́, ‘my uncle’</td>
           </tr>
           <tr>
               <td data-label="IPA">ɛ</td>
-              <td data-label="Orthography">mère</td>
+              <td data-label="Orthography">m<b>è</b>re</td>
               <td data-label="Example">khɛ́r, ‘woman/femme’; pɛ́ɛ́, ‘intestines/intestins’; ɓɛ̀ɓɛ́, ‘Kpèkpè'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ̃</td>
-            <td data-label="Orthography">main</td>
+            <td data-label="Orthography">m<b>ain</b></td>
             <td data-label="Example">ɲɛ̃̀ɛ̃̀, ‘arms/mains’</td>
           </tr>
           <tr>
             <td data-label="IPA">a</td>
-            <td data-label="Orthography">bal</td>
+            <td data-label="Orthography">b<b>a</b>l</td>
             <td data-label="Example">j’àá, ‘market/marchè; week/semaine’</td>
           </tr>
           <tr>
