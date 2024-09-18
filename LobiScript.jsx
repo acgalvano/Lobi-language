@@ -416,218 +416,268 @@ var Orthography = React.createClass(
 var OrthographyFR = React.createClass(
         
   {render: function() {
-      return   <div className='ui text container'>
-          <h1 className='ui dividing header'>Orthography</h1>
-          <table className='ui celled table '>
-          <thead>
-            <tr><th>IPA</th>
-            <th>Orthographe</th>
-            <th>Example (de le livre de Bôle-Richard et Dido)</th>
-          </tr></thead>
+    return   <div className='ui text container'>
+        <h1 className='ui dividing header'>Orthography</h1>
+        <h2 className='ortho dividing header'>Vowels</h2>
+        <table className='ui unstackable celled table '>
+        <thead>
+          <tr><th>Sound</th>
+          <th>French analogue</th>
+          <th>Example in Lobi (w/ English/French translations)</th>
+        </tr></thead>
 
-          <tbody>
-          <tr>
-            <td data-label="IPA">p</td>
-            <td data-label="Orthography">p</td>
-            <td data-label="Job">ápɛn ‘dette’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">pʰ</td>
-            <td data-label="Orthography"><b>ph</b></td>
-            <td data-label="Example">áphɛ̂n ‘vingt’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">b</td>
-            <td data-label="Orthography">b</td>
-            <td data-label="Example">ábɛ ‘pagaie’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">t</td>
-              <td data-label="Orthography">t</td>
-              <td data-label="Example">áta ‘insulte’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">tʰ</td>
-            <td data-label="Orthography"><b>th</b></td>
-            <td data-label="Example">átha ‘guerre’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">d</td>
-              <td data-label="Orthography">d</td>
-              <td data-label="Example">du ‘serpent’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">c</td>
-              <td data-label="Orthography">c</td>
-              <td data-label="Example">ácɔn ‘poisson’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">cʰ</td>
-            <td data-label="Orthography"><b>ch</b></td>
-            <td data-label="Example">chɔn ‘pou’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">ɟ</td>
-            <td data-label="Orthography"><b>j</b></td>
-            <td data-label="Example">ájí ‘respect’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">k</td>
-              <td data-label="Orthography">k</td>
-              <td data-label="Example">áko ‘faim’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">kʰ</td>
-            <td data-label="Orthography"><b>kh</b></td>
-            <td data-label="Example">ákhɔ́ ‘cameraderie’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">g</td>
-              <td data-label="Orthography">g</td>
-              <td data-label="Example">gwe ‘mer’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">kp</td>
-              <td data-label="Orthography">kp</td>
-              <td data-label="Example">kpakpâ ‘papaye’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">gb</td>
-              <td data-label="Orthography">gb</td>
-              <td data-label="Example">gba ‘chien’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">f</td>
-              <td data-label="Orthography">f</td>
-              <td data-label="Example">ńfɛ ‘aubergine’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">v</td>
-              <td data-label="Orthography">v</td>
-              <td data-label="Example">nvrâ ‘appattam’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">s</td>
-              <td data-label="Orthography">s</td>
-              <td data-label="Example">asa ‘margouillat’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">z</td>
-              <td data-label="Orthography">z</td>
-              <td data-label="Example">zúmwɛn ‘espèce de poisson’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">h</td>
-              <td data-label="Orthography">h</td>
-              <td data-label="Example">áhɔn ‘hache’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">ɓ</td>
-            <td data-label="Orthography"><b>bh</b></td>
-            <td data-label="Example">ábhɛ́ ‘corde’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">l</td>
-              <td data-label="Orthography">l</td>
-              <td data-label="Example">la ‘prier’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">j</td>
-            <td data-label="Orthography"><b>y</b></td>
-            <td data-label="Example">áyá ‘arbre’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">w</td>
-              <td data-label="Orthography">w</td>
-              <td data-label="Example">awɔ́ ‘chat’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">m</td>
-              <td data-label="Orthography">m</td>
-              <td data-label="Example">ńmɔ́n ‘bras’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">n</td>
-              <td data-label="Orthography">n</td>
-              <td data-label="Example">ánɛn ‘houe’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">ɗ</td>
-            <td data-label="Orthography"><b>l</b></td>
-            <td data-label="Example">lyali ‘oublier’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">r</td>
-              <td data-label="Orthography">r</td>
-              <td data-label="Example">bwri ‘rat’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">ɲ</td>
-            <td data-label="Orthography"><b>y</b></td>
-            <td data-label="Example">yɛn ‘savoir’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">ŋʷ</td>
-            <td data-label="Orthography"><b>w</b></td>
-            <td data-label="Example">wan ‘ramper’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">i</td>
-              <td data-label="Orthography">i</td>
-              <td data-label="Example">áyí ‘chose’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">e</td>
-              <td data-label="Orthography">e</td>
-              <td data-label="Example">áde ‘antilope’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">ɛ</td>
-              <td data-label="Orthography">ɛ</td>
-              <td data-label="Example">ádɛ ‘palmier’</td>
-          </tr>
-          <tr>
-            <td data-label="IPA">ɛ̃</td>
-            <td data-label="Orthography"><b>ɛn</b></td>
-            <td data-label="Example">átɛn ‘feu’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">a</td>
-              <td data-label="Orthography">a</td>
-              <td data-label="Example">áyá ‘arbre’</td>
-          </tr>
-          <tr>
+        <tbody>
+        <tr>
+          <td data-label="IPA">i</td>
+          <td data-label="Orthography">m<b>il</b></td>
+          <td data-label="Example">síí, ‘snake/serpent’; dìì, ‘yesterday/hier’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">ĩ</td>
+          <td data-label="Orthography">d<b>i</b>gne</td>
+          <td data-label="Example">anĩ̀ĩ̀ ‘oil/huile’; sĩ̀ĩ̀ ‘urine/urine’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">ɪ</td>
+          <td data-label="Orthography">m<b>i</b>el</td>
+          <td data-label="Example">dɪɪ, ‘village/village’; bɪɛl, ‘one/un’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ɪ̃</td>
+            <td data-label="Orthography">–</td>
+            <td data-label="Example">cɪ̃ncɛ̃́nã́, ‘flies/mouches’; ɪ̃nɛ̃, ‘to come/viens’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">e</td>
+          <td data-label="Orthography">f<b>é</b>e</td>
+          <td data-label="Example">féé (or fér), ‘breath (noun)/respiration’; déékùn, ‘joking ally/allier a plaisantérie’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ẽ</td>
+            <td data-label="Orthography">beign<b>e</b>t</td>
+            <td data-label="Example">mɪ̃́ɪ̃̀n ɟẽ́, ‘my uncle’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ɛ</td>
+            <td data-label="Orthography">m<b>è</b>re</td>
+            <td data-label="Example">khɛ́r, ‘woman/femme’; pɛ́ɛ́, ‘intestines/intestins’; ɓɛ̀ɓɛ́, ‘Kpèkpè'</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">ɛ̃</td>
+          <td data-label="Orthography">m<b>ain</b></td>
+          <td data-label="Example">ɲɛ̃̀ɛ̃̀, ‘arms/mains’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">a</td>
+          <td data-label="Orthography">b<b>a</b>l</td>
+          <td data-label="Example">j’àá, ‘market/marchè; week/semaine’</td>
+        </tr>
+        <tr>
             <td data-label="IPA">ã</td>
-            <td data-label="Orthography"><b>an</b></td>
-            <td data-label="Example">bran ‘animal’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">ɔ</td>
-              <td data-label="Orthography">ɔ</td>
-              <td data-label="Example">ákɔ ‘grenier’</td>
-          </tr>
-          <tr>
+            <td data-label="Orthography">maman</td>
+            <td data-label="Example">bã́ã́nbri, ‘bracelet/bracelet/’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">u</td>
+          <td data-label="Orthography">vous</td>
+          <td data-label="Example">pùr, ‘pigeon/pigeon’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ũ</td>
+            <td data-label="Orthography">-</td>
+            <td data-label="Example">kũ̀(n) ‘man, garçon/friend, ami(e)’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ʊ</td>
+            <td data-label="Orthography">-</td>
+            <td data-label="Example">bʊ̀, ‘goat’/cabri; cʊ́lá, ‘pistachio/pistache’; ɟʊ̀r, ‘fufu/foutou’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ʊ̃</td>
+            <td data-label="Orthography">-</td>
+            <td data-label="Example">á gʊ̃́nɛ̃́, ‘he climbed/il est monté’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">o</td>
+            <td data-label="Orthography">mot</td>
+            <td data-label="Example">lóbi, ‘Lobi’; mĩ́ĩ̀ kó, ‘my husband/mon mari’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">õ</td>
+            <td data-label="Orthography">-</td>
+            <td data-label="Example">lṍṍ, ‘door/porte’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ɔ</td>
+            <td data-label="Orthography">force</td>
+            <td data-label="Example">ɔ̀lɟɔ́, ‘corn/maïs’, lɔ́ɔ́, ‘farm/champ’</td>
+        </tr>
+        <tr>
             <td data-label="IPA">ɔ̃</td>
-            <td data-label="Orthography"><b>ɔn</b></td>
-            <td data-label="Example">ńmɔ́n ‘bras’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">o</td>
-              <td data-label="Orthography">o</td>
-              <td data-label="Example">agbo ‘porte’</td>
-          </tr>
-          <tr>
-              <td data-label="IPA">u</td>
-              <td data-label="Orthography">u</td>
-              <td data-label="Example">du ‘serpent’</td>
-          </tr>
+            <td data-label="Orthography">montagne</td>
+            <td data-label="Example">gɔ̃́gʊ̃́wɔ̃̀(n), ‘mountain’/montagne’</td>
+        </tr>
+      </tbody>
 
-        </tbody>
+      </table>
 
-        </table>
-      
-      </div>
-  }
+      <h2 className='ortho dividing header'>Consonants</h2>
+
+      <table className='ui unstackable celled table '>
+        <thead>
+          <tr><th>Sound</th>
+          <th>French analogue</th>
+          <th>Example in Lobi (w/ English/French translations)</th>
+        </tr></thead>
+
+        <tbody>
+        <tr>
+          <td data-label="IPA">p</td>
+          <td data-label="Orthography"><b>p</b>lace</td>
+          <td data-label="Example"><b>p</b>ar(a), ‘place/place, lieu’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">pʰ</td>
+          <td data-label="Orthography">–</td>
+          <td data-label="Example"><b>pʰ</b>ʊɔ, ‘okra/gombo’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">b</td>
+          <td data-label="Orthography"><b>b</b>al</td>
+          <td data-label="Example"><b>b</b>ɪɛl, ‘one/un’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">ɓ</td>
+          <td data-label="Orthography">–</td>
+          <td data-label="Example"><b>ɓ</b>à<b>ɓ</b>ú, ‘eggplant/aubergine’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">t</td>
+            <td data-label="Orthography"><b>t</b>aper</td>
+            <td data-label="Example"><b>t</b>amɔ̃n, ‘one hundred, five hundred ($)/cent, cinc cents ($)</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">tʰ</td>
+          <td data-label="Orthography">–</td>
+          <td data-label="Example"><b>tʰ</b>íí, ‘soil/solterre’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">d</td>
+            <td data-label="Orthography"><b>d</b>anse</td>
+            <td data-label="Example"><b>d</b>ii, ‘yesterday/hier’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">c</td>
+            <td data-label="Orthography">–</td>
+            <td data-label="Example"><b>c</b>ʊɔr, ‘house/maison’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">ɟ</td>
+          <td data-label="Orthography">≠ <b>j</b>oue (this has [ʒ])</td>
+          <td data-label="Example"><b>ɟ</b>ɔ, ‘millet/millet’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">k</td>
+            <td data-label="Orthography"><b>c</b>ou</td>
+            <td data-label="Example"><b>k</b>ar, ‘hole/trou’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">kʰ</td>
+          <td data-label="Orthography">–</td>
+          <td data-label="Example"><b>kʰ</b>ɛ́r, ‘woman/femme’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">g</td>
+            <td data-label="Orthography"><b>g</b>oût</td>
+            <td data-label="Example"><b>gɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n) ‘mountain’/montagne’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">k͡p</td>
+            <td data-label="Orthography">–</td>
+            <td data-label="Example"><b>kp</b>a<b>kp</b>ál, ‘stranger, guest/étranger, invité’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ɡ͡b</td>
+            <td data-label="Orthography">–</td>
+            <td data-label="Example"><b>ɡ͡b</b>àá, ‘cobra/cobra’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">r</td>
+            <td data-label="Orthography">–</td>
+            <td data-label="Example">cʊɔ<b>r</b>, ‘house/maison’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">l</td>
+            <td data-label="Orthography"><b>l</b>oup</td>
+            <td data-label="Example"><b>l</b>úú, ‘forest/forêt’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">l’ (or lʔ)</td>
+            <td data-label="Orthography">–</td>
+            <td data-label="Example"><b>l’</b>úú, ‘traditional spoon/cuillère traditionnelle/louche’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">j</td>
+            <td data-label="Orthography">mo<b>y</b>en, ma<b>ill</b>ot</td>
+            <td data-label="Example"><b>j</b>aná, ‘four/quatre’ (English: ‘<b>y</b>es’)</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">j’ (or jʔ)</td>
+            <td data-label="Orthography">–</td>
+            <td data-label="Example"><b>j’</b>àá, ‘week, market/semaine, marché’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">w</td>
+          <td data-label="Orthography"><b>ou</b>i</td>
+          <td data-label="Example"><b>w</b>ám, ‘small white hornbill/petit calao blanc’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">w’ (or wʔ)</td>
+            <td data-label="Orthography"><b>ou</b>ïe</td>
+            <td data-label="Example"><b>w’</b>ir, ‘cold/froid’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">m</td>
+          <td data-label="Orthography"><b>m</b>ou</td>
+          <td data-label="Example"><b>m</b>áádõ(n), ‘six/six’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">n</td>
+            <td data-label="Orthography"><b>n</b>ous</td>
+            <td data-label="Example"><b>n</b>a, ‘cow/vache’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">ɲ</td>
+            <td data-label="Orthography">bei<b>gn</b>e</td>
+            <td data-label="Example"><b>ɲ</b>ɔ̃ɔ̃, ‘arm, hand/bras, main’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">f</td>
+            <td data-label="Orthography"><b>f</b>ou</td>
+            <td data-label="Example"><b>f</b>éé, ‘breath/souffle’</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">v</td>
+          <td data-label="Orthography"><b>v</b>ous</td>
+          <td data-label="Example"><b>v</b>ɔ́ɔ́-rɛ́, ‘be tired/être fatigué’</td>
+        </tr>
+        <tr>
+            <td data-label="IPA">s</td>
+            <td data-label="Orthography"><b>s</b>ous</td>
+            <td data-label="Example"><b>s</b>íí, ‘snake/serpent</td>
+        </tr>
+        <tr>
+          <td data-label="IPA">h</td>
+          <td data-label="Orthography"><b>h</b>aine</td>
+          <td data-label="Example"><b>h</b>ir, ‘be full/être rassasié’</td>
+        </tr>
+
+      </tbody>
+
+      </table>
+    
+    </div>
+}
 }
 )
 
