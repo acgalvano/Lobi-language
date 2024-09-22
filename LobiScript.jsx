@@ -175,37 +175,44 @@ var Orthography = React.createClass(
           <tr>
             <td data-label="IPA">ɪ</td>
             <td data-label="Orthography">m<b>i</b>el</td>
-            <td data-label="Example">d<b>ɪɪ</b>, ‘village/village’; b<b>ɪ</b>ɛl, ‘one/un’</td>
+            <td data-label="Example">d<b>ɪɪ</b>; b<b>ɪ</b>ɛl</td>
+            <td data-label="English translation">'village; one'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɪ̃</td>
               <td data-label="Orthography">–</td>
-              <td data-label="Example">c<b>ɪ̃</b>ncɛ̃́nã́, ‘flies/mouches’; <b>ɪ̃</b>nɛ̃, ‘to come/viens’</td>
+              <td data-label="Example">c<b>ɪ̃</b>ncɛ̃́nã́; <b>ɪ̃</b>nɛ̃</td>
+              <td data-label="English translation">'flies; to come'</td>
           </tr>
           <tr>
             <td data-label="IPA">e</td>
             <td data-label="Orthography">f<b>é</b>e</td>
-            <td data-label="Example"><b>féé</b> (or fér), ‘breath (noun)/respiration’; d<b>éé</b>kùn, ‘joking ally/allier a plaisantérie’</td>
+            <td data-label="Example"><b>féé</b> (or fér); d<b>éé</b>kùn</td>
+            <td data-label="English translation">'breath (noun); joking ally'</td>
           </tr>
           <tr>
               <td data-label="IPA">ẽ</td>
               <td data-label="Orthography">beign<b>e</b>t</td>
-              <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b>, ‘my uncle’</td>
+              <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b></td>
+              <td data-label="English translation">'my uncle'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɛ</td>
               <td data-label="Orthography">m<b>è</b>re</td>
-              <td data-label="Example">kh<b>ɛ́</b>r, ‘woman/femme’; p<b>ɛ́ɛ́</b>, ‘intestines/intestins’; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b>, ‘Kpèkpè'</td>
+              <td data-label="Example">kh<b>ɛ́</b>r; p<b>ɛ́ɛ́</b>; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b></td>
+              <td data-label="English translation">'woman; intestines; Kpèkpè'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ̃</td>
             <td data-label="Orthography">m<b>ain</b></td>
-            <td data-label="Example">ɲ<b>ɛ̃̀ɛ̃̀</b>, ‘arms/mains’</td>
+            <td data-label="Example">ɲ<b>ɛ̃̀ɛ̃̀</b></td>
+            <td data-label="English translation">'arms'</td>
           </tr>
           <tr>
             <td data-label="IPA">a</td>
             <td data-label="Orthography">b<b>a</b>l</td>
-            <td data-label="Example">j’<b>àá</b>, ‘market/marchè; week/semaine’</td>
+            <td data-label="Example">j’<b>àá</b></td>
+            <td data-label="English translation">'market; week'</td>
           </tr>
           <tr>
               <td data-label="IPA">ã</td>
@@ -434,48 +441,56 @@ var OrthographyFR = React.createClass(
         <tr>
           <td data-label="IPA">i</td>
           <td data-label="Orthography">m<b>il</b></td>
-          <td data-label="Example">síí; dìì</td>
+          <td data-label="Example">s<b>íí</b>; d<b>ìì</b></td>
           <td data-label="French translation">'serpent; hier'</td>
         </tr>
         <tr>
           <td data-label="IPA">ĩ</td>
           <td data-label="Orthography">d<b>i</b>gne</td>
-          <td data-label="Example">anĩ̀ĩ̀ ‘oil/huile’; sĩ̀ĩ̀ ‘urine/urine’</td>
+          <td data-label="Example">an<b>ĩ̀ĩ̀</b>; s<b>ĩ̀ĩ̀</b></td>
+          <td data-label="French translation">'huile; urine'</td>
         </tr>
         <tr>
           <td data-label="IPA">ɪ</td>
           <td data-label="Orthography">m<b>i</b>el</td>
-          <td data-label="Example">dɪɪ, ‘village/village’; bɪɛl, ‘one/un’</td>
+          <td data-label="Example">d<b>ɪɪ</b>; b<b>ɪ</b>ɛl</td>
+          <td data-label="French translation">'village; un'</td>
         </tr>
         <tr>
             <td data-label="IPA">ɪ̃</td>
             <td data-label="Orthography">–</td>
-            <td data-label="Example">cɪ̃ncɛ̃́nã́, ‘flies/mouches’; ɪ̃nɛ̃, ‘to come/viens’</td>
+            <td data-label="Example">c<b>ɪ̃</b>ncɛ̃́nã́; <b>ɪ̃</b>nɛ̃</td>
+            <td data-label="French translation">'mouches; viens'</td>
         </tr>
         <tr>
           <td data-label="IPA">e</td>
           <td data-label="Orthography">f<b>é</b>e</td>
-          <td data-label="Example">féé (or fér), ‘breath (noun)/respiration’; déékùn, ‘joking ally/allier a plaisantérie’</td>
+          <td data-label="Example"><b>féé</b> (or fér); d<b>éé</b>kùn</td>
+          <td data-label="French translation">'respiration; allier a plaisantérie' </td>
         </tr>
         <tr>
             <td data-label="IPA">ẽ</td>
             <td data-label="Orthography">beign<b>e</b>t</td>
-            <td data-label="Example">mɪ̃́ɪ̃̀n ɟẽ́, ‘my uncle’</td>
+            <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b></td>
+            <td data-label="French translation">'mon oncle'</td>
         </tr>
         <tr>
             <td data-label="IPA">ɛ</td>
             <td data-label="Orthography">m<b>è</b>re</td>
-            <td data-label="Example">khɛ́r, ‘woman/femme’; pɛ́ɛ́, ‘intestines/intestins’; ɓɛ̀ɓɛ́, ‘Kpèkpè'</td>
+            <td data-label="Example">kh<b>ɛ́</b>r; p<b>ɛ́ɛ́</b>; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b></td>
+            <td data-label="French translation">'femme; intestins; Kpèkpè'</td>
         </tr>
         <tr>
           <td data-label="IPA">ɛ̃</td>
           <td data-label="Orthography">m<b>ain</b></td>
-          <td data-label="Example">ɲɛ̃̀ɛ̃̀, ‘arms/mains’</td>
+          <td data-label="Example">ɲ<b>ɛ̃̀ɛ̃̀</b></td>
+          <td data-label="French translation">'mains'</td>
         </tr>
         <tr>
           <td data-label="IPA">a</td>
           <td data-label="Orthography">b<b>a</b>l</td>
-          <td data-label="Example">j’àá, ‘market/marchè; week/semaine’</td>
+          <td data-label="Example">b<b>a</b>l</td>
+          <td data-label="French translation">'marchè; semaine'</td>
         </tr>
         <tr>
             <td data-label="IPA">ã</td>
