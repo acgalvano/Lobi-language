@@ -217,47 +217,56 @@ var Orthography = React.createClass(
           <tr>
               <td data-label="IPA">ã</td>
               <td data-label="Orthography">mam<b>an</b></td>
-              <td data-label="Example">b<b>ã́ã́</b>nbri, ‘bracelet/bracelet/’</td>
+              <td data-label="Example">b<b>ã́ã́</b>nbri</td>
+              <td data-label="English translation">'bracelet'</td>
           </tr>
           <tr>
             <td data-label="IPA">u</td>
             <td data-label="Orthography">v<b>ous</b></td>
-            <td data-label="Example">p<b>ù</b>r, ‘pigeon/pigeon’</td>
+            <td data-label="Example">p<b>ù</b>r</td>
+            <td data-label="English translation">'pigeon'</td>
           </tr>
           <tr>
               <td data-label="IPA">ũ</td>
               <td data-label="Orthography">-</td>
-              <td data-label="Example">k<b>ũ̀</b>(n) ‘man, garçon/friend, ami(e)’</td>
+              <td data-label="Example">k<b>ũ̀</b>(n)</td>
+              <td data-label="English translation">'man, friend'</td>
           </tr>
           <tr>
               <td data-label="IPA">ʊ</td>
               <td data-label="Orthography">-</td>
-              <td data-label="Example">b<b>ʊ̀</b>, ‘goat’/cabri; c<b>ʊ́</b>lá, ‘pistachio/pistache’; ɟ<b>ʊ̀</b>r, ‘fufu/foutou’</td>
+              <td data-label="Example">b<b>ʊ̀</b>; c<b>ʊ́</b>lá; ɟ<b>ʊ̀</b>r</td>
+              <td data-label="English translation>'goat; pistachio; fufu'</td>
           </tr>
           <tr>
               <td data-label="IPA">ʊ̃</td>
               <td data-label="Orthography">-</td>
-              <td data-label="Example">á g<b>ʊ̃́</b>nɛ̃́, ‘he climbed/il est monté’</td>
+              <td data-label="Example">á g<b>ʊ̃́</b>nɛ̃́</td>
+              <td data-label="English translation">'he climbed'</td>
           </tr>
           <tr>
               <td data-label="IPA">o</td>
               <td data-label="Orthography">m<b>o</b>t</td>
-              <td data-label="Example">l<b>ó</b>bi, ‘Lobi’; mĩ́ĩ̀ k<b>ó</b>, ‘my husband/mon mari’</td>
+              <td data-label="Example">l<b>ó</b>bi; mĩ́ĩ̀ k<b>ó</b></td>
+              <td data-label="English translation">'Lobi; my husband'</td>
           </tr>
           <tr>
               <td data-label="IPA">õ</td>
               <td data-label="Orthography">-</td>
-              <td data-label="Example">l<b>ṍṍ</b>, ‘door/porte’</td>
+              <td data-label="Example">l<b>ṍṍ</b></td>
+              <td data-label="English translation">'door'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɔ</td>
               <td data-label="Orthography">f<b>o</b>rce</td>
-              <td data-label="Example"><b>ɔ̀</b>lɟ<b>ɔ́</b>, ‘corn/maïs’, l<b>ɔ́ɔ́</b>, ‘farm/champ’</td>
+              <td data-label="Example"><b>ɔ̀</b>lɟ<b>ɔ́</b>; l<b>ɔ́ɔ́</b></td>
+              <td data-label="English translation>'corn; farm'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɔ̃</td>
               <td data-label="Orthography">m<b>on</b>tagne</td>
-              <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n), ‘mountain’/montagne’</td>
+              <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n)</td>
+              <td data-label="English translation">'mountain'</td>
           </tr>
         </tbody>
 
@@ -495,47 +504,56 @@ var OrthographyFR = React.createClass(
         <tr>
             <td data-label="IPA">ã</td>
             <td data-label="Orthography">maman</td>
-            <td data-label="Example">bã́ã́nbri, ‘bracelet/bracelet/’</td>
+            <td data-label="Example">b<b>ã́ã́</b>nbri</td>
+            <td data-label="French translation">'bracelet'</td>
         </tr>
         <tr>
           <td data-label="IPA">u</td>
           <td data-label="Orthography">vous</td>
-          <td data-label="Example">pùr, ‘pigeon/pigeon’</td>
+          <td data-label="Example">p<b>ù</b>r</td>
+          <td data-label="French translation">'pigeon'</td>
         </tr>
         <tr>
             <td data-label="IPA">ũ</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">kũ̀(n) ‘man, garçon/friend, ami(e)’</td>
+            <td data-label="Example">k<b>ũ̀</b>(n)</td>
+            <td data-label="French translation">'garçon, ami(e)'</td>
         </tr>
         <tr>
             <td data-label="IPA">ʊ</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">bʊ̀, ‘goat’/cabri; cʊ́lá, ‘pistachio/pistache’; ɟʊ̀r, ‘fufu/foutou’</td>
+            <td data-label="Example">b<b>ʊ̀</b>; c<b>ʊ́</b>lá; ɟ<b>ʊ̀</b>r</td>
+            <td data-label="French translation">'cabri; pistache; foutou'</td>
         </tr>
         <tr>
             <td data-label="IPA">ʊ̃</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">á gʊ̃́nɛ̃́, ‘he climbed/il est monté’</td>
+            <td data-label="Example">á g<b>ʊ̃́</b>nɛ̃́</td>
+            <td data-label="French translation">'il est monté'</td>
         </tr>
         <tr>
             <td data-label="IPA">o</td>
             <td data-label="Orthography">mot</td>
-            <td data-label="Example">lóbi, ‘Lobi’; mĩ́ĩ̀ kó, ‘my husband/mon mari’</td>
+            <td data-label="Example">l<b>ó</b>bi; mĩ́ĩ̀ k<b>ó</b></td>
+            <td data-label="French translation">'mon mari'</td>
         </tr>
         <tr>
             <td data-label="IPA">õ</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">lṍṍ, ‘door/porte’</td>
+            <td data-label="Example">l<b>ṍṍ</b></td>
+            <td data-label="French translation">'porte'</td>
         </tr>
         <tr>
             <td data-label="IPA">ɔ</td>
             <td data-label="Orthography">force</td>
-            <td data-label="Example">ɔ̀lɟɔ́, ‘corn/maïs’, lɔ́ɔ́, ‘farm/champ’</td>
+            <td data-label="Example">ɔ̀</b>lɟ<b>ɔ́</b>; l<b>ɔ́ɔ́</b></td>
+            <td data-label="French translation">'maïs; champ'</td>
         </tr>
         <tr>
             <td data-label="IPA">ɔ̃</td>
             <td data-label="Orthography">montagne</td>
-            <td data-label="Example">gɔ̃́gʊ̃́wɔ̃̀(n), ‘mountain’/montagne’</td>
+            <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n)</td>
+            <td data-label="French translation">'montagne'</td>
         </tr>
       </tbody>
 
