@@ -156,7 +156,7 @@ var Orthography = React.createClass(
             <tr><th>Sound</th>
             <th>French analogue</th>
             <th>Example in Lobi</th>
-            <th>English Translation</th>
+            <th>Example in Lobi w/ English Translation</th>
           </tr></thead>
 
           <tbody>
@@ -278,7 +278,7 @@ var Orthography = React.createClass(
           <thead>
             <tr><th>Sound</th>
             <th>French analogue</th>
-            <th>Example in Lobi (w/ English/French translations)</th>
+            <th>English Translations</th>
           </tr></thead>
 
           <tbody>
@@ -561,7 +561,7 @@ var OrthographyFR = React.createClass(
         <thead>
           <tr><th>Sound</th>
             <th>French analogue</th>
-            <th>Example in Lobi (w/ English/French translations)</th>
+            <th>Example in Lobi w/ French translations</th>
           </tr></thead>
 
         <tbody>
@@ -2230,7 +2230,7 @@ var App = React.createClass({
       texts_label = 'Textes'
       orthography = 'OrthographyFR'
       ortho_label = 'Orthographe'
-      // dictionary = 'DictionaryFR'
+      dictionary = 'Dictionary'
       // search = 'SearchFR'
       gloss = 'GlossesFR'
       gloss_label = 'GlossingFR'
@@ -2242,7 +2242,7 @@ var App = React.createClass({
       texts_label = 'Texts'
       orthography = 'Orthography'
       ortho_label = 'Orthography'
-      // dictionary = 'Dictionary'
+      dictionary = 'Dictionary'
       // search = 'Search'
       gloss = 'Glosses'
       gloss_label = 'Glossing'
@@ -2255,7 +2255,7 @@ var App = React.createClass({
           <Link className='item' to={homepage} >{about}</Link> 
           <Link className='item' to={orthography} >{ortho_label}</Link>
           <Link className='item' to={texts} >{texts_label}</Link>
-          <Link className='item' to='Dictionary' >Concordance</Link>
+          <Link className='item' to={dictionary} >Concordance</Link>
           {/* line below is for link checking, can remove */}
           {/* <Link className='item' to='Dictionary' >{this.getPath()}</Link> */} 
           <Link className='item' to='Search' >Search</Link>
