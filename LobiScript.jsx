@@ -2230,7 +2230,7 @@ var App = React.createClass({
       texts_label = 'Textes'
       orthography = 'OrthographyFR'
       ortho_label = 'Orthographe'
-      dictionary = 'DictionaryFR'
+      dictionary = 'DictFR'
       // search = 'SearchFR'
       concordance = 'Concordance'
       gloss = 'GlossesFR'
@@ -2258,7 +2258,7 @@ var App = React.createClass({
           <Link className='item' to={orthography} >{ortho_label}</Link>
           <Link className='item' to={texts} >{texts_label}</Link>
           {/*<Link className='item' to='Dictionary' >Concordance</Link>*/}
-          <Link className='item' to='Dictionary'>Concordance</Link>
+          <Link className='item' to={dictionary}>Concordance</Link>
           {/* line below is for link checking, can remove */}
           {/* <Link className='item' to='Dictionary' >{this.getPath()}</Link> */} 
           <Link className='item' to='Search' >Search</Link>
@@ -2336,6 +2336,8 @@ var routes = <Route handler={App}>
   <Route path = '/dict' handler={DictBox} name='Dictionary'>
     <Route path = '/dict'
             handler={DictView} name='Dict' />
+    <Route path = '/dict/FR' 
+            handler={DictView} name='DictFR'/>
     <Route path = '/dict/concordance/:morpheme/:definition'
             handler={ConcordanceView} name='Concordance'/>
 
@@ -2345,7 +2347,9 @@ var routes = <Route handler={App}>
 
   </Route>
 
-  {/* {print('switching lang')}
+  
+
+  {/*
   <Route path = '/dict/FR' handler={DictBox} name='DictionaryFR'>
     <Route path = '/dict/FR'
             handler={DictView} name='DictFR'/>
@@ -2356,7 +2360,7 @@ var routes = <Route handler={App}>
   <Route path = '/glosses' handler={Glosspage} name='Glosses' />
   <Route path = '/glosses/FR' handler={GlosspageFR} name='GlossesFR' />
   </Route> */}
-  
+
 </Route>
 ReactRouter.run(
   routes, function(Handler) {
