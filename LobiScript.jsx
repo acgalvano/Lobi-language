@@ -2258,7 +2258,7 @@ var App = React.createClass({
           <Link className='item' to={orthography} >{ortho_label}</Link>
           <Link className='item' to={texts} >{texts_label}</Link>
           {/*<Link className='item' to='Dictionary' >Concordance</Link>*/}
-          <Link className='item' to={dictionary}>Concordance</Link>
+          <Link className='item' to='Dictionary'>Concordance</Link>
           {/* line below is for link checking, can remove */}
           {/* <Link className='item' to='Dictionary' >{this.getPath()}</Link> */} 
           <Link className='item' to='Search' >Search</Link>
