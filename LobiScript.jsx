@@ -298,7 +298,7 @@ var Orthography = React.createClass(
             <td data-label="Example"><b>b</b>ɪɛl, ‘one’</td>
           </tr>
           <tr>
-            <td data-label="IPA">ɓ</td>
+            <td data-label="IPA">ɓ<sup>4</sup></td>
             <td data-label="Orthography">–</td>
             <td data-label="Example"><b>ɓ</b>à<b>ɓ</b>ú, ‘eggplant’</td>
           </tr>
@@ -319,7 +319,7 @@ var Orthography = React.createClass(
           </tr>
           <tr>
               <td data-label="IPA">c</td>
-              <td data-label="Orthography">–</td>
+              <td data-label="Orthography">–<sup>5,6</sup></td>
               <td data-label="Example"><b>c</b>ʊɔr, ‘house’</td>
           </tr>
           <tr>
@@ -345,15 +345,15 @@ var Orthography = React.createClass(
           <tr>
               <td data-label="IPA">k͡p</td>
               <td data-label="Orthography">–</td>
-              <td data-label="Example"><b>kp</b>a<b>kp</b>ál, ‘stranger, guest’</td>
+              <td data-label="Example"><b>kp</b>a<b>kp</b>ál, ‘stranger, guest’<sup>7</sup></td>
           </tr>
           <tr>
-              <td data-label="IPA">ɡ͡b</td>
+              <td data-label="IPA">ɡ͡b<sup>8</sup></td>
               <td data-label="Orthography">–</td>
               <td data-label="Example"><b>ɡ͡b</b>àá, ‘cobra’</td>
           </tr>
           <tr>
-              <td data-label="IPA">r</td>
+              <td data-label="IPA">r<sup>9</sup></td>
               <td data-label="Orthography">–</td>
               <td data-label="Example">cʊɔ<b>r</b>, ‘house’</td>
           </tr>
@@ -363,9 +363,9 @@ var Orthography = React.createClass(
               <td data-label="Example"><b>l</b>úú, ‘forest’</td>
           </tr>
           <tr>
-              <td data-label="IPA">l’ (or lʔ)</td>
+              <td data-label="IPA">l’ (or l<sup>ʔ</sup>)<sup>10</sup></td>
               <td data-label="Orthography">–</td>
-              <td data-label="Example"><b>l’</b>úú, ‘traditional spoon’</td>
+              <td data-label="Example"><b>l’</b>úú, ‘traditional spoon’<sup>11</sup></td>
           </tr>
           <tr>
               <td data-label="IPA">j</td>
@@ -373,7 +373,7 @@ var Orthography = React.createClass(
               <td data-label="Example"><b>j</b>aná, ‘four’ (English: ‘<b>y</b>es’)</td>
           </tr>
           <tr>
-              <td data-label="IPA">j’ (or jʔ)</td>
+              <td data-label="IPA">j’ (or j<sup>ʔ</sup>)</td>
               <td data-label="Orthography">–</td>
               <td data-label="Example"><b>j’</b>àá, ‘week, market/semaine, marché’</td>
           </tr>
@@ -383,7 +383,7 @@ var Orthography = React.createClass(
             <td data-label="Example"><b>w</b>ám, ‘small white hornbill’</td>
           </tr>
           <tr>
-              <td data-label="IPA">w’ (or wʔ)</td>
+              <td data-label="IPA">w’ (or w<sup>ʔ</sup>)</td>
               <td data-label="Orthography"><b>ou</b>ïe</td>
               <td data-label="Example"><b>w’</b>ir, ‘cold’</td>
           </tr>
@@ -426,6 +426,21 @@ var Orthography = React.createClass(
         </tbody>
 
         </table>
+
+      <h5><sup>4</sup>/ɓ/ is an implosive stop to try making a swallowing motion/moving your “Adam’s apple” down while making the plain /l, j, w/ sounds
+      </h5>
+      <h5><sup>5</sup>Sometimes /k/ is pronounced like this, but it is not considered a phoneme in French
+      </h5>
+      <h5><sup>6</sup>Similar to but not the same as English /tʃ/ (e.g., choose); /c/ is a stop, while /tʃ/ is an affricate
+      </h5>
+      <h5><sup>7</sup>Lobi does not have grammatical gender so French translations can go either way
+      </h5>
+      <h5><sup>8</sup>/kp/ and /gb/ sound similar to /ɓ/ but the air does not actually go inward like an implosive; to make these, you need to literally make and release a velar and bilabial closure at the same time
+      </h5>
+      <h5><sup>9</sup>You’ll hear /r/ as a voiced trill or voiceless trill word-finally, or tapped word-medially; Sansan also varies</h5>
+      <h5><sup>10</sup>The glottalized sonorants /l’, j’, w’/ are produced similarly to implosive /ɓ/</h5>
+      <h5><sup>11</sup>Made from calabash and shaped like a ladle; kúr(ú)jer(i) (typical spoon, borrowing)</h5>
+
       
       </div>
   }
@@ -581,7 +596,7 @@ var OrthographyFR = React.createClass(
             <td data-label="Example"><b>b</b>ɪɛl, ‘un’</td>
           </tr>
           <tr>
-            <td data-label="IPA">ɓ</td>
+            <td data-label="IPA">ɓ<sup>4</sup></td>
             <td data-label="Orthography">–</td>
             <td data-label="Example"><b>ɓ</b>à<b>ɓ</b>ú, ‘aubergine’</td>
           </tr>
@@ -602,7 +617,7 @@ var OrthographyFR = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">c</td>
-            <td data-label="Orthography">–</td>
+            <td data-label="Orthography">–<sup>5,6</sup></td>
             <td data-label="Example"><b>c</b>ʊɔr, ‘maison’</td>
           </tr>
           <tr>
@@ -628,15 +643,15 @@ var OrthographyFR = React.createClass(
           <tr>
             <td data-label="IPA">k͡p</td>
             <td data-label="Orthography">–</td>
-            <td data-label="Example"><b>kp</b>a<b>kp</b>ál, ‘étranger, invité’</td>
+            <td data-label="Example"><b>kp</b>a<b>kp</b>ál, ‘étranger, invité’<sup>7</sup></td>
           </tr>
           <tr>
-            <td data-label="IPA">ɡ͡b</td>
+            <td data-label="IPA">ɡ͡b<sup>8</sup></td>
             <td data-label="Orthography">–</td>
             <td data-label="Example"><b>ɡ͡b</b>àá, ‘cobra’</td>
           </tr>
           <tr>
-            <td data-label="IPA">r</td>
+            <td data-label="IPA">r<sup>9</sup></td>
             <td data-label="Orthography">–</td>
             <td data-label="Example">cʊɔ<b>r</b>, ‘maison’</td>
           </tr>
@@ -646,9 +661,9 @@ var OrthographyFR = React.createClass(
             <td data-label="Example"><b>l</b>úú, ‘forêt’</td>
           </tr>
           <tr>
-            <td data-label="IPA">l’ (or lʔ)</td>
+            <td data-label="IPA">l’ (or l<sup>ʔ</sup>)<sup>10</sup></td>
             <td data-label="Orthography">–</td>
-            <td data-label="Example"><b>l’</b>úú, ‘cuillère traditionnelle/louche’</td>
+            <td data-label="Example"><b>l’</b>úú, ‘cuillère traditionnelle/louche’<sup>11</sup></td>
           </tr>
           <tr>
             <td data-label="IPA">j</td>
@@ -656,7 +671,7 @@ var OrthographyFR = React.createClass(
             <td data-label="Example"><b>j</b>aná, ‘quatre’</td>
           </tr>
           <tr>
-            <td data-label="IPA">j’ (or jʔ)</td>
+            <td data-label="IPA">j’ (or j<sup>ʔ</sup>)</td>
             <td data-label="Orthography">–</td>
             <td data-label="Example"><b>j’</b>àá, ‘semaine, marché’</td>
           </tr>
@@ -666,7 +681,7 @@ var OrthographyFR = React.createClass(
             <td data-label="Example"><b>w</b>ám, ‘petit calao blanc’</td>
           </tr>
           <tr>
-            <td data-label="IPA">w’ (or wʔ)</td>
+            <td data-label="IPA">w’ (or w<sup>ʔ</sup>)</td>
             <td data-label="Orthography"><b>ou</b>ïe</td>
             <td data-label="Example"><b>w’</b>ir, ‘froid’</td>
           </tr>
@@ -709,6 +724,20 @@ var OrthographyFR = React.createClass(
         </tbody>
 
       </table>
+
+      <h5><sup>4</sup>/ɓ/ is an implosive stop to try making a swallowing motion/moving your “Adam’s apple” down while making the plain /l, j, w/ sounds
+      </h5>
+      <h5><sup>5</sup>Sometimes /k/ is pronounced like this, but it is not considered a phoneme in French
+      </h5>
+      <h5><sup>6</sup>Similar to but not the same as English /tʃ/ (e.g., choose); /c/ is a stop, while /tʃ/ is an affricate
+      </h5>
+      <h5><sup>7</sup>Lobi does not have grammatical gender so French translations can go either way
+      </h5>
+      <h5><sup>8</sup>/kp/ and /gb/ sound similar to /ɓ/ but the air does not actually go inward like an implosive; to make these, you need to literally make and release a velar and bilabial closure at the same time
+      </h5>
+      <h5><sup>9</sup>You’ll hear /r/ as a voiced trill or voiceless trill word-finally, or tapped word-medially; Sansan also varies</h5>
+      <h5><sup>10</sup>The glottalized sonorants /l’, j’, w’/ are produced similarly to implosive /ɓ/</h5>
+      <h5><sup>11</sup>Made from calabash and shaped like a ladle; kúr(ú)jer(i) (typical spoon, borrowing)</h5>
     
     </div>
   }
