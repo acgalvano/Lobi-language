@@ -2231,7 +2231,7 @@ var App = React.createClass({
       orthography = 'OrthographyFR'
       ortho_label = 'Orthographe'
       dictionary = 'DictFR'
-      // search = 'SearchFR'
+      search = 'SearchFR'
       concordance = 'Concordance'
       gloss = 'GlossesFR'
       gloss_label = 'GlossingFR'
@@ -2244,7 +2244,7 @@ var App = React.createClass({
       orthography = 'Orthography'
       ortho_label = 'Orthography'
       dictionary = 'Dictionary'
-      // search = 'Search'
+      search = 'Search'
       concordance = 'Concordance'
       gloss = 'Glosses'
       gloss_label = 'Glossing'
@@ -2261,7 +2261,7 @@ var App = React.createClass({
           <Link className='item' to={dictionary}>Concordance</Link>
           {/* line below is for link checking, can remove */}
           {/* <Link className='item' to='Dictionary' >{this.getPath()}</Link> */} 
-          <Link className='item' to='Search' >Search</Link>
+          <Link className='item' to={dictionary}>Search</Link>
           {/* added french toggle */}
           <div className='item'>
             <div className="ui slider checkbox">
@@ -2342,6 +2342,7 @@ var routes = <Route handler={App}>
             handler={ConcordanceView} name='Concordance'/>
 
   <Route path = '/search' handler={SearchPage} name='Search' />
+  <Route path = '/search/FR' handler={SearchPage} name='SearchFR' />
   <Route path = '/glosses' handler={Glosspage} name='Glosses' />
   <Route path = '/glosses/FR' handler={GlosspageFR} name='GlossesFR' />
 
