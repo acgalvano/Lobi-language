@@ -664,7 +664,7 @@ var OrthographyFR = React.createClass(
         <tr>
             <td data-label="IPA">s</td>
             <td data-label="Orthography"><b>s</b>ous</td>
-            <td data-label="Example"><b>s</b>íí, ‘serpent</td>
+            <td data-label="Example"><b>s</b>íí, ‘serpent’</td>
         </tr>
         <tr>
           <td data-label="IPA">h</td>
