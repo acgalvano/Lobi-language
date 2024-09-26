@@ -2322,7 +2322,7 @@ var App = React.createClass({
 // set up routes for ReactRouter: https://github.com/rackt/react-router/blob/0.13.x/docs/guides/overview.md
 // enables the single-page web app design
 var routes = <Route handler={App}>
-  <Route path = '/' handler={Homepage} name='Homepage' />
+  <Route path = '/' handler={Homepage} name='Homepage'/>
   <Route path = '/FR' handler={HomepageFR} name='HomepageFR' />
 
   <Route path = '/orthography' handler={Orthography} name='Orthography' />
@@ -2339,18 +2339,23 @@ var routes = <Route handler={App}>
     <Route path = '/dict/concordance/:morpheme/:definition'
             handler={ConcordanceView} name='Concordance'/>
 
-  {/* Adding Alt Dict for FR ending */}
-  <Route path = '/dict/FR' handler={DictBox} name='DictionaryFR'>
-    <Route path = '/dict/FR'
-            handler={DictView} name='DictFR' />
-    <Route path = '/dict/FR/concordance/:morpheme/:definition'
-            handler={ConcordanceView} name='ConcordanceFR' />
-
   <Route path = '/search' handler={SearchPage} name='Search' />
   <Route path = '/glosses' handler={Glosspage} name='Glosses' />
   <Route path = '/glosses/FR' handler={GlosspageFR} name='GlossesFR' />
 
   </Route>
+
+  <Route path = '/dict/FR' handler={DictBox} name='DictionaryFR'>
+    <Route path = '/dict/FR'
+            handler={DictView} name='DictFR'/>
+    <Route path = '/dict/concordance/:morpheme/:definition/FR'
+            handler={ConcordanceView} name='ConcordanceFR'/>
+
+  <Route path = '/search' handler={SearchPage} name='Search' />
+  <Route path = '/glosses' handler={Glosspage} name='Glosses' />
+  <Route path = '/glosses/FR' handler={GlosspageFR} name='GlossesFR' />
+
+  </Route>  
 </Route>
 ReactRouter.run(
   routes, function(Handler) {
