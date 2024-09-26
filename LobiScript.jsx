@@ -2230,7 +2230,7 @@ var App = React.createClass({
       texts_label = 'Textes'
       orthography = 'OrthographyFR'
       ortho_label = 'Orthographe'
-      dictionary = 'Dictionary'
+      dictionary = 'DictionaryFR'
       // search = 'SearchFR'
       concordance = 'Concordance'
       gloss = 'GlossesFR'
@@ -2337,7 +2337,14 @@ var routes = <Route handler={App}>
     <Route path = '/dict'
             handler={DictView} name='Dict' />
     <Route path = '/dict/concordance/:morpheme/:definition'
-            handler={ConcordanceView} name='Concordance' />
+            handler={ConcordanceView} name='Concordance'/>
+
+  {/* Adding Alt Dict for FR ending */}
+  <Route path = '/dict/FR' handler={DictBox} name='DictionaryFR'>
+    <Route path = '/dict/FR'
+            handler={DictView} name='DictFR' />
+    <Route path = '/dict/FR/concordance/:morpheme/:definition'
+            handler={ConcordanceView} name='ConcordanceFR' />
 
   <Route path = '/search' handler={SearchPage} name='Search' />
   <Route path = '/glosses' handler={Glosspage} name='Glosses' />
