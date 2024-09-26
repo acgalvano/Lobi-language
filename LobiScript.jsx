@@ -2345,6 +2345,7 @@ var routes = <Route handler={App}>
 
   </Route>
 
+  {/* {print('switching lang')}
   <Route path = '/dict/FR' handler={DictBox} name='DictionaryFR'>
     <Route path = '/dict/FR'
             handler={DictView} name='DictFR'/>
@@ -2354,8 +2355,8 @@ var routes = <Route handler={App}>
   <Route path = '/search' handler={SearchPage} name='Search' />
   <Route path = '/glosses' handler={Glosspage} name='Glosses' />
   <Route path = '/glosses/FR' handler={GlosspageFR} name='GlossesFR' />
-
-  </Route>  
+  </Route> */}
+  
 </Route>
 ReactRouter.run(
   routes, function(Handler) {
