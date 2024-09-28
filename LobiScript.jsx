@@ -162,7 +162,7 @@ var Orthography = React.createClass(
           <tr>
             <td data-label="IPA">i</td>
             <td data-label="Orthography"></td>
-            <td data-label="Example">s<b>íí</b> 'snake'; d<b>ìì 'yesterday'</b></td>
+            <td data-label="Example">s<b>íí</b> 'snake'; d<b>ìì</b> 'yesterday'</td>
           </tr>
           <tr>
             <td data-label="IPA">ĩ</td>
@@ -439,117 +439,99 @@ var OrthographyFR = React.createClass(
           <tr><th>Sound</th>
             <th>French analogue</th>
             <th>Example in Lobi (w/ French translations)</th>
-            <th>French Translation</th>
           </tr></thead>
 
         <tbody>
           <tr>
             <td data-label="IPA">i</td>
             <td data-label="Orthography">m<b>il</b></td>
-            <td data-label="Example">s<b>íí</b>; d<b>ìì</b></td>
-            <td data-label="French translation">'serpent; hier'</td>
+            <td data-label="Example">s<b>íí</b> 'serpent'; d<b>ìì</b>' hier'</td>
           </tr>
           <tr>
             <td data-label="IPA">ĩ</td>
             <td data-label="Orthography">d<b>i</b>gne</td>
-            <td data-label="Example">an<b>ĩ̀ĩ̀</b>; s<b>ĩ̀ĩ̀</b></td>
-            <td data-label="French translation">'huile; urine'</td>
+            <td data-label="Example">an<b>ĩ̀ĩ̀</b> 'huile'; s<b>ĩ̀ĩ̀</b> 'urine'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɪ</td>
             <td data-label="Orthography">m<b>i</b>el</td>
-            <td data-label="Example">d<b>ɪɪ</b>; b<b>ɪ</b>ɛl</td>
+            <td data-label="Example">d<b>ɪɪ</b> 'village'; b<b>ɪ</b>ɛl 'un'</td>
             <td data-label="French translation">'village; un'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɪ̃</td>
             <td data-label="Orthography">–</td>
-            <td data-label="Example">c<b>ɪ̃</b>ncɛ̃́nã́; <b>ɪ̃</b>nɛ̃</td>
-            <td data-label="French translation">'mouches; viens'</td>
+            <td data-label="Example">c<b>ɪ̃</b>ncɛ̃́nã́ 'mouches'; <b>ɪ̃</b>nɛ̃ 'viens'</td>
           </tr>
           <tr>
             <td data-label="IPA">e</td>
             <td data-label="Orthography">f<b>é</b>e</td>
-            <td data-label="Example"><b>féé</b> (or fér); d<b>éé</b>kùn</td>
-            <td data-label="French translation">'respiration; allier a plaisantérie' </td>
+            <td data-label="Example"><b>féé</b> (or fér) 'respiration'; d<b>éé</b>kùn 'allier a plaisantérie'</td>
           </tr>
           <tr>
             <td data-label="IPA">ẽ</td>
             <td data-label="Orthography">beign<b>e</b>t</td>
-            <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b></td>
-            <td data-label="French translation">'mon oncle'</td>
+            <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b> 'mon oncle'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ</td>
             <td data-label="Orthography">m<b>è</b>re</td>
-            <td data-label="Example">kh<b>ɛ́</b>r; p<b>ɛ́ɛ́</b>; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b></td>
-            <td data-label="French translation">'femme; intestins; Kpèkpè'</td>
+            <td data-label="Example">kh<b>ɛ́</b>r 'femme'; p<b>ɛ́ɛ́</b> 'intestins'; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b> 'Kpèkpè'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ̃</td>
             <td data-label="Orthography">m<b>ain</b></td>
-            <td data-label="Example">ɲ<b>ɛ̃̀ɛ̃̀</b></td>
-            <td data-label="French translation">'mains'</td>
+            <td data-label="Example">ɲ<b>ɛ̃̀ɛ̃̀</b> 'mains'</td>
           </tr>
           <tr>
             <td data-label="IPA">a</td>
             <td data-label="Orthography">b<b>a</b>l</td>
-            <td data-label="Example">b<b>a</b>l</td>
-            <td data-label="French translation">'marchè; semaine'</td>
+            <td data-label="Example">b<b>a</b>l 'marchè; semaine'</td>
           </tr>
           <tr>
             <td data-label="IPA">ã</td>
             <td data-label="Orthography">maman</td>
-            <td data-label="Example">b<b>ã́ã́</b>nbri</td>
-            <td data-label="French translation">'bracelet'</td>
+            <td data-label="Example">b<b>ã́ã́</b>nbri 'bracelet'</td>
           </tr>
           <tr>
             <td data-label="IPA">u</td>
             <td data-label="Orthography">vous</td>
-            <td data-label="Example">p<b>ù</b>r</td>
-            <td data-label="French translation">'pigeon'</td>
+            <td data-label="Example">p<b>ù</b>r 'pigeon'</td>
           </tr>
           <tr>
             <td data-label="IPA">ũ</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">k<b>ũ̀</b>(n)</td>
-            <td data-label="French translation">'garçon, ami(e)'</td>
+            <td data-label="Example">k<b>ũ̀</b>(n) 'garçon, ami(e)'</td>
           </tr>
           <tr>
             <td data-label="IPA">ʊ</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">b<b>ʊ̀</b>; c<b>ʊ́</b>lá; ɟ<b>ʊ̀</b>r</td>
-            <td data-label="French translation">'cabri; pistache; foutou'</td>
+            <td data-label="Example">b<b>ʊ̀</b> 'cabri'; c<b>ʊ́</b>lá 'pistache'; ɟ<b>ʊ̀</b>r 'foutou'</td>
           </tr>
           <tr>
             <td data-label="IPA">ʊ̃</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">á g<b>ʊ̃́</b>nɛ̃́</td>
-            <td data-label="French translation">'il est monté'</td>
+            <td data-label="Example">á g<b>ʊ̃́</b>nɛ̃́ 'il est monté'</td>
           </tr>
           <tr>
             <td data-label="IPA">o</td>
             <td data-label="Orthography">mot</td>
-            <td data-label="Example">l<b>ó</b>bi; mĩ́ĩ̀ k<b>ó</b></td>
-            <td data-label="French translation">'mon mari'</td>
+            <td data-label="Example">l<b>ó</b>bi 'Lobi'; mĩ́ĩ̀ k<b>ó</b> 'mon mari'</td>
           </tr>
           <tr>
             <td data-label="IPA">õ</td>
             <td data-label="Orthography">-</td>
-            <td data-label="Example">l<b>ṍṍ</b></td>
-            <td data-label="French translation">'porte'</td>
+            <td data-label="Example">l<b>ṍṍ</b> 'porte'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɔ</td>
             <td data-label="Orthography">force</td>
-            <td data-label="Example"><b>ɔ̀</b>lɟ<b>ɔ́</b>; l<b>ɔ́ɔ́</b></td>
-          <td data-label="French translation">'maïs; champ'</td>
+            <td data-label="Example"><b>ɔ̀</b>lɟ<b>ɔ́</b> 'maïs'; l<b>ɔ́ɔ́</b> 'champ'</td>
         </tr>
         <tr>
           <td data-label="IPA">ɔ̃</td>
           <td data-label="Orthography">montagne</td>
-          <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n)</td>
-          <td data-label="French translation">'montagne'</td>
+          <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n) 'montagne'</td>
         </tr>
       </tbody>
 
