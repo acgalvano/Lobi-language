@@ -182,17 +182,17 @@ var Orthography = React.createClass(
           <tr>
             <td data-label="IPA">e</td>
             <td data-label="Orthography"></td>
-            <td data-label="Example"><b>féé</b> (or fér) 'breath (noun)'; d<b>éé</b>kùn 'joking ally'</td>
+            <td data-label="Example"><b>féé</b> (or fér) 'breath (noun)'; d<b>éé</b>kùn<sup>1</sup> 'joking ally'</td>
           </tr>
           <tr>
               <td data-label="IPA">ẽ</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-<sup>2</sup></td>
               <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b> 'my uncle'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɛ</td>
               <td data-label="Orthography"></td>
-              <td data-label="Example">kh<b>ɛ́</b>r 'woman'; p<b>ɛ́ɛ́</b> 'intestines'; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b> 'Kpèkpè'</td>
+              <td data-label="Example">kh<b>ɛ́</b>r 'woman'; p<b>ɛ́ɛ́</b> 'intestines'; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b> 'Kpèkpè'<sup>3</sup></td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ̃</td>
@@ -249,9 +249,14 @@ var Orthography = React.createClass(
               <td data-label="Orthography"></td>
               <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n) 'mountain'</td>
           </tr>
+            
         </tbody>
 
         </table>
+
+        <h5><sup>1</sup>Lobi people will use this to refer to members of other tribes, like the Bete, with whom they have a close relationship; it is also interpreted as “slave” but with a positive connotation, in the sense that they will be there for each other in difficult situations but they joke with each other about it.</h5>
+        <h5><sup>2</sup>Slightly more nasal in Lobi.</h5>
+        <h5><sup>3</sup> Sansan points out that [bɛbɛ́] is a common “mispronunciation” of [ɓɛɓɛ́], even by some Lobi people.</h5>
 
         <h2 className='ortho dividing header'>Consonants</h2>
 
