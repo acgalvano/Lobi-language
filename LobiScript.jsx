@@ -494,12 +494,12 @@ var OrthographyFR = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">ã</td>
-            <td data-label="Orthography">maman</td>
+            <td data-label="Orthography">mam<b>an</b></td>
             <td data-label="Example">b<b>ã́ã́</b>nbri 'bracelet'</td>
           </tr>
           <tr>
             <td data-label="IPA">u</td>
-            <td data-label="Orthography">vous</td>
+            <td data-label="Orthography">v<b>ou</b>s</td>
             <td data-label="Example">p<b>ù</b>r 'pigeon'</td>
           </tr>
           <tr>
@@ -519,7 +519,7 @@ var OrthographyFR = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">o</td>
-            <td data-label="Orthography">mot</td>
+            <td data-label="Orthography">m<b>o</b>t</td>
             <td data-label="Example">l<b>ó</b>bi 'Lobi'; mĩ́ĩ̀ k<b>ó</b> 'mon mari'</td>
           </tr>
           <tr>
@@ -529,12 +529,12 @@ var OrthographyFR = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">ɔ</td>
-            <td data-label="Orthography">force</td>
+            <td data-label="Orthography">f<b>o</b>rce</td>
             <td data-label="Example"><b>ɔ̀</b>lɟ<b>ɔ́</b> 'maïs'; l<b>ɔ́ɔ́</b> 'champ'</td>
         </tr>
         <tr>
           <td data-label="IPA">ɔ̃</td>
-          <td data-label="Orthography">montagne</td>
+          <td data-label="Orthography">m<b>on</b>tagne</td>
           <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n) 'montagne'</td>
         </tr>
       </tbody>
