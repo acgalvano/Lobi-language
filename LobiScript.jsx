@@ -461,7 +461,6 @@ var OrthographyFR = React.createClass(
             <td data-label="IPA">ɪ</td>
             <td data-label="Orthography">m<b>i</b>el</td>
             <td data-label="Example">d<b>ɪɪ</b> 'village'; b<b>ɪ</b>ɛl 'un'</td>
-            <td data-label="French translation">'village; un'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɪ̃</td>
