@@ -676,6 +676,31 @@
                     "modifiedByUser": ""
                 }
             }
+        },
+        {
+            "id": "27",
+            "key": [
+                "1",
+                27,
+                "27"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɡɔ̃ɡɔ̃ ɟɪɛ na jiri n kɔɔ na cɪ́cɛ",
+                    "morphemes": "ɡɔ̃ɡɔ̃ ɟɪɛ na jiri n kɔɔ na cɪ́cɛ",
+                    "gloss": "north wind and sun ipfv pst with dispute",
+                    "translation": "The North Wind and Sun were disputing each other",
+                    "french": "Le Vent du Nord et le Soleil se disputaient",
+                    "tags": "",
+                    "syntacticCategory": "Adv foc n v n n disc",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
         }
     ]
 }
