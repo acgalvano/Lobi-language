@@ -470,17 +470,17 @@ var OrthographyFR = React.createClass(
           <tr>
             <td data-label="IPA">e</td>
             <td data-label="Orthography">f<b>é</b>e</td>
-            <td data-label="Example"><b>féé</b> (or fér) 'respiration'; d<b>éé</b>kùn 'allier a plaisantérie'</td>
+            <td data-label="Example"><b>féé</b> (or fér) 'respiration'; d<b>éé</b>kùn<sup>1</sup> 'allier a plaisantérie'</td>
           </tr>
           <tr>
             <td data-label="IPA">ẽ</td>
-            <td data-label="Orthography">beign<b>e</b>t</td>
+            <td data-label="Orthography">beign<b>e</b>t<sup>2</sup></td>
             <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b> 'mon oncle'</td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ</td>
             <td data-label="Orthography">m<b>è</b>re</td>
-            <td data-label="Example">kh<b>ɛ́</b>r 'femme'; p<b>ɛ́ɛ́</b> 'intestins'; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b> 'Kpèkpè'</td>
+            <td data-label="Example">kh<b>ɛ́</b>r 'femme'; p<b>ɛ́ɛ́</b> 'intestins'; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b> 'Kpèkpè'<sup>3</sup></td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ̃</td>
@@ -538,6 +538,11 @@ var OrthographyFR = React.createClass(
           <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n) 'montagne'</td>
         </tr>
       </tbody>
+      </table>
+        <h5><sup>1</sup>Les Lobi s'en serviront pour désigner des membres d'autres tribus, comme les Bété, avec lesquels ils entretiennent des relations étroites; c'est aussi interprété comme "esclave" mais avec une connotation positive, en ce sens qu'ils seront là l'un pour l'autre dans des situations difficiles mais ils plaisantent à ce sujet.</h5>
+        <h5><sup>2</sup>Un peu plus nasal à Lobi.</h5>
+        <h5><sup>3</sup>Sansan souligne que [bɛbɛ́] est une « mauvaise prononciation » courante de [ɓɛɓɛ́], même par certains Lobi.</h5>
+      
 
     </table><h2 className='ortho dividing header'>Consonants</h2><table className='ui unstackable celled table '>
         <thead>
