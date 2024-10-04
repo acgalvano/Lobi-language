@@ -694,7 +694,32 @@
                     "translation": "The North Wind and Sun were disputing each other",
                     "french": "Le Vent du Nord et le Soleil se disputaient",
                     "tags": "",
-                    "syntacticCategory": "Adv foc n v n n disc",
+                    "syntacticCategory": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "28",
+            "key": [
+                "1",
+                28,
+                "28"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
+                    "morphemes": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
+                    "gloss": "3pl say who have-rel strength superl who",
+                    "translation": "They say who has more strength than the other",
+                    "french": "On dit qui a plus de force que l'autre",
+                    "tags": "",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
