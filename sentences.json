@@ -1,5 +1,5 @@
 {
-    "total_rows": 28,
+    "total_rows": 29,
     "offset": 0,
     "rows": [
         {
@@ -708,16 +708,41 @@
                 "1",
                 28,
                 "28"
+        ],
+        "value": {
+            "story": "1",
+            "sentence": {
+                "judgement": "",
+                "utterance": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
+                "morphemes": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
+                "gloss": "3pl say who have-rel strength superl who",
+                "translation": "They say who has more strength than the other",
+                "french": "On dit qui a plus de force que l'autre",
+                "tags": "",
+                "syntacticCategory": "n n n Conj Adj.fr",
+                "syntacticTreeLatex": "",
+                "validationStatus": "",
+                "enteredByUser": "",
+                "modifiedByUser": ""
+                }
+            }
+        },
+        {
+                "id": "29",
+            "key": [
+                "1",
+                29,
+                "29"
             ],
             "value": {
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
-                    "morphemes": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
-                    "gloss": "3pl say who have-rel strength superl who",
-                    "translation": "They say who has more strength than the other",
-                    "french": "On dit qui a plus de force que l'autre",
+                    "utterance": "nɪ ɡba fʊɔ-rɪ",
+                    "morphemes": "nɪ ɡba fʊɔ-rɪ",
+                    "gloss": "2pl take greet-ni",
+                    "translation": "Hello; good morning/afternoon",
+                    "french": "Bonjour; bonjour/bon après-midi",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
@@ -726,6 +751,4 @@
                     "modifiedByUser": ""
                 }
             }
-        }
-    ]
-}
+        },    
