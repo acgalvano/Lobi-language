@@ -1,5 +1,5 @@
 {
-    "total_rows": 28,
+    "total_rows": 2,
     "offset": 0,
     "rows": [
         {
@@ -52,30 +52,5 @@
                 }
             }
         }
-        ,
-        {
-            "id": "2",
-            "key": [
-                "1",
-                2,
-                "2"
-            ],
-            "value": {
-                "story": "1",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "áyí khɛ́n án che super li áyí créncré",
-                    "morphemes": "á-jí khɛ̃́ ã́ che sypɛr ɗi á-jí ɲchré-ɲchré",
-                    "gloss": "cm-thing rel 3sg.nom.ipfv call super.fr cop cm-thing mighty-red",
-                    "translation": "what he calls 'super' is what's great.",
-                    "french": "ce qu'il appelle 'super' c'est la qualité.",
-                    "tags": "",
-                    "syntacticCategory": "n Comp n v Adj.fr v n Adj",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        }
-    }
+    ]
+}
