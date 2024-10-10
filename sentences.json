@@ -1,5 +1,5 @@
 {
-    "total_rows": 2,
+    "total_rows": 28,
     "offset": 0,
     "rows": [
         {
@@ -20,31 +20,6 @@
                     "french": "À Côte d'Ivoire,",
                     "tags": "",
                     "syntacticCategory": "n n n n",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "1",
-            "key": [
-                "1",
-                1,
-                "1"
-            ],
-            "value": {
-                "story": "1",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "gángán mɛ́n ń ma ń ma ɛ",
-                    "morphemes": "ɡã́ɡã́ mɛ̃́ ɛ̃́ ma ɛ̃́ ma ɛ",
-                    "gloss": "white.person 3sg.str 3sg.nom.pfv come.pfv 3sg.nom.pfv come.pfv emph",
-                    "translation": "when the white man came,",
-                    "french": "quand le blanc, il est venu,",
-                    "tags": "",
-                    "syntacticCategory": "n n n v n v disc",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
