@@ -1,5 +1,5 @@
 {
-    "total_rows": 28,
+    "total_rows": 3,
     "offset": 0,
     "rows": [
         {
@@ -13,13 +13,38 @@
                 "story": "1",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "ló jɔn sɛn khúbhɛ́",
-                    "morphemes": "ló ɟɔ̃ sɛ̃ khúɓɛ́",
-                    "gloss": "3.inan.str elephant tusk village",
-                    "translation": "In Côte d'Ivoire,",
-                    "french": "À Côte d'Ivoire,",
+                    "utterance": "ɡɔ̃ɡɔ̃ ɟɪɛ na jiri n kɔɔ na cɪ́cɛ",
+                    "morphemes": "ɡɔ̃ɡɔ̃ ɟɪɛ na jiri n kɔɔ na cɪ́cɛ",
+                    "gloss": "north wind and sun ipfv pst with dispute",
+                    "translation": "The North Wind and Sun were disputing each other",
+                    "french": "Le Vent du Nord et le Soleil se disputaient",
                     "tags": "",
-                    "syntacticCategory": "n n n n",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "1",
+            "key": [
+                "1",
+                1,
+                "1"
+            ],
+            "value": {
+                "story": "1",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
+                    "morphemes": "wʊ jɪ́ amɛ́ hánã́-nɪ̃ faŋɡa ɟɔ ʊmɔ̃",
+                    "gloss": "3pl say who have-rel strength superl who",
+                    "translation": "They say who has more strength than the other",
+                    "french": "On dit qui a plus de force que l'autre",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
