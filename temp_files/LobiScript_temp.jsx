@@ -257,7 +257,7 @@ var Orthography = React.createClass(
         <h5><sup>1</sup>Lobi people will use this to refer to members of other tribes, like the Bete, with whom they have a close relationship; it is also interpreted as “slave” but with a positive connotation, in the sense that they will be there for each other in difficult situations but they joke with each other about it.</h5>
         <h5><sup>2</sup>Slightly more nasal in Lobi.</h5>
         <h5><sup>3</sup> Sansan points out that [bɛbɛ́] is a common “mispronunciation” of [ɓɛɓɛ́], even by some Lobi people.</h5>
-
+        
         <h2 className='ortho dividing header'>Consonants</h2>
 
         <table className='ui unstackable celled table '>
