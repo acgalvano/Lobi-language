@@ -1,5 +1,5 @@
 {
-    "total_rows": 28,
+    "total_rows": 35,
     "offset": 0,
     "rows": [
         {
@@ -718,6 +718,181 @@
                     "gloss": "3pl say who have-rel strength superl who",
                     "translation": "They say who has more strength than the other",
                     "french": "On dit qui a plus de force que l'autre",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "29",
+            "key": [
+                "1",
+                29,
+                "29"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɔ̃́ wã́n cɪ́cɪ-n dɪ kpákpáár-dáár to-n cĩncẽ́ pʰʊ kõntín ɪ̃",
+                    "morphemes": "mɔ̃́ wã́n cɪ́cɪ-n dɪ kpákpáár-dáár to-n cĩncẽ́ pʰʊ kõntín ɪ̃",
+                    "gloss": "when 3pl.prog dispute-ipfv c1 stranger-one wear-ni cloth warm big come-ipfv",
+                    "translation": "When they were disputing, a stranger wearing a cloak came",
+                    "french": "Alors qu'ils se disputaient, un étranger vêtu d'un manteau est venu",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "30",
+            "key": [
+                "1",
+                30,
+                "30"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ wʊ ɟɪ́ kʰá nʊɔ a só ntɛ́ kɛ́ kɔɔ púnó-nẽ a cʊʊ kpákpáár-dáá=ꜜrá dɪ-ɪ ti ɔ́ɔ̀ cĩ́ncẽ ntɛ́=ꜜrá hánã́-nĩ fãŋɡá ɟɔ ule",
+                    "morphemes": "dɪ wʊ ɟɪ́ kʰá nʊɔ a só ntɛ́ kɛ́ kɔɔ púnó-nẽ a cʊʊ kpákpáár-dáá=ꜜrá dɪ-ɪ ti ɔ́ɔ̀ cĩ́ncẽ ntɛ́=ꜜrá hánã́-nĩ fãŋɡá ɟɔ ule",
+                    "gloss": "c1 3pl agree recip mouth and say person dem.dist pst be.able-re 3sg make stranger-one=DEF c1-expl 3sg.poss cloth person=DEF have-ni strong superl dem.dist",
+                    "translation": "Then they agreed together and said the person who would be able to make the stranger remove his cloak is the person who has more strength than the other",
+                    "french": "Puis ils se mirent d'accord et dirent que la personne qui serait capable de faire retirer son manteau à l'étranger était celle qui avait plus de force que l'autre.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "31",
+            "key": [
+                "1",
+                31,
+                "31"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ ɡɔ̃ɡʊɔ̃n ɟɪɛ pʰʊ́ʊ́ʊ́ ná faŋɡá tó-r nákɛ",
+                    "morphemes": "dɪ ɡɔ̃ɡʊɔ̃n ɟɪɛ pʰʊ́ʊ́ʊ́ ná faŋɡá tó-r nákɛ",
+                    "gloss": "c1 mountain wind blow with strength hard-re emph",
+                    "translation": "The North Wind blew very hard with all his strength",
+                    "french": "Le Vent du Nord soufflait très fort de toutes ses forces",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "32",
+            "key": [
+                "1",
+                32,
+                "32"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a á pʰʊ́ʊ́ ná faŋɡá dɪ kpákpáár-dáár=ꜜrá kʰɪm ɔ́ɔ̀ tṍmbi na cĩcĩ́n=ꜜná",
+                    "morphemes": "sɪ a á pʰʊ́ʊ́ ná faŋɡá dɪ kpákpáár-dáár=ꜜrá kʰɪm ɔ́ɔ̀ tṍmbi na cĩcĩ́n=ꜜná",
+                    "gloss": "c2 when 3sg blow with strength c1 stranger-one=DEF tighten 3sg body with cloak=DEF",
+                    "translation": "But when he blows very hard, the stranger tightens the cloak around his body",
+                    "french": "Mais quand il souffle très fort, l'inconnu resserre la cape autour de son corps.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "33",
+            "key": [
+                "1",
+                33,
+                "33"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a cʊ́ʊ́ mɪ̃́ɪ̃́ɪ̃́ a vɔɔ a fáá",
+                    "morphemes": "a cʊ́ʊ́ mɪ̃́ɪ̃́ɪ̃́ a vɔɔ a fáá",
+                    "gloss": "3sg do emph to be.tired to abandon",
+                    "translation": "He (the wind) did it a lot until, at last, he got tired and abandoned it",
+                    "french": "Il (le vent) l'a fait beaucoup jusqu'à ce qu'il finisse par se fatiguer et l'abandonner.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "34",
+            "key": [
+                "1",
+                34,
+                "34"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ jiri ɪ̃́ a pʰã́ kpákpákpá dɪ kpákpáár-dáár=ꜜrá ti ɔ́ɔ̀ cĩcẽ́ pʊrpʊr",
+                    "morphemes": "dɪ jiri ɪ̃́ a pʰã́ kpákpákpá dɪ kpákpáár-dáár=ꜜrá ti ɔ́ɔ̀ cĩcẽ́ pʊrpʊr",
+                    "gloss": "c1 sun come-ipfv to shine emph c1 stranger-one=DEF remove 3sg cloak quickly",
+                    "translation": "Then the Sun came to shine very brightly, and the stranger removed his cloak immediately",
+                    "french": "Puis le soleil brillait très fort et l'étranger ôta immédiatement son manteau.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "35",
+            "key": [
+                "1",
+                35,
+                "35"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ mɔ̃́ dɪ ha-n tʰale dɪ ɡɔ̃ɡʊɔ̃n ɟɪɛ tʰɛ́tʰɛ́ só jiri hánã́-nɪ̃ faŋɡá ɟɔ nɪ",
+                    "morphemes": "dɪ mɔ̃́ dɪ ha-n tʰale dɪ ɡɔ̃ɡʊɔ̃n ɟɪɛ tʰɛ́tʰɛ́ só jiri hánã́-nɪ̃ faŋɡá ɟɔ nɪ",
+                    "gloss": "c1 when c1 be-ipfv manner then mountain wind relf say sun have-rel strength superl 2pl",
+                    "translation": "Then, when it was that way, the North Wind himself said that it was the Sun who has more strength than him",
+                    "french": "Puis, quand il en fut ainsi, le Vent du Nord lui-même dit que c'était le Soleil qui avait plus de force que lui.",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
