@@ -1,5 +1,5 @@
 {
-    "total_rows": 35,
+    "total_rows": 45,
     "offset": 0,
     "rows": [
         {
@@ -893,6 +893,256 @@
                     "gloss": "c1 when c1 be-ipfv manner then mountain wind relf say sun have-rel strength superl 2pl",
                     "translation": "Then, when it was that way, the North Wind himself said that it was the Sun who has more strength than him",
                     "french": "Puis, quand il en fut ainsi, le Vent du Nord lui-même dit que c'était le Soleil qui avait plus de force que lui.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "36",
+            "key": [
+                "1",
+                36,
+                "36"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ fʊ́ɔ́-rɛ́",
+                    "morphemes": "mɪ fʊ́ɔ́-rɛ́",
+                    "gloss": "1sg greet-re",
+                    "translation": "Hello; good morning/afternoon/evening",
+                    "french": "Bonjour; bonjour/après-midi/soir",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "37",
+            "key": [
+                "1",
+                37,
+                "37"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nĩĩ kɛ lobí íri má mɪɛ nɪ̃",
+                    "morphemes": "nĩĩ kɛ lobí íri má mɪɛ nɪ̃",
+                    "gloss": "today dem Lobi name 1sg.fut tell 2pl",
+                    "translation": "Today I will tell you all about Lobi names",
+                    "french": "Aujourd'hui, je vais tout vous dire sur les noms Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "38",
+            "key": [
+                "1",
+                38,
+                "38"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "s-rɛ lɔbɛ sɪ hánã́-nɛ̃ sɪ tóò íri",
+                    "morphemes": "s-rɛ lɔbɛ sɪ hánã́-nɛ̃ sɪ tóò íri",
+                    "gloss": "1pl-re Lobi.pl 1pl have-re 1pl family name",
+                    "translation": "We Lobi, we have our family names",
+                    "french": "Nous Lobi, nous avons nos noms de famille",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "39",
+            "key": [
+                "1",
+                39,
+                "39"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "wʊ̃ so-n famĩĩ íri",
+                    "morphemes": "wʊ̃ so-n famĩĩ íri",
+                    "gloss": "3pl say-ipfv family.fr name",
+                    "translation": "As they say in French, family names",
+                    "french": "Comme on dit en français, les noms de famille",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "40",
+            "key": [
+                "1",
+                40,
+                "40"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ hánã́-nɛ̃ hɪɛn",
+                    "morphemes": "sɪ hánã́-nɛ̃ hɪɛn",
+                    "gloss": "1pl have-re Hien",
+                    "translation": "We have Hien",
+                    "french": "Nous avons Hien",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "41",
+            "key": [
+                "1",
+                41,
+                "41"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "m-rɛ kɛ́ hɪɛn ham",
+                    "morphemes": "m-rɛ kɛ́ hɪɛn ham",
+                    "gloss": "1sg-re dem Hien cop",
+                    "translation": "Me, I'm Hien",
+                    "french": "Moi, je m'appelle Hien",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "42",
+            "key": [
+                "1",
+                42,
+                "42"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lɔbɛ dɪkhã́ hánã́-nɛ̃ khámbú",
+                    "morphemes": "lɔbɛ dɪkhã́ hánã́-nɛ̃ khámbú",
+                    "gloss": "Lobi.pl too have-re Kambu",
+                    "translation": "The Lobi also have Kambu",
+                    "french": "Les Lobi ont aussi du Kambu",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "43",
+            "key": [
+                "1",
+                43,
+                "43"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪkhan wʊ̃ so khámbire khámbú na khámbire",
+                    "morphemes": "dɪkhan wʊ̃ so khámbire khámbú na khámbire",
+                    "gloss": "too 3pl say Kambire Kambu and Kambire",
+                    "translation": "They also say Kambire, Kambu and Kambire",
+                    "french": "On dit aussi Kambire, Kambu et Kambire",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "44",
+            "key": [
+                "1",
+                44,
+                "44"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "iri bɪ́ɛ́l=rá jɪ tɪ́blá biɛl",
+                    "morphemes": "iri bɪ́ɛ́l=rá jɪ tɪ́blá biɛl",
+                    "gloss": "name one=DEF cop person.pl one",
+                    "translation": "It is the same name, they are the same people",
+                    "french": "C'est le même nom, ce sont les mêmes personnes",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "45",
+            "key": [
+                "1",
+                45,
+                "45"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "da ha-le dɪkhã́ da lobi írí jɪ́ dɪ́khã",
+                    "morphemes": "da ha-le dɪkhã́ da lobi írí jɪ́ dɪ́khã",
+                    "gloss": "Dah cop-re too Dah Lobi name cop too",
+                    "translation": "There is Dah, Dah is also a Lobi name",
+                    "french": "Il y a Dah, Dah est aussi un nom Lobi",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
