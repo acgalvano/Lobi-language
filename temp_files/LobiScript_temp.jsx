@@ -537,12 +537,14 @@ var OrthographyFR = React.createClass(
           <td data-label="Orthography">m<b>on</b>tagne</td>
           <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n) 'montagne'</td>
         </tr>
-      </tbody>
+          
+        </tbody>
+        
       </table>
+      
         <h5><sup>1</sup>Les Lobi s'en serviront pour désigner des membres d'autres tribus, comme les Bété, avec lesquels ils entretiennent des relations étroites; c'est aussi interprété comme "esclave" mais avec une connotation positive, en ce sens qu'ils seront là l'un pour l'autre dans des situations difficiles mais ils plaisantent à ce sujet.</h5>
         <h5><sup>2</sup>Un peu plus nasal à Lobi.</h5>
         <h5><sup>3</sup>Sansan souligne que [bɛbɛ́] est une « mauvaise prononciation » courante de [ɓɛɓɛ́], même par certains Lobi.</h5>
-      
 
     </table><h2 className='ortho dividing header'>Consonants</h2><table className='ui unstackable celled table '>
         <thead>
