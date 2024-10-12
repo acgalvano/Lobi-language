@@ -1,5 +1,5 @@
 {
-    "total_rows": 45,
+    "total_rows": 167,
     "offset": 0,
     "rows": [
         {
@@ -1143,6 +1143,3177 @@
                     "gloss": "Dah cop-re too Dah Lobi name cop too",
                     "translation": "There is Dah, Dah is also a Lobi name",
                     "french": "Il y a Dah, Dah est aussi un nom Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "46",
+            "key": [
+                "1",
+                46,
+                "46"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "phál lobi iri jɪ́ dɪ́khã",
+                    "morphemes": "phál lobi iri jɪ́ dɪ́khã",
+                    "gloss": "Pal Lobi name cop too",
+                    "translation": "Pal is also a Lobi name ",
+                    "french": "Pal est aussi un nom Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "47",
+            "key": [
+                "1",
+                47,
+                "47"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a nɪ dã sɪ pá na nɪ́ɛ̀-rɛ́ tɪ́bla wʊ̃ so palé palé",
+                    "morphemes": "sɪ a nɪ dã sɪ pá na nɪ́ɛ̀-rɛ́ tɪ́bla wʊ̃ so palé palé",
+                    "gloss": "c2 if 2pl come/arrive 1pl place 2pl.fut hear-re person.pl 3pl say Palé.fr Palé.fr",
+                    "translation": "But if you all arrive at our place, you will hear people say Palé",
+                    "french": "Mais si vous arrivez tous chez nous, vous entendrez les gens dire Palé",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "48",
+            "key": [
+                "1",
+                48,
+                "48"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "palé dɪ ho-r mɔn dablo-n so-n thále",
+                    "morphemes": "palé dɪ ho-r mɔn dablo-n so-n thále",
+                    "gloss": "Pal expl be.like-re how white.person-ipfv say-ipfv this.way",
+                    "translation": "Palé is how the name is pronounced in French",
+                    "french": "Palé est la prononciation du nom en français",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "49",
+            "key": [
+                "1",
+                49,
+                "49"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dabló mɪ̃ wʊ̃ so thale palé palé",
+                    "morphemes": "dabló mɪ̃ wʊ̃ so thale palé palé",
+                    "gloss": "white.person this.way 3pl say this.way Palé.fr Palé.fr",
+                    "translation": "In French, they pronounce it like Palé",
+                    "french": "En français, ils le prononcent comme Palé",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "50",
+            "key": [
+                "1",
+                50,
+                "50"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ phal jɪ́ lobi-n so phál",
+                    "morphemes": "sɪ phal jɪ́ lobi-n so phál",
+                    "gloss": "c2 Pal cop Lobi-ipfv say Pal",
+                    "translation": "But it is [pʰal], Lobi say [pʰal]",
+                    "french": "Mais c'est [pʰal], les Lobi disent [pʰal]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "51",
+            "key": [
+                "1",
+                51,
+                "51"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nũfé dɪkhã́ lobi iri jɪ́ nũfé",
+                    "morphemes": "nũfé dɪkhã́ lobi iri jɪ́ nũfé",
+                    "gloss": "Noufé too Lobi name cop Noufé",
+                    "translation": "Noufé is also a Lobi name",
+                    "french": "Noufé est aussi un prénom Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "52",
+            "key": [
+                "1",
+                52,
+                "52"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sóm dɪkhã́ lobi iri lobi jɪ́ fámĩĩ iri jɪ́ sóm",
+                    "morphemes": "sóm dɪkhã́ lobi iri lobi jɪ́ fámĩĩ iri jɪ́ sóm",
+                    "gloss": "Som too Lobi name Lobi cop family.fr name cop Som",
+                    "translation": "Som is also a Lobi name, it is a Lobi family name",
+                    "french": "Som est aussi un nom Lobi, c'est un nom de famille Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "53",
+            "key": [
+                "1",
+                53,
+                "53"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ na nɪɛ-rɛ wʊ só somé somé",
+                    "morphemes": "sɪ na nɪɛ-rɛ wʊ só somé somé",
+                    "gloss": "c2 2pl.fut hear-re 3pl Somé Som Som",
+                    "translation": "But you will here them say [somé], [somé]",
+                    "french": "Mais vous les entendrez dire [some], [some]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "54",
+            "key": [
+                "1",
+                54,
+                "54"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ sóm dũwõ lobi mɔ̃ lobi so-n nakɛ",
+                    "morphemes": "sɪ sóm dũwõ lobi mɔ̃ lobi so-n nakɛ",
+                    "gloss": "c1 Som who.is lobi how-ipfv Lobi say-ipfv emph",
+                    "translation": "But it is Som that is Lobi, it is how Lobi say it",
+                    "french": "Mais c'est Som qui est Lobi, c'est comme ça que les Lobi le disent",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "55",
+            "key": [
+                "1",
+                55,
+                "55"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ́b",
+                    "morphemes": "sɪ́b",
+                    "gloss": "Sib",
+                    "translation": "Sib",
+                    "french": "frère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "56",
+            "key": [
+                "1",
+                56,
+                "56"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lobi iri dɪ́khan sɪ́b",
+                    "morphemes": "lobi iri dɪ́khan sɪ́b",
+                    "gloss": "Lobi name too Sib",
+                    "translation": "Sib is also a Lobi name",
+                    "french": "Sib est aussi un nom Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "57",
+            "key": [
+                "1",
+                57,
+                "57"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "pálnfó dɪ́khã lobi iri",
+                    "morphemes": "pálnfó dɪ́khã lobi iri",
+                    "gloss": "Palenfo too Lobi name",
+                    "translation": "Palenfo is also a Lobi name",
+                    "french": "Palenfo est aussi un nom Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "58",
+            "key": [
+                "1",
+                58,
+                "58"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "irí we dɪkhã́ na nɪ́ɛ̀-rɛ́ tɪ́bla-n só",
+                    "morphemes": "irí we dɪkhã́ na nɪ́ɛ̀-rɛ́ tɪ́bla-n só",
+                    "gloss": "name call too 2pl.fut hear-re person.pl-ipfv say",
+                    "translation": "You will also hear people say this name",
+                    "french": "Vous entendrez également des gens prononcer ce nom",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "59",
+            "key": [
+                "1",
+                59,
+                "59"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a nɪ gal sɪ dʊɔ na nɪ́ɛ̀ tɪ́bla-n dɪkhan só palenfó palenfó",
+                    "morphemes": "a nɪ gal sɪ dʊɔ na nɪ́ɛ̀ tɪ́bla-n dɪkhan só palenfó palenfó",
+                    "gloss": "if 2pl go c2 country 2pl.fut hear person.pl-ipfv too say Palenfo Palenfo",
+                    "translation": "If you all go to my country, you will also hear people say [palenfó]",
+                    "french": "Si vous allez tous dans mon pays, vous entendrez aussi des gens dire [palenfó]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "60",
+            "key": [
+                "1",
+                60,
+                "60"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ ho-r mɔ dablo-n ɲɪ-n thalɛ-ra wʊ̃ hĩĩ-n sá a só",
+                    "morphemes": "dɪ ho-r mɔ dablo-n ɲɪ-n thalɛ-ra wʊ̃ hĩĩ-n sá a só",
+                    "gloss": "expl look.like-re how white.person-ipfv write-ipfv this.way-LOC? 3pl see-ipfv and 3sg say",
+                    "translation": "This (palenfó) looks like how it's written in French, that's how they consider it ",
+                    "french": "Cela (palenfó) ressemble à ce qui est écrit en français, c'est comme ça qu'ils le considèrent",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "61",
+            "key": [
+                "1",
+                61,
+                "61"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sá a ja do mɪ̃́ a palnfó jɪ",
+                    "morphemes": "sá a ja do mɪ̃́ a palnfó jɪ",
+                    "gloss": "but if it is such neg Palenfo cop",
+                    "translation": "Otherwise, it is [palnfó]",
+                    "french": "Sinon, c'est [palnfó]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "62",
+            "key": [
+                "1",
+                62,
+                "62"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "palnfó dũwõ mɔ̃ lobi-n we-n palnfó",
+                    "morphemes": "palnfó dũwõ mɔ̃ lobi-n we-n palnfó",
+                    "gloss": "Palenfo which.is how Lobi-ipfv call-ipfv Palenfo",
+                    "translation": "[palnfó] is how Lobi call Palenfo",
+                    "french": "[palnfó] c'est ainsi que les Lobi appellent Palenfo",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "63",
+            "key": [
+                "1",
+                63,
+                "63"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lɔbɛ=ra dɪkhã́ bɪsã́n-nã́ hánã́-nɛ̃ íri",
+                    "morphemes": "lɔbɛ=ra dɪkhã́ bɪsã́n-nã́ hánã́-nɛ̃ íri",
+                    "gloss": "Lobi.PL=DEF too child-pl have-re name",
+                    "translation": "Lobi also have names for their children",
+                    "french": "Les Lobi ont aussi des noms pour leurs enfants",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "64",
+            "key": [
+                "1",
+                64,
+                "64"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "tɪbla fɔɔ hánã́-nɛ̃ íri",
+                    "morphemes": "tɪbla fɔɔ hánã́-nɛ̃ íri",
+                    "gloss": "person.pl all have-re name",
+                    "translation": "Every kid has their name",
+                    "french": "Chaque enfant a son nom",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "65",
+            "key": [
+                "1",
+                65,
+                "65"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "iri j'ɛr mɪ so-n nɛ̃nɛ̃nɛ̃ do-r famíí iri",
+                    "morphemes": "iri j'ɛr mɪ so-n nɛ̃nɛ̃nɛ̃ do-r famíí iri",
+                    "gloss": "name which 1sg say-ipfv just be-re family name",
+                    "translation": "The names which I just said are family names",
+                    "french": "Les noms que je viens de citer sont des noms de famille",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "66",
+            "key": [
+                "1",
+                66,
+                "66"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ fɪ hánã́-nɛ̃ fɪ thɪ́ iri na iri kɛ́ wʊ̃ ha fɪ-n ado khɛ́r=bri fɪ do ɔɔ ado kun=bri fɪ do",
+                    "morphemes": "sɪ fɪ hánã́-nɛ̃ fɪ thɪ́ iri na iri kɛ́ wʊ̃ ha fɪ-n ado khɛ́r=bri fɪ do ɔɔ ado kun=bri fɪ do",
+                    "gloss": "c2 2sg have-re 2sg father name and name dem 3pl cop 2pl-re if woman=small 2pl cop or even man=small 2sg cop",
+                    "translation": "You have your father's name and the name that you get if you are male or female",
+                    "french": "Vous avez le nom de votre père et le nom que vous obtenez si vous êtes un homme ou une femme",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "67",
+            "key": [
+                "1",
+                67,
+                "67"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ado khɛ́r=bɪ́r fɪ do dɪ fɪ do f-rɛ wʊ kɔ́ɔ́ kɔ̃ iri kɛ wʊ ha fɪ-n irí",
+                    "morphemes": "ado khɛ́r=bɪ́r fɪ do dɪ fɪ do f-rɛ wʊ kɔ́ɔ́ kɔ̃ iri kɛ wʊ ha fɪ-n irí",
+                    "gloss": "if woman=small 2sg cop c1 if cop 2sg-re 3pl pst give.birth-ipfv name dem 3pl give 2sg-ipfv Iri",
+                    "translation": "If you are a young woman, and you are first-born, you are called Iri",
+                    "french": "Si vous êtes une jeune femme et que vous êtes l'aînée, vous vous appelez Iri",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "68",
+            "key": [
+                "1",
+                68,
+                "68"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "irí wʊ̃ há khɛ́r=bɪ́r=ra",
+                    "morphemes": "irí wʊ̃ há khɛ́r=bɪ́r=ra",
+                    "gloss": "Iri 3pl give woman=small=DEF",
+                    "translation": "Iri is how they name the young woman",
+                    "french": "Iri est le nom qu'ils donnent à la jeune femme",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "69",
+            "key": [
+                "1",
+                69,
+                "69"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a wʊ kɔ̃ fɪ dɪ fɪ do balaɲɔ dár dɪ fɪ-n do ʔɔʔɔ́ ʔɔʔɔ́",
+                    "morphemes": "a wʊ kɔ̃ fɪ dɪ fɪ do balaɲɔ dár dɪ fɪ-n do ʔɔʔɔ́ ʔɔʔɔ́",
+                    "gloss": "if 3pl give.birth-ipfv 2sg c1 2sg cop second one c1 2pl-ipfv cop Hoho Hoho",
+                    "translation": "If you are the second-born, then you are called Hoho",
+                    "french": "Si vous êtes le deuxième-né, alors vous vous appelez Hoho",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "70",
+            "key": [
+                "1",
+                70,
+                "70"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ kpaa-r a do balnther daar khɛr=bi balnther dɪ wʊ̃ we fɪ inĩ́ inĩ́",
+                    "morphemes": "a fɪ kpaa-r a do balnther daar khɛr=bi balnther dɪ wʊ̃ we fɪ inĩ́ inĩ́",
+                    "gloss": "if 2sg follow-re to/and cop third one woman=small third rel 3pl call 2sg Ini Ini",
+                    "translation": "If you are the third daughter, they call you Ini",
+                    "french": "Si tu es la troisième fille, on t'appelle Ini",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "71",
+            "key": [
+                "1",
+                71,
+                "71"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ do balná daar dɪ wʊ̃ we fɪ ɓɪ̃ɓɪ̃́n ɓɪ̃ɓɪ̃́n",
+                    "morphemes": "a fɪ do balná daar dɪ wʊ̃ we fɪ ɓɪ̃ɓɪ̃́n ɓɪ̃ɓɪ̃́n",
+                    "gloss": "if 2sg cop fourth one rel 3pl call 2sg Kpinkpinn Kpinkpinn",
+                    "translation": "If you are the fourth one, they call you Kpinkpinn",
+                    "french": "Si vous êtes le quatrième, ils vous appellent Kpinkpinn",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "72",
+            "key": [
+                "1",
+                72,
+                "72"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ do balmɔɪ daar siséré siséré",
+                    "morphemes": "a fɪ do balmɔɪ daar siséré siséré",
+                    "gloss": "if 2sg cop fifrth one Siséré Siséré",
+                    "translation": "If you are fifth, Siséré",
+                    "french": "Si tu es cinquième, Siséré",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "73",
+            "key": [
+                "1",
+                73,
+                "73"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "iri j'ɛr kɛ mɪ so-n khɛr=bi iri a khɛr=bi iri a j'ele",
+                    "morphemes": "iri j'ɛr kɛ mɪ so-n khɛr=bi iri a khɛr=bi iri a j'ele",
+                    "gloss": "name which that 1sg say-ipfv woman=small name cop woman=small name cop these",
+                    "translation": "The names that I said are female names",
+                    "french": "Les noms que j'ai dit sont des noms féminins",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "74",
+            "key": [
+                "1",
+                74,
+                "74"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɛ̃nɛ̃ sɪ n ha nɪ̃ kũ=bi kũ=bi ir",
+                    "morphemes": "nɛ̃nɛ̃ sɪ n ha nɪ̃ kũ=bi kũ=bi ir",
+                    "gloss": "now c2 1sg give 2pl man=small man=small name",
+                    "translation": "Now I will give you the male names",
+                    "french": "Maintenant je vais vous donner les noms masculins",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "75",
+            "key": [
+                "1",
+                75,
+                "75"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a wʊ kɔ̃ fɪ dɪ fɪ do frɛ wʊ kɔɔ kɔ̃ do kũ dɪ wʊ̃ we fɪ sèé sèé",
+                    "morphemes": "a wʊ kɔ̃ fɪ dɪ fɪ do frɛ wʊ kɔɔ kɔ̃ do kũ dɪ wʊ̃ we fɪ sèé sèé",
+                    "gloss": "if 3pl give.birth 2sg c1 2sg cop 2sg 3pl pst give.birth cop man c1 3pl call 2sg Sèé Sèé",
+                    "translation": "If you are the first son, they call you Sèé",
+                    "french": "Si tu es le premier fils, on t'appelle Sèé",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "76",
+            "key": [
+                "1",
+                76,
+                "76"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ nĩĩ kɛ a nɪ gal sɪ dʊɔ ɔɔ nɪ punõ-nẽ nɪ cã́ã́ nã lobi wa so-r sie sie",
+                    "morphemes": "sɪ nĩĩ kɛ a nɪ gal sɪ dʊɔ ɔɔ nɪ punõ-nẽ nɪ cã́ã́ nã lobi wa so-r sie sie",
+                    "gloss": "c2 today rel if 2pl go 1pl country or 2pl may-re 2pl meet-ipfv with Lobi 3pl.fut say-re Sie Sie",
+                    "translation": "But nowadays, if you go to our country you may meet a Lobi who is called [sie]",
+                    "french": "Mais de nos jours, si vous allez dans notre pays, vous pouvez rencontrer un Lobi qui s'appelle [sie]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "77",
+            "key": [
+                "1",
+                77,
+                "77"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sie sie wʊ̃ we",
+                    "morphemes": "sie sie wʊ̃ we",
+                    "gloss": "Sie Sie 3pl.ipfv call",
+                    "translation": "They will say, "Sie, Sie"",
+                    "french": "Ils diront : « Sie, Sie »",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "78",
+            "key": [
+                "1",
+                78,
+                "78"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ lobi ir we pa bʊɔ bʊɔ sèé a a do sìé a sèé jɪ sèé jɪ",
+                    "morphemes": "sɪ lobi ir we pa bʊɔ bʊɔ sèé a a do sìé a sèé jɪ sèé jɪ",
+                    "gloss": "c2 Lobi name call the.way good good Sèé 3sg neg cop Sie neg Sèé cop Sèé cop",
+                    "translation": "Otherwise, the true pronunciation is [sèé], not [sìé], it is [sèé]",
+                    "french": "Sinon, la vraie prononciation est [sèé], pas [sìé], c'est [sèé]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "79",
+            "key": [
+                "1",
+                79,
+                "79"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a wʊ kɔ̃ fɪ dɪ fɪ do balaɲɔ dɪ wʊ̃ we fɪ sãsã́",
+                    "morphemes": "a wʊ kɔ̃ fɪ dɪ fɪ do balaɲɔ dɪ wʊ̃ we fɪ sãsã́",
+                    "gloss": "if 3pl give.birth 2sg c1 2sg cop second cop 3pl call 2sg Sansan",
+                    "translation": "If you are the second one, they call you Sansan",
+                    "french": "Si vous êtes le deuxième, ils vous appellent Sansan",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "80",
+            "key": [
+                "1",
+                80,
+                "80"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "m-rɛ kɛ́ sãsã́ wʊ̃ we=m",
+                    "morphemes": "m-rɛ kɛ́ sãsã́ wʊ̃ we=m",
+                    "gloss": "1sg-re dem Sansan 3pl.ipfv call=1SG",
+                    "translation": "Me, they call me Sansan",
+                    "french": "Moi, ils m'appellent Sansan",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "81",
+            "key": [
+                "1",
+                81,
+                "81"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ do balntér dáár dɪ wʊ̃ we fɪ ɔlɔ́ ɔlɔ́",
+                    "morphemes": "a fɪ do balntér dáár dɪ wʊ̃ we fɪ ɔlɔ́ ɔlɔ́",
+                    "gloss": "if 2sg cop third one rel 3pl.ipfv call 2sg Holo Holo",
+                    "translation": "If you are the third one, they call you Holo",
+                    "french": "Si vous êtes le troisième, ils vous appellent Holo",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "82",
+            "key": [
+                "1",
+                82,
+                "82"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ do balná dáár dɪ wʊ̃ we fɪ ɓɛɓɛ́ ɓɛɓɛ́",
+                    "morphemes": "a fɪ do balná dáár dɪ wʊ̃ we fɪ ɓɛɓɛ́ ɓɛɓɛ́",
+                    "gloss": "if 2sg cop fourth one rel 3pl call 2pl Kpekpe Kpekpe",
+                    "translation": "If you are the fourth, they call you Kpekpe",
+                    "french": "Si tu es le quatrième, on t'appelle Kpekpe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "83",
+            "key": [
+                "1",
+                83,
+                "83"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ ɓɛɓɛ́ kɛ́ dɪkhã́ na ɡáá-lɛ́ nĩĩ a nɪ ɡáá-lɛ́ nĩĩ sɪ dʊɔ na cáá-nɛ̃ ɔ́khaa wã́ã̀ só bɛbɛ́ bɛbɛ́ j'ɛkhã-n so bebé",
+                    "morphemes": "sɪ ɓɛɓɛ́ kɛ́ dɪkhã́ na ɡáá-lɛ́ nĩĩ a nɪ ɡáá-lɛ́ nĩĩ sɪ dʊɔ na cáá-nɛ̃ ɔ́khaa wã́ã̀ só bɛbɛ́ bɛbɛ́ j'ɛkhã-n so bebé",
+                    "gloss": "c2 Kpekpe dem too 2pl.fut go-re today if 2pl go-re today 1pl.poss country and run-re someone 3pl.fut say Bɛbɛ Bɛbɛ some-rel say Bebe",
+                    "translation": "If you go to our country, nowadays, you will meet people who will say [bɛbɛ] as well as [bebe]",
+                    "french": "Si vous allez dans notre pays, de nos jours, vous rencontrerez des gens qui diront [bɛbɛ] ainsi que [bebe].",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "84",
+            "key": [
+                "1",
+                84,
+                "84"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ dɪ ho-r j'ɛr kɛ a dõ-n lobi a wã ɟɪ mɔ̃ wa so-n ɓɛɓɛ́ a",
+                    "morphemes": "sɪ dɪ ho-r j'ɛr kɛ a dõ-n lobi a wã ɟɪ mɔ̃ wa so-n ɓɛɓɛ́ a",
+                    "gloss": "c2 c1 be.like-re dem.dist dem 3sg cop-ipfv Lobi neg 3pl.ipfv know how 3pl.fut say-ipfv KpeKpe neg",
+                    "translation": "It is like, those who are not Lobi, they don't know how to pronounce Kpekpe",
+                    "french": "C'est comme ceux qui ne sont pas Lobi, ils ne savent pas prononcer Kpekpe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "85",
+            "key": [
+                "1",
+                85,
+                "85"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛ́r dɔ-nɔ́ɔ́ dɪ wʊ̃ so bebe",
+                    "morphemes": "j'ɛ́r dɔ-nɔ́ɔ́ dɪ wʊ̃ so bebe",
+                    "gloss": "dem.dist cop-reason/why rel 3pl.ipfv say Bebe",
+                    "translation": "That is the reason why they say [bebe]",
+                    "french": "C'est pour ça qu'ils disent [bébé]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "86",
+            "key": [
+                "1",
+                86,
+                "86"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ so ńtɛ á so ɓɛɓɛ́ áná punɔ̃ na so a",
+                    "morphemes": "a fɪ so ńtɛ á so ɓɛɓɛ́ áná punɔ̃ na so a",
+                    "gloss": "if 2sg tell person to say ɓɛɓɛ́ 3sg.fut can neg say neg",
+                    "translation": "If you tell someone to say [ɓɛɓɛ́], he won't be able to",
+                    "french": "Si vous dites à quelqu'un de dire [ɓɛɓɛ́], il ne pourra pas le faire.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "87",
+            "key": [
+                "1",
+                87,
+                "87"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛ́r dɔ-nɔ́ɔ́ dɪ wʊ̃ so bɛbɛ́ j'ɛkhã-n so bebe",
+                    "morphemes": "j'ɛ́r dɔ-nɔ́ɔ́ dɪ wʊ̃ so bɛbɛ́ j'ɛkhã-n so bebe",
+                    "gloss": "dem.dist cop-reason/why rel 3pl.ipfv say Bebe some-ipfv say Bebe",
+                    "translation": "Therefore, they say [bɛbɛ́] and some say [bebé]",
+                    "french": "C'est pourquoi ils disent [bɛbɛ́] et certains disent [bebé]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "88",
+            "key": [
+                "1",
+                88,
+                "88"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a jɪ a do mɪ̃ a ɓɛɓɛ́ jɪ ɓɛɓɛ́",
+                    "morphemes": "sɪ a jɪ a do mɪ̃ a ɓɛɓɛ́ jɪ ɓɛɓɛ́",
+                    "gloss": "c2 if cop neg cop that.way neg Kpekpe cop Kpekpe",
+                    "translation": "Otherwise, it is [ɓɛɓɛ́]",
+                    "french": "Sinon, c'est [ɓɛɓɛ́]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "89",
+            "key": [
+                "1",
+                89,
+                "89"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ do balmɔɪ=daar dɪ wʊ̃ we fɪ ɓãɓã́",
+                    "morphemes": "a fɪ do balmɔɪ=daar dɪ wʊ̃ we fɪ ɓãɓã́",
+                    "gloss": "if 2sg cop fifth=one rel 3pl call 2sg Kpankpan",
+                    "translation": "If you are the fifth one, they call you Kpankpan",
+                    "french": "Si vous êtes le cinquième, ils vous appellent Kpankpan",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "90",
+            "key": [
+                "1",
+                90,
+                "90"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ iri sʊnɔ̃ kɛ mɪ mii-nĩ́ dɪ tɛɛnãń n mɪɛ nɪ̃ mɔ̃ dɪ ha-n",
+                    "morphemes": "sɪ iri sʊnɔ̃ kɛ mɪ mii-nĩ́ dɪ tɛɛnãń n mɪɛ nɪ̃ mɔ̃ dɪ ha-n",
+                    "gloss": "c2 name pl dem 1sg say-re rel should 1sg say 2pl how expl cop-ipfv",
+                    "translation": "But, the names that I said, I should tell you more about how it is",
+                    "french": "Mais, les noms que j'ai dit, je devrais vous en dire plus sur ce que c'est",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "91",
+            "key": [
+                "1",
+                91,
+                "91"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "iri=rá nrɛ nrɛ pa dɪ̃ ha",
+                    "morphemes": "iri=rá nrɛ nrɛ pa dɪ̃ ha",
+                    "gloss": "name=DEF mother mother side expl-ipfv cop",
+                    "translation": "The names are based on the mother's line",
+                    "french": "Les noms sont basés sur la lignée maternelle",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "92",
+            "key": [
+                "1",
+                92,
+                "92"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ ho-r thale khɛr bɪɛl na punõ na kɔ̃ sèé jɛɲɔ a",
+                    "morphemes": "dɪ ho-r thale khɛr bɪɛl na punõ na kɔ̃ sèé jɛɲɔ a",
+                    "gloss": "expl look.like that.way woman one neg be.able fut give.birth Sie two neg",
+                    "translation": "It is not possible for a woman to have two Sie",
+                    "french": "Il n'est pas possible pour une femme d'avoir deux Sie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "93",
+            "key": [
+                "1",
+                93,
+                "93"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "khɛr bɪɛl na punõ na kɔ̃́ na hanã sãsã́ jɛɲɔ á",
+                    "morphemes": "khɛr bɪɛl na punõ na kɔ̃́ na hanã sãsã́ jɛɲɔ á",
+                    "gloss": "woman one neg be.able fut give.birth neg have Sansan two neg",
+                    "translation": "It is not possible for a woman to have two Sansan",
+                    "french": "Il n'est pas possible pour une femme d'avoir deux Sansan",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "94",
+            "key": [
+                "1",
+                94,
+                "94"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "khɛr bɪɛl na punõ na hanã irí jɛɲɔ á",
+                    "morphemes": "khɛr bɪɛl na punõ na hanã irí jɛɲɔ á",
+                    "gloss": "woman one neg be.able fut have Iri two neg",
+                    "translation": "A woman cannot give birth to two Iri",
+                    "french": "Une femme ne peut pas donner naissance à deux Iri",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "95",
+            "key": [
+                "1",
+                95,
+                "95"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "irí bɪɛl thẽ thẽ thẽ thẽ a ná hanã",
+                    "morphemes": "irí bɪɛl thẽ thẽ thẽ thẽ a ná hanã",
+                    "gloss": "Iri one only only only only 3sg fut have",
+                    "translation": "She can only have one Iri",
+                    "french": "Elle ne peut avoir qu'un seul Iri",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "96",
+            "key": [
+                "1",
+                96,
+                "96"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sãsã́ bɪɛl thẽ thẽ a ná hanã",
+                    "morphemes": "sãsã́ bɪɛl thẽ thẽ a ná hanã",
+                    "gloss": "Sansan one only only 3sg fut have",
+                    "translation": "She can only have one Sansan",
+                    "french": "Elle ne peut avoir qu'un seul Sansan",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "97",
+            "key": [
+                "1",
+                97,
+                "97"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ʔɔʔɔ́ bɪɛl thẽ thẽ a ná hanã",
+                    "morphemes": "ʔɔʔɔ́ bɪɛl thẽ thẽ a ná hanã",
+                    "gloss": "Hoho one only only 3sg fut have",
+                    "translation": "She can only have one Hoho",
+                    "french": "Elle ne peut avoir qu'un seul Hoho",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "98",
+            "key": [
+                "1",
+                98,
+                "98"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ́ kũn kũn punõ-nẽ a hanã bɪsãn-ã a hanã sèé jẽther a hanã sãsã́ jẽther",
+                    "morphemes": "sɪ́ kũn kũn punõ-nẽ a hanã bɪsãn-ã a hanã sèé jẽther a hanã sãsã́ jẽther",
+                    "gloss": "c2 man man can-re 3sg have child-pl 3sg have Sie three 3sg have Sansan three",
+                    "translation": "But a man can have three Sie, three Sansan",
+                    "french": "Mais un homme peut avoir trois Sie, trois Sansan",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "99",
+            "key": [
+                "1",
+                99,
+                "99"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a á hé khɛr a á hánã́ bɪsã́n-ã na khɛr-a kpɪ kpɪ a ɔ́ɔ̀ khɛr bɪɛl kɔɔ kũ=bir sèé jɪ́",
+                    "morphemes": "a á hé khɛr a á hánã́ bɪsã́n-ã na khɛr-a kpɪ kpɪ a ɔ́ɔ̀ khɛr bɪɛl kɔɔ kũ=bir sèé jɪ́",
+                    "gloss": "if 3sg marry woman if 3sg have child-pl with woman-pl different different if 3sg.poss woman one pst man=small Sie cop",
+                    "translation": "If he has kids with different women, each first boy from each woman is called Sie",
+                    "french": "S'il a des enfants avec des femmes différentes, chaque premier garçon de chaque femme s'appelle Sie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "100",
+            "key": [
+                "1",
+                100,
+                "100"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ khɛr=ra kɔ̃ kũ=bir sèé dɪ́khã wa wii",
+                    "morphemes": "dɪ khɛr=ra kɔ̃ kũ=bir sèé dɪ́khã wa wii",
+                    "gloss": "c1 woman=DEF give.birth boy=small Sie also 3pl.fut call",
+                    "translation": "And if the woman gives birth to a boy, they will call him Sie",
+                    "french": "Et si la femme donne naissance à un garçon, ils l'appelleront Sie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "101",
+            "key": [
+                "1",
+                101,
+                "101"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a a bru he khɛr bɪɛl dɪ khɛ́r=ra kɔ̃ kũ=bri sèé=ra wa wii",
+                    "morphemes": "a a bru he khɛr bɪɛl dɪ khɛ́r=ra kɔ̃ kũ=bri sèé=ra wa wii",
+                    "gloss": "if 3sg again marry woman one rel woman=DEF give.birth man=small Sie=DEF 3pl.fut call",
+                    "translation": "And if he marries yet another woman, the first boy of this woman will be called Sie",
+                    "french": "Et s'il épouse encore une autre femme, le premier garçon de cette femme s'appellera Sie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "102",
+            "key": [
+                "1",
+                102,
+                "102"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kũn punõ-nẽ a hanã sèé jánã a do a kɔ̃ a do a hánã́ bɪsãn-ã na khɛr=ra janã́",
+                    "morphemes": "kũn punõ-nẽ a hanã sèé jánã a do a kɔ̃ a do a hánã́ bɪsãn-ã na khɛr=ra janã́",
+                    "gloss": "man can-re 3sg have Sie four if cop 3sg give.birth if cop 3sg have child-pl with woman=DEF four",
+                    "translation": "A man can have four Sie if he has one Sie from four different women",
+                    "french": "Un homme peut avoir quatre Sie s'il en a un de quatre femmes différentes",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "103",
+            "key": [
+                "1",
+                103,
+                "103"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "á punõ-nẽ a hanã irí jánã a á kɔ̃ khɛr=bɪ-nã na khɛr-a janã́",
+                    "morphemes": "á punõ-nẽ a hanã irí jánã a á kɔ̃ khɛr=bɪ-nã na khɛr-a janã́",
+                    "gloss": "3sg can-re 3sg have Iri four if 3sg give.birth woman=small-pl with woman-pl four",
+                    "translation": "He can have four Iri, each from one woman",
+                    "french": "Il peut avoir quatre Iri, chacun d'une femme",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "104",
+            "key": [
+                "1",
+                104,
+                "104"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ́ khɛr ná punõ na hanã sèé jɛ́ɲɔ a",
+                    "morphemes": "sɪ́ khɛr ná punõ na hanã sèé jɛ́ɲɔ a",
+                    "gloss": "c2 woman fut can neg have Sie two neg",
+                    "translation": "But a woman cannot have two Sie",
+                    "french": "Mais une femme ne peut pas avoir deux Sie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "105",
+            "key": [
+                "1",
+                105,
+                "105"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "hále nakɛ á do a hanã bɪsãn na kũ kpɪ kũ jɛɲɔ jáà a a hanã bɪsãn-ã na kũ kpɪ́ kpɪ́ sɪ a na punõ na hanã sèé jɛɲɔ á",
+                    "morphemes": "hále nakɛ á do a hanã bɪsãn na kũ kpɪ kũ jɛɲɔ jáà a a hanã bɪsãn-ã na kũ kpɪ́ kpɪ́ sɪ a na punõ na hanã sèé jɛɲɔ á",
+                    "gloss": "even emph if cop 3sg have child with man different man two eq if 3sg have child-pl with man different different c2 3sg fut can neg have Sie two neg",
+                    "translation": "Even if she has two boys, one from each of two different men, only her first boy can be called Sie",
+                    "french": "Même si elle a deux garçons, un de chacun de deux hommes différents, seul son premier garçon peut s'appeler Sie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "106",
+            "key": [
+                "1",
+                106,
+                "106"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a na punõ na hanã irí jɛɲɔ á",
+                    "morphemes": "a na punõ na hanã irí jɛɲɔ á",
+                    "gloss": "3sg fut be.able neg have Iri two neg",
+                    "translation": "She cannot have two Iri",
+                    "french": "Elle ne peut pas avoir deux Iri",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "107",
+            "key": [
+                "1",
+                107,
+                "107"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɛ̃nɛ̃ mɔ̃ wʊ̃ we nrɛ",
+                    "morphemes": "nɛ̃nɛ̃ mɔ̃ wʊ̃ we nrɛ",
+                    "gloss": "now how 3pl call mother",
+                    "translation": "Now, how do we call the mother",
+                    "french": "Maintenant, comment appelle-t-on la mère ?",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "108",
+            "key": [
+                "1",
+                108,
+                "108"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "khɛr kɛ kɔ̃ fɪ-n wʊ̃ so ɪnɪ̃ ɪnɪ̃",
+                    "morphemes": "khɛr kɛ kɔ̃ fɪ-n wʊ̃ so ɪnɪ̃ ɪnɪ̃",
+                    "gloss": "woman dem give.birth 2sg-ipfv 3pl say Ini Ini",
+                    "translation": "The woman who gave birth to you is called Ini",
+                    "french": "La femme qui t'a donné naissance s'appelle Ini",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "109",
+            "key": [
+                "1",
+                109,
+                "109"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nrɛ nrɛ duwõn nrɛ",
+                    "morphemes": "nrɛ nrɛ duwõn nrɛ",
+                    "gloss": "mother mother cop mother",
+                    "translation": "Nre is mother",
+                    "french": "Nre est mère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "110",
+            "key": [
+                "1",
+                110,
+                "110"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a má we mɪ̃́ɪ̃̀ nɪ̃ a ma we khɛr kɛ kɔ̃ mɪ̃-n ɪnɪ̃ mɪ̃ wi ji",
+                    "morphemes": "a má we mɪ̃́ɪ̃̀ nɪ̃ a ma we khɛr kɛ kɔ̃ mɪ̃-n ɪnɪ̃ mɪ̃ wi ji",
+                    "gloss": "when 1sg call 1sg.poss mother when 1sg call woman dem give.birth 1sg-ipfv mother 1sg.ipfv call.ex 3sg",
+                    "translation": "When I call my mother, when I call the woman who gave birth to me, I call her [ɪnɪ̃]",
+                    "french": "Quand j'appelle ma mère, quand j'appelle la femme qui m'a donné naissance, je l'appelle [ɪnɪ̃]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "111",
+            "key": [
+                "1",
+                111,
+                "111"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kũn kɛ kɔ̃ mɪ̃-n nthɪ ma wi ji",
+                    "morphemes": "kũn kɛ kɔ̃ mɪ̃-n nthɪ ma wi ji",
+                    "gloss": "man dem give.birth 1sg-ipfv father 1sg call.ex 3sg",
+                    "translation": "I call my biological father [nthɪ]",
+                    "french": "J'appelle mon père biologique [nthɪ]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "112",
+            "key": [
+                "1",
+                112,
+                "112"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a ma wi ji dɪ mɪ̃ so nthɪ",
+                    "morphemes": "a ma wi ji dɪ mɪ̃ so nthɪ",
+                    "gloss": "when 1sg call.ex 3sg rel 1sg.ipfv say father",
+                    "translation": "When I have to call him, I say [nthɪ]",
+                    "french": "Quand je dois l'appeler, je dis [nthɪ]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "113",
+            "key": [
+                "1",
+                113,
+                "113"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛrɛ jɛkha-n so babá papá",
+                    "morphemes": "j'ɛrɛ jɛkha-n so babá papá",
+                    "gloss": "dem.prox some-ipfv say Baba Papa",
+                    "translation": "This is what some people call Baba or Papa",
+                    "french": "C'est ce que certaines personnes appellent Baba ou Papa",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "114",
+            "key": [
+                "1",
+                114,
+                "114"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lobi=ra nthɪ jɪ nthɪ wʊ̃ so thrɛ jɪ",
+                    "morphemes": "lobi=ra nthɪ jɪ nthɪ wʊ̃ so thrɛ jɪ",
+                    "gloss": "lobi=DEF father cop father 3pl say fatherhood cop",
+                    "translation": "In Lobi, it is [nthɪ], they say [nthɪ]",
+                    "french": "En Lobi, c'est [nthɪ], ils disent [nthɪ]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "115",
+            "key": [
+                "1",
+                115,
+                "115"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a wʊ kɔ̃ sɪ jɛɲɔ m-rɛ na khɛr=bri mɪ̃́ɪ̃̀ thɪ na mɪ̃́ɪ̃̀ nɪ̃ kɔ̃ sɪ dɪ m-rɛ na khɛr=bri mɪ̃́ɪ̃̀ khɛr=bri le mɪ̃́ɪ̃̀ õkhɛr jɪ õkhɛr õkhɛr mɪ̃́ɪ̃̀ õkhɛr jɪ",
+                    "morphemes": "a wʊ kɔ̃ sɪ jɛɲɔ m-rɛ na khɛr=bri mɪ̃́ɪ̃̀ thɪ na mɪ̃́ɪ̃̀ nɪ̃ kɔ̃ sɪ dɪ m-rɛ na khɛr=bri mɪ̃́ɪ̃̀ khɛr=bri le mɪ̃́ɪ̃̀ õkhɛr jɪ õkhɛr õkhɛr mɪ̃́ɪ̃̀ õkhɛr jɪ",
+                    "gloss": "if 3pl give.birth 1pl two 1sg-re and woman=small 1sg.poss father and 1sg.poss mother give.birth 1pl rel 1sg-re and woman=small 1sg.poss woman=small dem 1sg.poss sister cop sister sister 1sg.poss sister cop",
+                    "translation": "A girl born from the same parents as me is my sister, called [õkhɛr] in Lobi",
+                    "french": "Une fille née des mêmes parents que moi est ma sœur, appelée [õkhɛr] en Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "116",
+            "key": [
+                "1",
+                116,
+                "116"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ mɪ̃́ɪ̃̀ õkhɛr le a do-r mɪ̃́ɪ̃̀ thɪ na mɪ̃́ɪ̃̀ nɪ̃ bi=khɛr",
+                    "morphemes": "sɪ mɪ̃́ɪ̃̀ õkhɛr le a do-r mɪ̃́ɪ̃̀ thɪ na mɪ̃́ɪ̃̀ nɪ̃ bi=khɛr",
+                    "gloss": "c2 1sg.poss sister dem 2sg cop-re 1sg.poss father and 1sg.poss mother kid=woman",
+                    "translation": "So, my sister is the daughter of my father and my mother",
+                    "french": "Donc, ma sœur est la fille de mon père et de ma mère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "117",
+            "key": [
+                "1",
+                117,
+                "117"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ nɪ̃ na mɪ̃́ɪ̃̀ thɪ j'áà bi=khɛr ha mɪ̃́ɪ̃̀ õkhɛr",
+                    "morphemes": "mɪ̃́ɪ̃̀ nɪ̃ na mɪ̃́ɪ̃̀ thɪ j'áà bi=khɛr ha mɪ̃́ɪ̃̀ õkhɛr",
+                    "gloss": "1sg.poss mother and 1sg.poss father 3pl.pos kid=woman cop 1sg.poss sister",
+                    "translation": "My mother and my father's daughter is my sister",
+                    "french": "La fille de ma mère et de mon père est ma sœur",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "118",
+            "key": [
+                "1",
+                118,
+                "118"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a do kũn jɪ bɪsã́ǹ=nã kũn jɪ mɪ̃́ɪ̃̀ õkũn",
+                    "morphemes": "a do kũn jɪ bɪsã́ǹ=nã kũn jɪ mɪ̃́ɪ̃̀ õkũn",
+                    "gloss": "if expl man cop child=DEF man cop 1sg.poss brother",
+                    "translation": "If it is a male, he is my brother, called [õkũn] in Lobi",
+                    "french": "Si c'est un mâle, c'est mon frère, appelé [õkũn] en Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "119",
+            "key": [
+                "1",
+                119,
+                "119"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ õkũn j'ɛkha-n so frɛr dablo-n so mɔ̃ frɛr",
+                    "morphemes": "mɪ̃́ɪ̃̀ õkũn j'ɛkha-n so frɛr dablo-n so mɔ̃ frɛr",
+                    "gloss": "1sg.poss brother some-ipfv say brother.fr white.person-ipfv say 1sg.poss.fr brother.fr",
+                    "translation": "In French people call "my brother" "mon frère"",
+                    "french": "En français, les gens appellent « mon frère » « mon frère »",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "120",
+            "key": [
+                "1",
+                120,
+                "120"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ s-rɛ lobɛ dɪ sĩ so mɪ̃́ɪ̃̀ õkũn õkũn",
+                    "morphemes": "sɪ s-rɛ lobɛ dɪ sĩ so mɪ̃́ɪ̃̀ õkũn õkũn",
+                    "gloss": "c1 1pl-re lobi.pl c2 1pl say 1sg.poss brother brother",
+                    "translation": "We Lobi people, we say [õkũn]",
+                    "french": "Nous, le peuple Lobi, nous disons [õkũn]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "121",
+            "key": [
+                "1",
+                121,
+                "121"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́̃ɪ̃̀ õkũ=nã mɪ̃́̃ɪ̃̀ thɪ na mɪ̃́̃ɪ̃̀ nɪ̃ bi=kũn jɪ",
+                    "morphemes": "mɪ̃́̃ɪ̃̀ õkũ=nã mɪ̃́̃ɪ̃̀ thɪ na mɪ̃́̃ɪ̃̀ nɪ̃ bi=kũn jɪ",
+                    "gloss": "1sg.poss brother=DEF 1sg.poss father and 1sg.poss mother kid=man cop",
+                    "translation": "My brother is the son of my dad and mom",
+                    "french": "Mon frère est le fils de mon père et de ma mère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "122",
+            "key": [
+                "1",
+                122,
+                "122"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́̃ɪ̃̀ thɪ na mɪ̃́̃ɪ̃̀ nɪ̃ bi=kũn jɪ bi=kũn",
+                    "morphemes": "mɪ̃́̃ɪ̃̀ thɪ na mɪ̃́̃ɪ̃̀ nɪ̃ bi=kũn jɪ bi=kũn",
+                    "gloss": "1sg.poss father and 1sg.poss mother kid=man cop kid=man",
+                    "translation": "He is the son of my dad and mom",
+                    "french": "C'est le fils de mon père et de ma mère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "123",
+            "key": [
+                "1",
+                123,
+                "123"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛr dablo-n so fis dɪ aŋglɛ dɪkhã-n so sən",
+                    "morphemes": "j'ɛr dablo-n so fis dɪ aŋglɛ dɪkhã-n so sən",
+                    "gloss": "that.which white.person-ipfv say son.fr rel English.fr too-ipfv say son.en",
+                    "translation": "That is what they call fils in French, and English say son",
+                    "french": "C'est ce qu'on appelle fils en français, et en anglais on dit son",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "124",
+            "key": [
+                "1",
+                124,
+                "124"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ lobi-ra bi=kũn jɪ",
+                    "morphemes": "sɪ lobi-ra bi=kũn jɪ",
+                    "gloss": "c1 Lobi-loc kid=man cop",
+                    "translation": "But, in Lobi, it is [bikũn]",
+                    "french": "Mais, en Lobi, c'est [bikũn]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "125",
+            "key": [
+                "1",
+                125,
+                "125"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́̃ɪ̃̀ nɪ̃ õkũn wʊ̃ we do-r mɪ̃́̃ɪ̃̀ ɟẽ mɪ̃́̃ɪ̃̀ ɟẽ",
+                    "morphemes": "mɪ̃́̃ɪ̃̀ nɪ̃ õkũn wʊ̃ we do-r mɪ̃́̃ɪ̃̀ ɟẽ mɪ̃́̃ɪ̃̀ ɟẽ",
+                    "gloss": "1sg.poss mother brother 3pl.ipfv call cop-re 1sg.poss uncle 1sg.poss uncle",
+                    "translation": "The brother of my mom is my uncle",
+                    "french": "Le frère de ma mère est mon oncle",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "126",
+            "key": [
+                "1",
+                126,
+                "126"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a mɪ so mɪ̃́̃ɪ̃̀ ɟẽ mɪ̃́̃ɪ̃̀ nɪ̃ õkũn jɪ a puno a do mɪ̃́̃ɪ̃̀ nɪ̃ õkũn buu ɔɔ mɪ̃́̃ɪ̃̀ nɪ̃ õkũn kõtĩn",
+                    "morphemes": "a mɪ so mɪ̃́̃ɪ̃̀ ɟẽ mɪ̃́̃ɪ̃̀ nɪ̃ õkũn jɪ a puno a do mɪ̃́̃ɪ̃̀ nɪ̃ õkũn buu ɔɔ mɪ̃́̃ɪ̃̀ nɪ̃ õkũn kõtĩn",
+                    "gloss": "if 1sg say 1sg.poss uncle 1sg.poss mother brother cop 3sg can 3sg cop 1sg.poss mother brother small or 1sg.poss mother brother big",
+                    "translation": "If I say my uncle, I'm talking about the brother of my mom, he can be the little brother or the big brother",
+                    "french": "Si je dis mon oncle, je parle du frère de ma mère, il peut être le petit frère ou le grand frère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "127",
+            "key": [
+                "1",
+                127,
+                "127"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "s-rɛ lobi-ra sɪ thɪ õkũn sã wi ɟɪ̃-n ã áà do sɪ ɟẽ ã",
+                    "morphemes": "s-rɛ lobi-ra sɪ thɪ õkũn sã wi ɟɪ̃-n ã áà do sɪ ɟẽ ã",
+                    "gloss": "1pl-re Lobi-loc 1pl father brother 1pl.neg call.ex uncle-ipfv neg 3sg.neg cop 1pl uncle neg",
+                    "translation": "For us Lobi, we don't call the brother of our father uncle, he is not our uncle",
+                    "french": "Pour nous Lobi, nous n'appelons pas le frère de notre père oncle, il n'est pas notre oncle",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "128",
+            "key": [
+                "1",
+                128,
+                "128"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ thɪ sĩ wi jɪ sɪ ɟɪ̃-n fɪ nɪ̃ õkũn dɪbara duwõn fɪ ɟẽ",
+                    "morphemes": "sɪ thɪ sĩ wi jɪ sɪ ɟɪ̃-n fɪ nɪ̃ õkũn dɪbara duwõn fɪ ɟẽ",
+                    "gloss": "1pl.poss father 1pl.ipfv call.ex cop c1 uncle-ipfv 2sg.poss mother brother only who.is 2sg.poss uncle",
+                    "translation": "We call him our father, but only the brother of your mother is your uncle ",
+                    "french": "Nous l'appelons notre père, mais seul le frère de ta mère est ton oncle",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "129",
+            "key": [
+                "1",
+                129,
+                "129"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "fɪ thɪ õkũn a do fɪ ɟẽ a fɪ nɪ̃ õkũn dɪbara duwõn fɪ ɟẽ",
+                    "morphemes": "fɪ thɪ õkũn a do fɪ ɟẽ a fɪ nɪ̃ õkũn dɪbara duwõn fɪ ɟẽ",
+                    "gloss": "2sg.poss father brother 3sg cop 2sg.poss uncle neg 2sg.poss mother brother only who.is 2sg.poss uncle",
+                    "translation": "The brother of your father is not your uncle, only the brother of your mother is your uncle",
+                    "french": "Le frère de ton père n'est pas ton oncle, seul le frère de ta mère est ton oncle",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "130",
+            "key": [
+                "1",
+                130,
+                "130"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ nɪ̃ɪ̃ õkhɛr j'ɛrɛ dablo frãcɛ-n we frãcɛ-n ɔɔ dablo-n we tãnt ɔɔ tãnti",
+                    "morphemes": "mɪ̃́ɪ̃̀ nɪ̃ɪ̃ õkhɛr j'ɛrɛ dablo frãcɛ-n we frãcɛ-n ɔɔ dablo-n we tãnt ɔɔ tãnti",
+                    "gloss": "1sg.poss mother sister that.which white.person French-ipfv call French-ipfv or white.person-ipfv call tante.fr or tantie.fr",
+                    "translation": "My mother's sister is what the French call tante, or tantie",
+                    "french": "La sœur de ma mère est ce que les Français appellent tante, ou tantie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "131",
+            "key": [
+                "1",
+                131,
+                "131"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ãŋglɛ dɪkhãn so ant",
+                    "morphemes": "ãŋglɛ dɪkhãn so ant",
+                    "gloss": "English also say aunt",
+                    "translation": "In English it is aunt",
+                    "french": "En anglais c'est tante",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "132",
+            "key": [
+                "1",
+                132,
+                "132"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ srɛ lobi sã we á áàdo sɪ tanti a ɔɔ á áàdo ant a",
+                    "morphemes": "sɪ srɛ lobi sã we á áàdo sɪ tanti a ɔɔ á áàdo ant a",
+                    "gloss": "c1 1pl Lobi 1pl.neg call 3sg neg.cop 1pl.poss aunt.fr neg or 3sg neg.cop aunt neg",
+                    "translation": "But we Lobi, we don't call her our "aunt"",
+                    "french": "Mais nous les Lobi, nous ne l'appelons pas notre "tante"",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "133",
+            "key": [
+                "1",
+                133,
+                "133"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ nɪ̃ jɪ",
+                    "morphemes": "sɪ nɪ̃ jɪ",
+                    "gloss": "1pl.poss mother cop",
+                    "translation": "We call her our mother",
+                    "french": "Nous l'appelons notre mère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "134",
+            "key": [
+                "1",
+                134,
+                "134"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ nɪ̃ õkhɛr mɪ̃́ɪ̃̀ nɪ̃ dɪkhã",
+                    "morphemes": "mɪ̃́ɪ̃̀ nɪ̃ õkhɛr mɪ̃́ɪ̃̀ nɪ̃ dɪkhã",
+                    "gloss": "1sg.poss mother sister 1sg.poss mother also",
+                    "translation": "My mother's sister is also my mother",
+                    "french": "La sœur de ma mère est aussi ma mère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "135",
+            "key": [
+                "1",
+                135,
+                "135"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ nɪ̃ õkhɛr buu mɪ̃́ɪ̃̀ nɪ̃ õkhɛr kõtĩ iri kɛ sɪ̃ we-n sɪ nɪ̃ jɪ mɪ̃́ɪ̃̀ nɪ̃ jɪ",
+                    "morphemes": "mɪ̃́ɪ̃̀ nɪ̃ õkhɛr buu mɪ̃́ɪ̃̀ nɪ̃ õkhɛr kõtĩ iri kɛ sɪ̃ we-n sɪ nɪ̃ jɪ mɪ̃́ɪ̃̀ nɪ̃ jɪ",
+                    "gloss": "1sg.poss mother sister small 1sg.poss mother sister big name rel 1pl.ipfv call-ipfv 1pl.poss mother cop 1sg.poss mother cop",
+                    "translation": "The little sister or the big sister of my mom is my mom",
+                    "french": "La petite soeur ou la grande soeur de ma mère c'est ma mère",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "136",
+            "key": [
+                "1",
+                136,
+                "136"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sa hanã iri ho-n mɔ̃ frãnsɛ-n so-n tantie ɔɔ tante aŋɡlɛ-n so-n ant",
+                    "morphemes": "sa hanã iri ho-n mɔ̃ frãnsɛ-n so-n tantie ɔɔ tante aŋɡlɛ-n so-n ant",
+                    "gloss": "1pl.neg have name like-ipfv how French-ipfv say-ipfv aunt.fr or aunt.fr English-ipfv say-ipfv aunt",
+                    "translation": "We don't have a name for our mother's sister like French, which has tantie, or English which has aunt",
+                    "french": "Nous n'avons pas de nom pour la sœur de notre mère comme le français, qui a tantie, ou l'anglais qui a aunt",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "137",
+            "key": [
+                "1",
+                137,
+                "137"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lobi-ra a ma we mɪ̃́ɪ̃̀ nɪ̃ õkhɛr ɪnɪ̃ ma we dɪkhã",
+                    "morphemes": "lobi-ra a ma we mɪ̃́ɪ̃̀ nɪ̃ õkhɛr ɪnɪ̃ ma we dɪkhã",
+                    "gloss": "Lobi-loc if 1sg.prs call 1sg.poss mother sister mother 1sg.fut call also",
+                    "translation": "In Lobi, if I have to call my mother's sister, I will call her "mom" also",
+                    "french": "En Lobi, si je dois appeler la sœur de ma mère, je l'appellerai également « maman ».",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "138",
+            "key": [
+                "1",
+                138,
+                "138"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛrɛ kɛ ãŋɡlɛ-n so-n kəzɪn dɪ frãnsɛ-n kuzɪ̃ dɪ ho-r sɪ ɟẽ bikũn ɔɔ fɪ nɪ̃ õkhɛr-ɪ bɪsãn",
+                    "morphemes": "j'ɛrɛ kɛ ãŋɡlɛ-n so-n kəzɪn dɪ frãnsɛ-n kuzɪ̃ dɪ ho-r sɪ ɟẽ bikũn ɔɔ fɪ nɪ̃ õkhɛr-ɪ bɪsãn",
+                    "gloss": "what rel English-ipfv say-ipfv cousin rel French-ipfv cousin.fr expl be.like-re 1pl.poss uncle son or 2sg.poss mother sister-poss child",
+                    "translation": "What English calls "cousin" and French calls "cousin" is the child of your uncle or the child of your aunt",
+                    "french": "Ce que les Anglais appellent « cousin » et les Français appellent « cousin » est l'enfant de votre oncle ou l'enfant de votre tante",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "139",
+            "key": [
+                "1",
+                139,
+                "139"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lobi-ra mɪ̃́ɪ̃̀ nɪ̃ õkhɛr-ɪ bɪsãn dɪ mĩĩ wi jɪ nɪ-om nɪ-om mĩĩ wi jɪ nɪ-om",
+                    "morphemes": "lobi-ra mɪ̃́ɪ̃̀ nɪ̃ õkhɛr-ɪ bɪsãn dɪ mĩĩ wi jɪ nɪ-om nɪ-om mĩĩ wi jɪ nɪ-om",
+                    "gloss": "Lobi-loc 1sg.poss mother sister-poss child rel 1sg.ex call.ex cop mother-brotherhood/sisterhood mother-brotherhood/sisterhood 1sg call.ex cop mother-brotherhood/sisterhood",
+                    "translation": "In Lobi, I call the kid of my mother's sister brother or sister",
+                    "french": "En Lobi, j'appelle l'enfant de la sœur de ma mère frère ou sœur.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "140",
+            "key": [
+                "1",
+                140,
+                "140"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a mɪ so bɪsãn kɛ mɪ̃́ɪ̃̀ nɪ-om jɪ dɪ ho-r mɪ̃́ɪ̃̀ nɪ̃ õkhɛr-i bɪsãn jɪ",
+                    "morphemes": "a mɪ so bɪsãn kɛ mɪ̃́ɪ̃̀ nɪ-om jɪ dɪ ho-r mɪ̃́ɪ̃̀ nɪ̃ õkhɛr-i bɪsãn jɪ",
+                    "gloss": "if 1sg say child dem 1sg.poss mother-brotherhood/sisterhood cop expl be.like-re 1sg.poss mother sister-poss child cop",
+                    "translation": "If I say this kid is my [nɪ-om], I mean they are the kid of my mother's sister",
+                    "french": "Si je dis que cet enfant est mon [nɪ-om], je veux dire qu'il est l'enfant de la sœur de ma mère.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "141",
+            "key": [
+                "1",
+                141,
+                "141"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a á do mɪ̃́ɪ̃̀ thɪ õkũn-ɪ bɪ́sãn dɪ mɪ̃́ɪ̃́ wi i mɪ̃́ɪ̃̀ thɪ́-om",
+                    "morphemes": "a á do mɪ̃́ɪ̃̀ thɪ õkũn-ɪ bɪ́sãn dɪ mɪ̃́ɪ̃́ wi i mɪ̃́ɪ̃̀ thɪ́-om",
+                    "gloss": "if/when 3sg cop 1sg.poss father brother-poss child rel 1sg call.ex 3sg 1sg.poss father-brotherhood/sisterhood",
+                    "translation": "If he/she is a kid of my father's brother, then I call him [thɪ-om]",
+                    "french": "S'il/elle est le fils du frère de mon père, alors je l'appelle [thɪ-om]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "142",
+            "key": [
+                "1",
+                142,
+                "142"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a á do mɪ̃́ɪ̃̀ thɪ õkhɛr-ɪ bɪ́sãn dɪ ho-r mɪ̃́ɪ̃̀ thɪ jɪ mɪ̃́ɪ̃̀ thɪ jɪ",
+                    "morphemes": "a á do mɪ̃́ɪ̃̀ thɪ õkhɛr-ɪ bɪ́sãn dɪ ho-r mɪ̃́ɪ̃̀ thɪ jɪ mɪ̃́ɪ̃̀ thɪ jɪ",
+                    "gloss": "if/when 3sg cop 1sg.poss father sister-poss child rel look.like-re 1sg.poss father cop 1sg.poss father cop",
+                    "translation": "If he is the kid of my father's sister, he is my dad",
+                    "french": "S'il est le fils de la sœur de mon père, il est mon père",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "143",
+            "key": [
+                "1",
+                143,
+                "143"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ ɟẽ́ẽ̀ bɪ́sãn mɪ̃́ɪ̃̀ nɪ̃́ɪ̃̀ õkũn-ɪ bɪ́sãn a do mɪ̃́ɪ̃̀ thɪ-om ã́ a do mɪ̃́ɪ̃̀ nɪ-om ã mɪ̃́ɪ̃̀ bi jɪ mɪ̃́ɪ̃̀ bi",
+                    "morphemes": "mɪ̃́ɪ̃̀ ɟẽ́ẽ̀ bɪ́sãn mɪ̃́ɪ̃̀ nɪ̃́ɪ̃̀ õkũn-ɪ bɪ́sãn a do mɪ̃́ɪ̃̀ thɪ-om ã́ a do mɪ̃́ɪ̃̀ nɪ-om ã mɪ̃́ɪ̃̀ bi jɪ mɪ̃́ɪ̃̀ bi",
+                    "gloss": "1sg.poss uncle child 1sg.poss mother brother-poss child neg cop 1sg.poss father-brotherhood/sisterhood neg neg cop 1sg.poss mother-brotherhood/sisterhood neg 1sg.poss child cop 1sg.poss child",
+                    "translation": "My uncle's kid, the kid of my mom's brother, is not my [thɪ-om] nor my [nɪ-om], he/she is my child",
+                    "french": "L'enfant de mon oncle, l'enfant du frère de ma mère, n'est pas mon [thɪ-om] ni mon [nɪ-om], il/elle est mon enfant",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "144",
+            "key": [
+                "1",
+                144,
+                "144"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ nɪ̃́ɪ̃̀ nɪ ɔɔ mɪ̃́ɪ̃̀ thɪ́ɪ̀ nɪ ãŋglɛ-n so-n ɡɹæməðɹ lobi-ra ɔrɔ mɪ̃ we ɔrɔ sɪ̃ we ɪ̃n-nɪ̃ kõtɪ̃ sɪ̃-nɪ̃ kõtɪ̃ nɪ kõtɪ̃ dɪ ho-r nrɛ fɪ nɪ̃ fɪ nɪ̃́ɪ̃̀ kõtɪ̃",
+                    "morphemes": "mɪ̃́ɪ̃̀ nɪ̃́ɪ̃̀ nɪ ɔɔ mɪ̃́ɪ̃̀ thɪ́ɪ̀ nɪ ãŋglɛ-n so-n ɡɹæməðɹ lobi-ra ɔrɔ mɪ̃ we ɔrɔ sɪ̃ we ɪ̃n-nɪ̃ kõtɪ̃ sɪ̃-nɪ̃ kõtɪ̃ nɪ kõtɪ̃ dɪ ho-r nrɛ fɪ nɪ̃ fɪ nɪ̃́ɪ̃̀ kõtɪ̃",
+                    "gloss": "1sg.poss mother-poss mother or 1sg.poss father-poss mother English-ipfv say-ipfv grandmother.en lobi-loc that.which 1sg call that.which 1pl call 1sg.poss-mother big 1pl.poss-mother big mother big expl look.like-re mother(hood) 2sg.poss mother 2sg.poss mother big",
+                    "translation": "My mom's or my dad's mother, which they call grandmother in English, is what Lobi call [nɪ̃ kõtɪ̃n] ",
+                    "french": "La mère de ma mère ou de mon père, qu'ils appellent grand-mère en anglais, est ce que les Lobi appellent [nɪ̃ kõtɪ̃n].",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "145",
+            "key": [
+                "1",
+                145,
+                "145"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "vʊala fɪ nɪ̃ kõtɪ̃n dɔ̃nk mɪ̃́ɪ̃̀ nɪ̃ kõtɪ̃ dũwon mɪ̃́ɪ̃̀ nɪ̃ ɔɔ mɪ̃́ɪ̃̀ thɪ́ɪ̀ nɪ̃",
+                    "morphemes": "vʊala fɪ nɪ̃ kõtɪ̃n dɔ̃nk mɪ̃́ɪ̃̀ nɪ̃ kõtɪ̃ dũwon mɪ̃́ɪ̃̀ nɪ̃ ɔɔ mɪ̃́ɪ̃̀ thɪ́ɪ̀ nɪ̃",
+                    "gloss": "voila.fr 2sg.poss mother big so.fr 1sg.poss mother big cop 1sg.poss mother or 1sg.poss father.poss mother",
+                    "translation": "Your grandmother is your mom's or dad's mother",
+                    "french": "Ta grand-mère est la mère de ton père ou de ta mère.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "146",
+            "key": [
+                "1",
+                146,
+                "146"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ thɪ́ɪ̀ thɪ ɔɔ mɪ̃́ɪ̃̀ nɪ́ɪ̀ thɪ wũ so-n ɡɹæfɑðɹ lobi-ra mɪ̃́ɪ̃̀ thɪ kõtɪ̃ mɪ̃́ɪ̃̀ thɪ kõtɪ̃ thɪ-kõtɪ̃n",
+                    "morphemes": "mɪ̃́ɪ̃̀ thɪ́ɪ̀ thɪ ɔɔ mɪ̃́ɪ̃̀ nɪ́ɪ̀ thɪ wũ so-n ɡɹæfɑðɹ lobi-ra mɪ̃́ɪ̃̀ thɪ kõtɪ̃ mɪ̃́ɪ̃̀ thɪ kõtɪ̃ thɪ-kõtɪ̃n",
+                    "gloss": "1sg.poss father.poss father or 1sg.poss mother.poss father 3pl say.ipfv grandfather.en Lobi-loc 1sg.poss father big 1sg.poss father big grandfatherhood",
+                    "translation": "My dad's or my mom's father, that is called grandfather in English, is called [thɪ kõtɪ̃] in Lobi",
+                    "french": "Le père de mon père ou de ma mère, qu'on appelle grand-père en anglais, s'appelle [thɪ kõtɪ̃] en Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "147",
+            "key": [
+                "1",
+                147,
+                "147"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lobi-ra j'ɛr kɛ dablo-n so-n marabu fɛtiʃɛr lobi-ra thɪldaar sĩ-n wi thɪldaar thɪl daar",
+                    "morphemes": "lobi-ra j'ɛr kɛ dablo-n so-n marabu fɛtiʃɛr lobi-ra thɪldaar sĩ-n wi thɪldaar thɪl daar",
+                    "gloss": "Lobi-loc dem dem white.person-ipfv say-ipfv witchdoctor.fr priest.fr Lobi-loc spiritual.guide 1pl-ipfv call.ex spiritual.guide idol practitioner",
+                    "translation": "In Lobi, what is called marabout or feticheur in French is called [thɪldaar]",
+                    "french": "En Lobi, ce qu'on appelle marabout ou féticheur en français s'appelle [thɪldaar]",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "148",
+            "key": [
+                "1",
+                148,
+                "148"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "thɪl buu j'ɛr wʊ̃ so-n fɛtiʃ fransɛ-n so-n fɛtiʃ lobi thɪl dɪ ntɛ kɛ bo-n ntɛ kɛ-n cʊʊ-nɪ thɪl=la dɪ wʊ̃ wi lobi-ra wʊ̃ wi thɪldaar thɪl daar",
+                    "morphemes": "thɪl buu j'ɛr wʊ̃ so-n fɛtiʃ fransɛ-n so-n fɛtiʃ lobi thɪl dɪ ntɛ kɛ bo-n ntɛ kɛ-n cʊʊ-nɪ thɪl=la dɪ wʊ̃ wi lobi-ra wʊ̃ wi thɪldaar thɪl daar",
+                    "gloss": "idol small dem 3pl say-ipfv idol.fr French-ipfv say-ipfv idol.fr Lobi idol c2 person dem practice.idolatry-ipfv person dem-ipfv make-re idol=DEF expl 3pl call.ex Lobi-loc 3pl call.ex spiritual.guide idol practitioner",
+                    "translation": "Lobi call the person who practices idolatry [thɪldaar] ",
+                    "french": "Les Lobi appellent la personne qui pratique l'idolâtrie [thɪldaar].",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "149",
+            "key": [
+                "1",
+                149,
+                "149"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lɔbɛ dɪkhã mɪ ha nɪ̃nɪ̃́ fami ire a ha nɪ̃ iri kɛ a fɪ do khɛrbri ɔɔ a fɪ do kũbri",
+                    "morphemes": "lɔbɛ dɪkhã mɪ ha nɪ̃nɪ̃́ fami ire a ha nɪ̃ iri kɛ a fɪ do khɛrbri ɔɔ a fɪ do kũbri",
+                    "gloss": "Lobi.pl also 1sg give 2pl family.fr name.pl rel give 2pl name rel if/when 2sg cop girl or if 2sg cop boy",
+                    "translation": "I gave you family names and also first names, depending on your sex",
+                    "french": "Je t'ai donné des noms de famille et aussi des prénoms, en fonction de ton sexe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "150",
+            "key": [
+                "1",
+                150,
+                "150"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sèé ɔɔ sã̀sã́ ɔɔ irí ɔɔ ʔɔʔɔ́",
+                    "morphemes": "sèé ɔɔ sã̀sã́ ɔɔ irí ɔɔ ʔɔʔɔ́",
+                    "gloss": "Sie or Sansan or Iri or Hoho",
+                    "translation": "Sie or Sansan or Iri or Hoho",
+                    "french": "Sie ou Sansan ou Iri ou Hoho",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "151",
+            "key": [
+                "1",
+                151,
+                "151"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lobi-ra sɪ hãnã-nɛ̃ dɪ́khã iri tɪbla j'ɛkha hale wʊ hãnã-nɛ̃ iri sʊnɔ̃",
+                    "morphemes": "lobi-ra sɪ hãnã-nɛ̃ dɪ́khã iri tɪbla j'ɛkha hale wʊ hãnã-nɛ̃ iri sʊnɔ̃",
+                    "gloss": "Lobi-loc 1pl have-re also name person.pl some there.are 3pl have-re name pl",
+                    "translation": "In Lobi, there are people who have special names",
+                    "french": "En Lobi, il y a des gens qui ont des noms spéciaux",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "152",
+            "key": [
+                "1",
+                152,
+                "152"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "wʊ̃ so-n mɔ̃ aŋɡlɛ-n so-n ɪnɪʃieɪʃɪn neɪmz",
+                    "morphemes": "wʊ̃ so-n mɔ̃ aŋɡlɛ-n so-n ɪnɪʃieɪʃɪn neɪmz",
+                    "gloss": "3pl say-ipfv like/as English-ipfv say-ipfv initiation names",
+                    "translation": "They are like what you would call "initiation names" in English",
+                    "french": "Ils ressemblent à ce que l'on appellerait des « noms d'initiation » en anglais.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "153",
+            "key": [
+                "1",
+                153,
+                "153"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a a do tɪbla fɔɪ hãnã-nɛ̃ irí ca jie=ra a",
+                    "morphemes": "a a do tɪbla fɔɪ hãnã-nɛ̃ irí ca jie=ra a",
+                    "gloss": "3sg neg cop person.pl all have-re name kind such=DEM neg",
+                    "translation": "Not everybody has such names",
+                    "french": "Tout le monde n'a pas ce nom",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "154",
+            "key": [
+                "1",
+                154,
+                "154"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a a do tɪbla fɔɪ hãnã-nɛ̃ irí ca jie=ra a",
+                    "morphemes": "a a do tɪbla fɔɪ hãnã-nɛ̃ irí ca jie=ra a",
+                    "gloss": "3sg neg cop person.pl all have-re name kind such=DEM neg",
+                    "translation": "Not everybody has such names",
+                    "french": "Tout le monde n'a pas ce nom",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "155",
+            "key": [
+                "1",
+                155,
+                "155"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "wʊ punõ-nẽ wʊ ha fɪ wʊ punõ-nẽ wʊ phʊɔl fɪ sɪ a dɪ pɪ dɪ wʊ̃ ha fɪ iri",
+                    "morphemes": "wʊ punõ-nẽ wʊ ha fɪ wʊ punõ-nẽ wʊ phʊɔl fɪ sɪ a dɪ pɪ dɪ wʊ̃ ha fɪ iri",
+                    "gloss": "3pl can-re 3pl give 2sg 3pl can-re 3pl initiate/baptize 2sg c1 when expl finish rel 3pl.ipfv give 2sg name",
+                    "translation": "You can get a special name after initiation/baptism",
+                    "french": "Vous pouvez obtenir un nom spécial après l'initiation/le baptême",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "156",
+            "key": [
+                "1",
+                156,
+                "156"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "iri=rá punõ-nẽ a do mɪ̃́ɪ̃̀ ɟẽ sʊnɔ̃ kɛ badɪb badɪbthe badɪbthe ba-dɪb-the badɪbthe dɪ ho-r tibil kɛ n dɪb-nɪ̃ n dɪb-nɪ̃ j'ele n dɪb-nɪ̃ baa n dɪb-nɪ̃ j'ele",
+                    "morphemes": "iri=rá punõ-nẽ a do mɪ̃́ɪ̃̀ ɟẽ sʊnɔ̃ kɛ badɪb badɪbthe badɪbthe ba-dɪb-the badɪbthe dɪ ho-r tibil kɛ n dɪb-nɪ̃ n dɪb-nɪ̃ j'ele n dɪb-nɪ̃ baa n dɪb-nɪ̃ j'ele",
+                    "gloss": "name=DEF can=RE 3sg cop 1sg.poss uncle pl dem Badib Badibte Badibte ba-dib-te Badibte expl look.like-re person dem who value-re who value-re others who value-re community.members who value-re others",
+                    "translation": "Badib or Badibte, which an initiation name of my uncle, and means someone who values community members",
+                    "french": "Badib ou Badibte, qui est un nom d'initiation de mon oncle, et signifie quelqu'un qui valorise les membres de la communauté",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "157",
+            "key": [
+                "1",
+                157,
+                "157"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "caɓãthe caɓãthe dɪ ho-r ntɛ kɛ n ɓãn caar sʊnɔ̃",
+                    "morphemes": "caɓãthe caɓãthe dɪ ho-r ntɛ kɛ n ɓãn caar sʊnɔ̃",
+                    "gloss": "Tchapante Tchapante expl look.like-re someone dem who connect people pl",
+                    "translation": "Tchapante means someone who connects people together",
+                    "french": "Tchapante signifie quelqu'un qui relie les gens entre eux",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "158",
+            "key": [
+                "1",
+                158,
+                "158"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ nɪ̃ frɛhinẽnã wʊ̃ wii frɛhinẽna dɔ̃ŋk dɪ ho-r ntɛ kɛ n frɛ-nɪ̃ tɪbla sɪ dɪ̃ hĩ-n",
+                    "morphemes": "mɪ̃́ɪ̃̀ nɪ̃ frɛhinẽnã wʊ̃ wii frɛhinẽna dɔ̃ŋk dɪ ho-r ntɛ kɛ n frɛ-nɪ̃ tɪbla sɪ dɪ̃ hĩ-n",
+                    "gloss": "1sg.poss mother Frehinenan 3pl.ipfv call.ex Frehinenan so.fr expl look.like-re someone dem who complement-re person.pl c1 expl.ipfv look.at-ipfv",
+                    "translation": "My mother's name is Frehinenan, which means someone who looks at and complements",
+                    "french": "Le nom de ma mère est Frehinenan, ce qui signifie quelqu'un qui regarde et complète",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "159",
+            "key": [
+                "1",
+                159,
+                "159"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́ɪ̃̀ thɪ kõtĩ́ lefathe wʊ̃ wii lefathe dɪ ho-r ntɛ kɛ n li-n sɪ-a faa",
+                    "morphemes": "mɪ̃́ɪ̃̀ thɪ kõtĩ́ lefathe wʊ̃ wii lefathe dɪ ho-r ntɛ kɛ n li-n sɪ-a faa",
+                    "gloss": "1sg.poss father big Lefate 3pl.ipfv call.ex Lefate expl look.like-re someone dem who tie-ipfv c2-3sg let.go",
+                    "translation": "My grandfather's name is Lefate, which means someone who ties to let go or becomes rich and gives it away",
+                    "french": "Le nom de mon grand-père est Lefate, ce qui signifie quelqu'un qui s'efforce de lâcher prise ou qui devient riche et le donne.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "160",
+            "key": [
+                "1",
+                160,
+                "160"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "iri sʊnɔ̃ nã́ iri ca iɛ́r iri ca iɛ́r mɔ̃ ntɛ kɛ nàń mɔ̃ fɪ thɪ nàń mɪ̃ ã ha fɪ ir=rá",
+                    "morphemes": "iri sʊnɔ̃ nã́ iri ca iɛ́r iri ca iɛ́r mɔ̃ ntɛ kɛ nàń mɔ̃ fɪ thɪ nàń mɪ̃ ã ha fɪ ir=rá",
+                    "gloss": "name pl def name kind.of dem.prox.pl name kind.of dem.prox.pl the.way person dem want.ipfv the.way 2sg.poss father want.ipfv that.way 3sg give 2sg name=DEF",
+                    "translation": "These kinds of names are given to kids based on the dad's wishes",
+                    "french": "Ces types de noms sont donnés aux enfants en fonction des souhaits du père.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "161",
+            "key": [
+                "1",
+                161,
+                "161"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "fa nɪ́ɛ̀-rɛ́ a do kũn jɪ dɪ̃ jɪ̃́ pɪ̃́ nã́ the bɔ́fááthe caɓã́ã́the badɪ́bthe õphíélthe dɪwã́the",
+                    "morphemes": "fa nɪ́ɛ̀-rɛ́ a do kũn jɪ dɪ̃ jɪ̃́ pɪ̃́ nã́ the bɔ́fááthe caɓã́ã́the badɪ́bthe õphíélthe dɪwã́the",
+                    "gloss": "2sg.fut hear-re if/when cop man cop rel expl end with the Bofate Tchapante Badibte Ompielte Diwante",
+                    "translation": "You will hear "the" when the person is male, like for instance Bofate, Tchapante, Badibte, Ompielte, or Diwante ",
+                    "french": "Vous entendrez « le » lorsque la personne est un homme, comme par exemple Bofate, Tchapante, Badibte, Ompielte ou Diwante",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "162",
+            "key": [
+                "1",
+                162,
+                "162"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a do khɛ́r jɪ fa nɪ́ɛ̀-rɛ́ nã frɛhɪ̃́nẽ́nã mɔhɪ̃́nẽ́nã hulẽcã́ã̀nã wala thale dɪ ha",
+                    "morphemes": "a do khɛ́r jɪ fa nɪ́ɛ̀-rɛ́ nã frɛhɪ̃́nẽ́nã mɔhɪ̃́nẽ́nã hulẽcã́ã̀nã wala thale dɪ ha",
+                    "gloss": "if/when cop woman cop 2sg.fut hear-re nã Frehinenan Mohinenan Houletchanan voila.fr this.way expl cop",
+                    "translation": "You will hear "nã" when the person is female, like for instance Frehinenan, Mohinenan, Houletchanan, that's how it is ",
+                    "french": "Vous entendrez "nã" lorsque la personne est une femme, comme par exemple Frehinenan, Mohinenan, Houletchanan, c'est comme ça",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "163",
+            "key": [
+                "1",
+                163,
+                "163"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "m-rɛ kɛ ma há-nã́ iri ca iér-a parsyky wa phʊɔl mɪ-ã j'ɛr dɔnɔɔ mɪ̃́ɪ̃̀ íri hiẽ sãsã́ klod",
+                    "morphemes": "m-rɛ kɛ ma há-nã́ iri ca iér-a parsyky wa phʊɔl mɪ-ã j'ɛr dɔnɔɔ mɪ̃́ɪ̃̀ íri hiẽ sãsã́ klod",
+                    "gloss": "1sg-re dem 1sg.neg have-re name kind.of dem-neg because.fr 3pl initiate/baptize 1sg-neg dem reason.why 1sg.poss name Hien Sansan Claude",
+                    "translation": "Me, for instance, I don't have this kind of name because I wasn't initiated; therefore, my name is only Hien Sansan Claude",
+                    "french": "Moi par exemple je n'ai pas ce genre de nom parce que je n'ai pas été initié, donc mon nom est seulement Hien Sansan Claude",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "164",
+            "key": [
+                "1",
+                164,
+                "164"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ma há-nã́ iri lobi j'el-le wʊ̃ cʊʊ-nɪ̃ thɪɛ̃ sʊnɔ̃ nɪ̃ gáá-lɪ hwʊ̃n a dɪɪr lobi thɪmɪr sá a ná the wʊ̃ ha nɪ̃ iri ca úlé-la",
+                    "morphemes": "ma há-nã́ iri lobi j'el-le wʊ̃ cʊʊ-nɪ̃ thɪɛ̃ sʊnɔ̃ nɪ̃ gáá-lɪ hwʊ̃n a dɪɪr lobi thɪmɪr sá a ná the wʊ̃ ha nɪ̃ iri ca úlé-la",
+                    "gloss": "1sg.neg have-re name Lobi dem.prox-re 3pl.ipfv make-re thing.pl pl 2pl.ipfv go-re forest to learn Lobi customs before when 2pl.fut go.out 3pl.ipfv give 2pl.ipfv name kind dem-re",
+                    "translation": "I don't have this Lobi name that we get after being initiated to particular Lobi customs in the forest",
+                    "french": "Je n'ai pas ce nom Lobi que l'on obtient après avoir été initié à des coutumes Lobi particulières dans la forêt",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "165",
+            "key": [
+                "1",
+                165,
+                "165"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "m-rɛ kɛ ma há-nã́ jɛ a ma cʊʊ jie-ra a ma cʊʊ jie-ra a j'ɛr dɔnɔɔ ma há-nã́ iri kɛ n pɪ-n na the a",
+                    "morphemes": "m-rɛ kɛ ma há-nã́ jɛ a ma cʊʊ jie-ra a ma cʊʊ jie-ra a j'ɛr dɔnɔɔ ma há-nã́ iri kɛ n pɪ-n na the a",
+                    "gloss": "1sg-re dem 1sg.neg have-re expl neg 1sg.neg make expl-def neg 1sg.neg make expl-def neg dem reason.why 1sg.neg have-re name dem which end-ipfv with the neg",
+                    "translation": "Me, I don't have this kind of name. I didn't go to the initiation ceremony; therefore, I don't a name that ends in "the".",
+                    "french": "Moi, je n'ai pas ce genre de nom. Je n'ai pas assisté à la cérémonie d'initiation ; par conséquent, je n'ai pas de nom qui se termine par "the".",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "166",
+            "key": [
+                "1",
+                166,
+                "166"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛ-rɛ mɪ há-nã́ n mɪɛ nɪ̃ nĩĩ",
+                    "morphemes": "j'ɛ-rɛ mɪ há-nã́ n mɪɛ nɪ̃ nĩĩ",
+                    "gloss": "dem-re 1sg have-re 1sg.ex tell 2pl.ipfv today",
+                    "translation": "That's what I have to tell you today",
+                    "french": "C'est ce que j'ai à vous dire aujourd'hui",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "167",
+            "key": [
+                "1",
+                167,
+                "167"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "n-rɛ hɪ-nã fʊɔr",
+                    "morphemes": "n-rɛ hɪ-nã fʊɔr",
+                    "gloss": "2pl-re have-re salutation",
+                    "translation": "Thank you all",
+                    "french": "Merci à tous",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
