@@ -1,5 +1,5 @@
 {
-    "total_rows": 45,
+    "total_rows": 46,
     "offset": 0,
     "rows": [
         {
@@ -1152,5 +1152,30 @@
                 }
             }
         }
+        {
+            "id": "46",
+            "key": [
+                "1",
+                46,
+                "46"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ ɡba fʊɔ-rɪ",
+                    "morphemes": "nɪ ɡba fʊɔ-rɪ",
+                    "gloss": "2pl take greet-ni",
+                    "translation": "Hello; good morning/afternoon",
+                    "french": "Bonjour; bonjour/bon après-midi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }     
     ]
 }
