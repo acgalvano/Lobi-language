@@ -1,5 +1,5 @@
 {
-    "total_rows": 46,
+    "total_rows": 49,
     "offset": 0,
     "rows": [
         {
@@ -1176,6 +1176,81 @@
                     "modifiedByUser": ""
                 }
             }
-        }     
+        },     
+        {
+            "id": "47",
+            "key": [
+                "1",
+                47,
+                "47"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nĩĩ kɛ wo lɔbɛ tʰɪ̃kʰoda sa dɪɪr",
+                    "morphemes": "nĩĩ kɛ wo lɔbɛ tʰɪ̃kʰoda sa dɪɪr",
+                    "gloss": "today dem again Lobi.pl food 1pl.fut learn",
+                    "translation": "Today we will talk about Lobi food again",
+                    "french": "Aujourd'hui, nous reparlerons de la nourriture Lobi.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+             "id": "48",
+            "key": [
+                "1",
+                48,
+                "48"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "tʰɪ̃kʰóda caar kɛ lɔbɛ-n kʰo-n j'ɛr sa dɪɪr",
+                    "morphemes": "tʰɪ̃kʰóda caar kɛ lɔbɛ-n kʰo-n j'ɛr sa dɪɪr",
+                    "gloss": "food type.of rel Lobi.pl-ipfv	eat-ipfv what 1pl.fut learn",
+                    "translation": "We will learn what kind of foods Lobi eat",
+                    "french": "Nous allons apprendre quel genre de nourriture Lobi mange.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "49",
+            "key": [
+                "1",
+                49,
+                "49"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ lɔbɛ ɟʊ caa(r) kɛ lɔbɛ-n dɪ-n na bíí kɛ lɔbɛ-n dɪ-n j'ɛrɛ sa dɪɪr nĩĩ",
+                    "morphemes": "dɪ lɔbɛ ɟʊ caa(r) kɛ lɔbɛ-n dɪ-n na bíí kɛ lɔbɛ-n dɪ-n j'ɛrɛ sa dɪɪr nĩĩ",
+                    "gloss": "c2 Lobi.pl fufu type.of rel Lobi.pl-ipfv eat-ipfv and soup rel Lobi.pl-ipfv eat-ipfv what 1pl.fut learn today",
+                    "translation": "So today we will learn the type of fufu and soup that Lobi eat",
+                    "french": "Aujourd'hui, nous allons apprendre le type de fufu et de soupe que Lobi mange.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
     ]
 }
