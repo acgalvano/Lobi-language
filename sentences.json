@@ -1,5 +1,5 @@
 {
-    "total_rows": 49,
+    "total_rows": 53,
     "offset": 0,
     "rows": [
         {
@@ -1251,4 +1251,106 @@
                     "modifiedByUser": ""
                 }
             }
+        },
+        {
+             "id": "50",
+            "key": [
+                "1",
+                50,
+                "50"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ ɟʊ kɛ lɔbɛ-n dɪ́=ń ɟʊ caa(r) jẽnther",
+                    "morphemes": "dɪ ɟʊ kɛ lɔbɛ-n dɪ́=ń ɟʊ caa(r) jẽnther",
+                    "gloss": "c2 fufu rel Lobi.pl-ipfv eat-ipfv fufu type.of three",
+                    "translation": "So there are three types of fufu that Lobi eat",
+                    "french": "Donc il y a trois types de fufu que Lobi mange.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "51",
+            "key": [
+                "1",
+                51,
+                "51"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a n(ɪ) gál lɔ́bɛ dʊɔ ɟʊr kɛ́ na jɪ́=ń tʰɪ̃kʰóda kɛ na jɪ́=ń dó-ń ɟʊr lɔbɛ dʊɔ",
+                    "morphemes": "a	n(ɪ) gál lɔ́bɛ dʊɔ ɟʊr kɛ́ na jɪ́=ń tʰɪ̃kʰóda kɛ na jɪ́=ń dó-ń ɟʊr lɔbɛ dʊɔ",
+                    "gloss": "if 2pl go Lobi.pl	country/village fufu rel 2pl.fut see=IPFV food rel 2pl.fut see-ipfv which.is-ipfv fufu Lobi.pl country/village",
+                    "translation": "If you go to Lobi's village, fufu is the main food you will see",
+                    "french": "Si vous allez au village de Lobi, le fufu est la nourriture principale que vous verrez.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+             "id": "52",
+            "key": [
+                "1",
+                52,
+                "52"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ hánã́-ꜜnɛ̃́ ɟʊ ca jẽnthér jɪ́",
+                    "morphemes": "sɪ hánã́-ꜜnɛ̃́ ɟʊ ca jẽnthér jɪ́",
+                    "gloss": "1pl have-re fufu type.of three cop",
+                    "translation": "We have three types of fufu",
+                    "french": "On a trois types de fufu.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+              "id": "53",
+            "key": [
+                "1",
+                53,
+                "53"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ hánã́-ꜜnɛ̃́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
+                    "morphemes": "sɪ hánã́-ꜜnɛ̃́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
+                    "gloss": "1pl have-re corn fufu millet fufu and yam fufu",
+                    "translation": "We have corn fufu, millet fufu, and yam fufu",
+                    "french": "On a du maïs, du millet et du yam fufu.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
         }
+    }
+}
