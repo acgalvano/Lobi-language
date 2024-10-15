@@ -1,5 +1,5 @@
 {
-    "total_rows": 53,
+    "total_rows": 57,
     "offset": 0,
     "rows": [
         {
@@ -1343,6 +1343,106 @@
                     "gloss": "1pl have-re corn fufu millet fufu and yam fufu",
                     "translation": "We have corn fufu, millet fufu, and yam fufu",
                     "french": "On a du maïs, du millet et du yam fufu.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "54",
+            "key": [
+                "1",
+                54,
+                "54"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɔ́lɟɔ́ ɟʊr jɔ ɟʊr pó ɟʊr",
+                    "morphemes": "ɔ́lɟɔ́ ɟʊr jɔ ɟʊr pó ɟʊr",
+                    "gloss": "corn fufu millet fufu yam fufu",
+                    "translation": "Corn fufu, millet fufu, yam fufu",
+                    "french": "Maïs fufu, millet fufu, yam fufu.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "55",
+            "key": [
+                "1",
+                55,
+                "55"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "bíí kɛ́ lɔbɛ-n dɪ́=ń bí cá ɟɔɟɔ ha-le kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hjɛ bíí",
+                    "morphemes": "bíí kɛ́ lɔbɛ-n dɪ́=ń bí cá ɟɔɟɔ ha-le kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hjɛ bíí",
+                    "gloss": "soup rel Lobi.pl-ipfv eat-ipfv soup type.of many cop-re peanut soup pistachio soup soumala.Djoula soup eggplant soup potash soup okra soup bean soup",
+                    "translation": "Lobi eat many kinds of soup: peanut soup, pistachio soup, soumala soup, eggplant soup, potash soup, okra soup, and bean soup.",
+                    "french": "Lobi mange de nombreuses sortes de soupe : soupe d'arachide, soupe de pistache, soupe de soumala, soupe d'aubergines, soupe de potasse, soupe d'okra et soupe de haricots",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+             "id": "56",
+            "key": [
+                "1",
+                56,
+                "56"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "fa bíí kɛ lɔbɛ-n dɪ-n dɪkʰã áà j'ɛr ma mɪɛ nɪ-n",
+                    "morphemes": "fa bíí kɛ lɔbɛ-n dɪ-n dɪkʰã áà j'ɛr ma mɪɛ nɪ-n",
+                    "gloss": "leaf soup rel Lobi.pl-ipfv eat-ipfv also cop what 1sg.fut tell 2pl-ipfv",
+                    "translation": "I will tell you about the leaf soup that Lobi eat.",
+                    "french": "Je vais vous parler de la soupe aux feuilles que Lobi mange.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "57",
+            "key": [
+                "1",
+                57,
+                "57"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɪ̃́nfá bíí bʊ́ɔ́n bíí pàá bíí hjɛ fa bíí tĩn fa bíí",
+                    "morphemes": "ɪ̃́nfá bíí bʊ́ɔ́n bíí pàá bíí hjɛ fa bíí tĩn fa bíí",
+                    "gloss": "leafy.green soup daa. Djoula soup kulala. Baoule soup bean leaf soup baobab leaf soup",
+                    "translation": "Different leafy green soups.",
+                    "french": "Différentes soupes vertes feuillues.",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
