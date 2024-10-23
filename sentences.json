@@ -1,5 +1,5 @@
 {
-    "total_rows": 57,
+    "total_rows": 59,
     "offset": 0,
     "rows": [
         {
@@ -1443,6 +1443,56 @@
                     "gloss": "leafy.green soup daa. Djoula soup kulala. Baoule soup bean leaf soup baobab leaf soup",
                     "translation": "Different leafy green soups.",
                     "french": "Différentes soupes vertes feuillues.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "58",
+            "key": [
+                "1",
+                58,
+                "58"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nrɛ́ hɪ́nã fʊ́ɔ́r",
+                    "morphemes": "nrɛ́ hɪ́nã fʊ́ɔ́r",
+                    "gloss": "2pl.re give greeting",
+                    "translation": "Hello, good morning to you all.",
+                    "french": "Bonjour à tous.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+               "id": "59",
+            "key": [
+                "1",
+                59,
+                "59"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ̃́ɪ̃́ kɛ be thɪmɪ́r ma mɪ̃́ɪ̃̀ lobi-ra",
+                    "morphemes": "nɪ̃́ɪ̃́ kɛ be thɪmɪ́r ma mɪ̃́ɪ̃̀ lobi-ra",
+                    "gloss": "today dem.prox funeral topic 1sg.fut talk Lobi-loc",
+                    "translation": "Today I'm going to explain funeral practices in Lobi culture- ",
+                    "french": "Aujourd'hui, je vais vous expliquer les pratiques funéraires dans la culture de Lobi.",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
