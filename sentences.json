@@ -1,5 +1,5 @@
 {
-    "total_rows": 59,
+    "total_rows": 68,
     "offset": 0,
     "rows": [
         {
@@ -1501,6 +1501,232 @@
                     "modifiedByUser": ""
                 }
             }
+        },
+        {
+            "id": "60",
+            "key": [
+                "1",
+                60,
+                "60"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a tɪ́blɪ́ khi mɔ̃́ lóbi-n cʊʊ",
+                    "morphemes": "a tɪ́blɪ́ khi mɔ̃́ lóbi-n cʊʊ",
+                    "gloss": "if person die how Lobi-ipfv do",
+                    "translation": "what Lobi people do when someone passes away.",
+                    "french": "ce que font les gens de Lobi quand quelqu'un meurt.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "61",
+            "key": [
+                "1",
+                61,
+                "61"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a	do bɪsã́ã̀ khé sa-n pʊ́ɔ́r=á khí-ré ꜜrá=a",
+                    "morphemes": "a do bɪsã́ã̀ khé sa-n pʊ́ɔ́r=á khí-ré-ꜜrá=a",
+                    "gloss": "if cop kid die 1pl.neg-ipfv wait=NEG die-re-DEF=NEG",
+                    "translation": "If it is a kid who passed away, we don't wait long with the body.",
+                    "french": "Si c'est un enfant qui est mort, on n'attend pas longtemps avec le corps.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "62",
+            "key": [
+                "1",
+                62,
+                "62"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a khɛ́r-á bɪ dɪ sɪ-n dʊ́ khí-ré-ꜜrá dawí-ra",
+                    "morphemes": "a khɛ́r-á bɪ dɪ sɪ-n dʊ́ khí-ré-ꜜrá dawí-ra",
+                    "gloss": "if woman-pl cry dɪ 1pl-ipfv bury die-nmlz-def that.day-loc",
+                    "translation": "After women cry, we bury the body the same day.",
+                    "french": "Après que les femmes pleurent, on enterre le corps le même jour.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "63",
+            "key": [
+                "1",
+                63,
+                "63"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sa-n sá bɪ́nã=ã",
+                    "morphemes": "sa-n sá bɪ́nã=ã",
+                    "gloss": "1pl.neg-ipfv dance(v) dance(n)=NEG",
+                    "translation": "We don't dance.",
+                    "french": "On ne danse pas.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "64",
+            "key": [
+                "1",
+                64,
+                "64"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sa-n cʊ́ʊ́ thɪ̃́ kontín=ã",
+                    "morphemes": "sa-n cʊ́ʊ́ thɪ̃́ kontín=ã",
+                    "gloss": "1pl.neg-ipfv do thing big=NEG",
+                    "translation": "We don't organize a big funeral.",
+                    "french": "On n'organise pas de gros funérailles.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "65",
+            "key": [
+                "1",
+                65,
+                "65"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a do tɪ́blɪ́ kóntin jɪ sa-n dʊ́ khí-ré-ꜜrá dawí-ra=a",
+                    "morphemes": "a do tɪ́blɪ́ kóntin jɪ sa-n dʊ́ khí-ré-ꜜrá dawí-ra=a",
+                    "gloss": "if cop person big cop 1pl.neg-ipfv bury die-nmlz-def that.day-LOC=NEG",
+                    "translation": "If it is an adult, we don't bury the body the same day.",
+                    "french": "Si c'est un adulte, on n'enterre pas le corps le même jour.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "66",
+            "key": [
+                "1",
+                66,
+                "66"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ-n cʊ́ʊ́-rɛ́ biir",
+                    "morphemes": "sɪ-n cʊ́ʊ́-rɛ́ biir",
+                    "gloss": "1pl-ipfv do-re funeral",
+                    "translation": "We organize a funeral.",
+                    "french": "On organise des funérailles.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "67",
+            "key": [
+                "1",
+                67,
+                "67"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ-n wé sɪ tóó sʊnɔ̃ dɪ wʊ-n ɪ̃",
+                    "morphemes": "sɪ-n wé sɪ tóó sʊnɔ̃ dɪ wʊ-n ɪ̃",
+                    "gloss": "1pl-ipfv call 1pl.poss community pl dɪ 3pl-ipfv come",
+                    "translation": "We call our community members.",
+                    "french": "Nous appelons les membres de notre communauté.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "68",
+            "key": [
+                "1",
+                68,
+                "68"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ-n bɪ̃́ ꜜj'ólṍ a sá bɪ́nã",
+                    "morphemes": "sɪ-n bɪ̃́ ꜜj'ólṍ	a sá bɪ́nã",
+                    "gloss": "1pl-ipfv play balafon to dance(v) dance(n)",
+                    "translation": "We play balafon and dance.",
+                    "french": "On joue au balafon et on danse.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
         }
     ]
 }
+            
