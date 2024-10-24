@@ -1921,7 +1921,7 @@ var DictBox = React.createClass({
                                                 limit: 50,
                                                 search: '',
                                                 regex: false,
-                                                search_language: 'moro'}}>
+                                                search_language: 'lobi'}}>
                 <DictPage data={data} />
               </UrlParameterExtractor>
             </div>
