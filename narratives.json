@@ -10,7 +10,8 @@
         "name_fr": "[FR] Tchagba Dogba Super song",
         "author": "Madame Sidonie"
       }
-    },{
+    },
+    {
       "id": "2",
       "key": "2",
       "value": {
@@ -18,5 +19,6 @@
         "name_fr": "[FR] Tchagba Dogba Super song",
         "author": "Madame Sidonie"
       }
+    }
   ]
 }
