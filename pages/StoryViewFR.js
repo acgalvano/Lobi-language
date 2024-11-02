@@ -122,7 +122,7 @@ var StoryViewFR = React.createClass({
           <div className="ui grid">
             <div className="eight wide column"
                 style={{"padding": "0px"}}>
-                <h2>Atchan</h2>
+                <h2>Lobi</h2>
             </div>
             <div className="eight wide column"
                 style={{"padding": "0px"}}>
