@@ -168,7 +168,8 @@ var StoryView = React.createClass({
               </div>
             </div>
 
-            <iframe width="560" height="315" 
+            <iframe key={this.getStoryURL()} // changing `key` on URL change
+            width="560" height="315" 
             src={this.getStoryURL()}
             title="YouTube video player" 
             frameborder="0" 
