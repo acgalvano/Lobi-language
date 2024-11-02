@@ -52,7 +52,7 @@ var StoryView = React.createClass({
   },
   //return url
   getStoryURL: function() {
-    return _.get(this.getStory(), 'url', "");
+    return _.get(this.getStory(), 'url', "<Unknown Story>");
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
