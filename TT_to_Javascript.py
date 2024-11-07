@@ -5,6 +5,8 @@ filename = input("Enter your file name (without) .txt): ")
 filename += ".txt"
 entry_num = input("Enter the id number for this to begin on: ")
 id_num = int(entry_num)
+story_input = input("Enter the story number: ")
+story_num = int(story_input)
 with open(filename, "r") as file:
     text = file.read()
 
@@ -23,7 +25,7 @@ passages = re.split(r'\n{2,}', text_w_space.strip())
 # Now within each block, split by single newline, creating a list of lists
 list_of_passages = [passage.split('\n') for passage in passages]
 
-def create_javascript(passages, start_entry_num):
+def create_javascript(passages, start_entry_num, story_num):
     return_string = ""
     for passage in passages:
         if len(passage) < 3:
@@ -43,7 +45,7 @@ def create_javascript(passages, start_entry_num):
                 "{start_entry_num}"
             ],
             "value": {{
-                "story": "2",
+                "story": "{story_num}",
                 "sentence": {{
                     "judgement": "",
                     "utterance": "{passage[0]}",
@@ -65,7 +67,7 @@ def create_javascript(passages, start_entry_num):
     return return_string
 
 
-result = create_javascript(list_of_passages, id_num)
+result = create_javascript(list_of_passages, id_num, story_num=0)
 #need parameter of number we start counting from
 
         
