@@ -1,5 +1,5 @@
 {
-    "total_rows": 179,
+    "total_rows": 201,
     "offset": 0,
     "rows": [
         {
@@ -4589,6 +4589,577 @@
                     "gloss": "2pl-re have-re salutation",
                     "translation": "Thank you all",
                     "french": "Merci à tous",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "180",
+            "key": [
+                "1",
+                180,
+                "180"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ fʊɔ-rɛ nɪ ɡba fʊɔ-rɪ",
+                    "morphemes": "mɪ fʊɔ-rɛ nɪ ɡba fʊɔ-rɪ",
+                    "gloss": "1SG greet-RE 2PL take greet-NI",
+                    "translation": "Hello; good morning/afternoon/evening",
+                    "french": "Bonjour; bonjour/bonsoir",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "181",
+            "key": [
+                "1",
+                181,
+                "181"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nĩ́ĩ́=kɛ tibli tõmbi tibli tõmbi para=kɛ j'ɛrɛ sa dɪɪ-r",
+                    "morphemes": "nĩ́ĩ́=kɛ tibli tõmbi tibli tõmbi para=kɛ j'ɛrɛ sa dɪɪ-r",
+                    "gloss": "today=DEM person body person body part=DEM (are).what 1PL.FUT learn-RE",
+                    "translation": "Today we will learn the body parts",
+                    "french": "Aujourd'hui, nous allons apprendre les parties du corps",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "182",
+            "key": [
+                "1",
+                182,
+                "182"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "tibli tõmbi para sɪ hanã-nɪ̃ para jẽnther",
+                    "morphemes": "tibli tõmbi para sɪ hanã-nɪ̃ para jẽnther",
+                    "gloss": "person body part 1PL have-RE part three",
+                    "translation": "We have three body parts",
+                    "french": "Nous avons trois parties du corps",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "183",
+            "key": [
+                "1",
+                183,
+                "183"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ũn na tõmbir na tjɛr",
+                    "morphemes": "j'ũn na tõmbir na tjɛr",
+                    "gloss": "up and body and bottom",
+                    "translation": "The upper part,  the mid part, and the lower part",
+                    "french": "La partie supérieure, la partie médiane et la partie inférieure",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "184",
+            "key": [
+                "1",
+                184,
+                "184"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ jʊ para kɛ j'ɛrɛ kɛ ha-n jʊ para kɛ j'áá j'ɛ mã mɪɛ nɪ̃-n",
+                    "morphemes": "dɪ jʊ para kɛ j'ɛrɛ kɛ ha-n jʊ para kɛ j'áá j'ɛ mã mɪɛ nɪ̃-n",
+                    "gloss": "C2 head part DEM (is).what REL COP-REL head place DEM COP.PL LOC.PL 1SG.FUT tell 2PL-REL",
+                    "translation": "So I will tell you about the head part",
+                    "french": "Alors je vais vous parler de la partie tête",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "185",
+            "key": [
+                "1",
+                185,
+                "185"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "jʊʊ wʊ̃ so-n hɛd jʊʊ",
+                    "morphemes": "jʊʊ wʊ̃ so-n hɛd jʊʊ",
+                    "gloss": "head 3PL.IPFV say-IPFV head.EN head",
+                    "translation": ""jʊʊ" is what they call "head"",
+                    "french": ""jʊʊ" est ce qu'ils appellent "tête"",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "186",
+            "key": [
+                "1",
+                186,
+                "186"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "jʊ=tɪɪn aŋɡlɛ-n we-n hæɹs",
+                    "morphemes": "jʊ=tɪɪn aŋɡlɛ-n we-n hæɹs",
+                    "gloss": "head=hairs English.FR-IPFV call-IPFV hairs",
+                    "translation": ""jʊtɪɪn" is what they call  "hairs" in English",
+                    "french": "« jʊtɪɪn » est ce qu'ils appellent « cheveux » en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "187",
+            "key": [
+                "1",
+                187,
+                "187"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kure kure aŋɡlɛ-n we-n fɔɹhɛd",
+                    "morphemes": "kure kure aŋɡlɛ-n we-n fɔɹhɛd",
+                    "gloss": "forehead forehead English.FR-IPFV call-IPFV forehead",
+                    "translation": ""kure" is what they call  "forehead" in English",
+                    "french": ""kure" est ce qu'ils appellent "front" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "188",
+            "key": [
+                "1",
+                188,
+                "188"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "bãbir bãbri bãbre j'ɛrɛ aŋɡlɛ-n we bɑk əv ðə hɛd",
+                    "morphemes": "bãbir bãbri bãbre j'ɛrɛ aŋɡlɛ-n we bɑk əv ðə hɛd",
+                    "gloss": "back.of.the.head back.of.the.head back.of.the.head (is).what English.FR-IPFV call back of the head",
+                    "translation": ""bãbir" is what they call "back of the head" in English",
+                    "french": ""bãbir" est ce qu'ils appellent "l'arrière de la tête" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "189",
+            "key": [
+                "1",
+                189,
+                "189"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɔfaa nɔfaa aŋɡlɛ-n so-n lɪps",
+                    "morphemes": "nɔfaa nɔfaa aŋɡlɛ-n so-n lɪps",
+                    "gloss": "lip lip English.FR-IPFV say-IPFV lips",
+                    "translation": ""nɔfaa" is what they call "lips" in English",
+                    "french": ""nɔfaa" est ce qu'ils appellent "lèvres" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "190",
+            "key": [
+                "1",
+                190,
+                "190"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "jire jire ɔɔ jinã jinã aŋɡlɛ-n so-n aɪ ʊrɔ duwon aɪz jinã",
+                    "morphemes": "jire jire ɔɔ jinã jinã aŋɡlɛ-n so-n aɪ ʊrɔ duwon aɪz jinã",
+                    "gloss": "eye eye or eye.PL eye.PL English.FR-IPFV say-IPFV eye.EN 3SG COP eye.PL.EN eye.PL",
+                    "translation": ""jire" is what is called "eye" in English and "jinã" is "eyes"",
+                    "french": "« Jire » est ce qu'on appelle « œil » en anglais et « jinã » est « yeux »",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "191",
+            "key": [
+                "1",
+                191,
+                "191"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "jífaa jífaa aŋɡlɛ-n so-n aɪlæʃ aɪlæʃ",
+                    "morphemes": "jífaa jífaa aŋɡlɛ-n so-n aɪlæʃ aɪlæʃ",
+                    "gloss": "eyelash eyelash English.FR-IPFV say-IPFV eyelash.EN eyelash.EN",
+                    "translation": ""jífaa" is what they call "eyelash" in English",
+                    "french": ""jífaa" est ce qu'ils appellent "cil" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "192",
+            "key": [
+                "1",
+                192,
+                "192"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃kaar mɪ̃kaar aŋɡlɛ-n so-n noʊz",
+                    "morphemes": "mɪ̃kaar mɪ̃kaar aŋɡlɛ-n so-n noʊz",
+                    "gloss": "nose nose English.FR-IPFV say-IPFV nose.EN",
+                    "translation": ""mɪ̃kaar" is what they call "nose" in English",
+                    "french": ""mɪ̃kaar" est ce qu'ils appellent "nez" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "193",
+            "key": [
+                "1",
+                193,
+                "193"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nũũ(n) nũũ(n) aŋɡlɛ-n we-n iɹz iɹz",
+                    "morphemes": "nũũ(n) nũũ(n) aŋɡlɛ-n we-n iɹz iɹz",
+                    "gloss": "ear ear English.FR-IPFV call-IPFV ear.PL.EN ear.PL.EN",
+                    "translation": ""nũũ(n)" is what they call "ear/ears" in English",
+                    "french": ""nũũ(n)" est ce qu'ils appellent "oreille/oreilles" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "194",
+            "key": [
+                "1",
+                194,
+                "194"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɡbʊnã ɡbʊnã aŋɡlɛ-n so-n tʃiks tʃiks",
+                    "morphemes": "ɡbʊnã ɡbʊnã aŋɡlɛ-n so-n tʃiks tʃiks",
+                    "gloss": "cheek cheek English.FR-IPFV say-IPFV cheek.PL.EN cheek.PL.EN",
+                    "translation": ""ɡbʊnã" is what they call "cheek/cheeks" in English",
+                    "french": ""ɡbʊnã" est ce qu'ils appellent "joue/joues" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "195",
+            "key": [
+                "1",
+                195,
+                "195"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nokholsɪɛ nokholsɪɛ wʊ̃ so-n aŋɡlɛ-ra biɹd biɹd",
+                    "morphemes": "nokholsɪɛ nokholsɪɛ wʊ̃ so-n aŋɡlɛ-ra biɹd biɹd",
+                    "gloss": "beard beard 3PL say-IPFV English-LOC beard.EN beard.EN",
+                    "translation": ""nokholsɪɛ" is what they call "beard" in English",
+                    "french": ""nokholsɪɛ" est ce qu'ils appellent "barbe" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "196",
+            "key": [
+                "1",
+                196,
+                "196"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nʊɔ nʊɔ aŋɡlɛ̃-n we-n mɑuθ mɑuθ",
+                    "morphemes": "nʊɔ nʊɔ aŋɡlɛ̃-n we-n mɑuθ mɑuθ",
+                    "gloss": "mouth mouth English.FR-IPFV call-IPFV mouth.EN mouth.EN",
+                    "translation": ""nʊɔ" is what they call "mouth" in English",
+                    "french": ""nʊɔ" est ce qu'ils appellent "bouche" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "197",
+            "key": [
+                "1",
+                197,
+                "197"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "delnbre delnbre ɔɔ delnbir delnbir ɔɔ delnbri delnbri nɪ punõ-nẽ nɪ nɪɛ dɪkhã delẽbri delẽbre wʊ̃ we-n aŋɡlɛ-ra tʌŋɡ",
+                    "morphemes": "delnbre delnbre ɔɔ delnbir delnbir ɔɔ delnbri delnbri nɪ punõ-nẽ nɪ nɪɛ dɪkhã delẽbri delẽbre wʊ̃ we-n aŋɡlɛ-ra tʌŋɡ",
+                    "gloss": "tongue tongue or tongue tongue or tongue tongue 2PL can-RE 2PL hear also tongue tongue 3PL.IPFV call-IPFV English-LOC tongue.EN",
+                    "translation": ""delnbre" or "delnbir" or "delnbri" or "delẽbri" are what you may hear for "tongue"",
+                    "french": "« delnbre » ou « delnbir » ou « delnbri » ou « delẽbri » sont ce que vous pouvez entendre pour « langue »",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "198",
+            "key": [
+                "1",
+                198,
+                "198"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɲɪmã ɲɪmã aŋɡlɛ̃-n so-n tuθ dɪ wʊ̃ so dɪkhã tiθ a do ɲɪmã ɟɔɟɔ jɪ",
+                    "morphemes": "ɲɪmã ɲɪmã aŋɡlɛ̃-n so-n tuθ dɪ wʊ̃ so dɪkhã tiθ a do ɲɪmã ɟɔɟɔ jɪ",
+                    "gloss": "tooth tooth English.FR-IPFV say-IPFV tooth.EN C2 3PL.IPFV say also tooth.PL.EN when COP tooth many COP",
+                    "translation": ""ɲɪmã" is what they call "tooth" or "teeth" in English (singular or plural)",
+                    "french": ""ɲɪmã" est ce qu'ils appellent "dent" ou "dents" en anglais (singulier ou pluriel)",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "199",
+            "key": [
+                "1",
+                199,
+                "199"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "fʊɔr fʊɔr aŋɡlɛ̃-n we-n nɛk",
+                    "morphemes": "fʊɔr fʊɔr aŋɡlɛ̃-n we-n nɛk",
+                    "gloss": "neck neck English.FR-IPFV call-IPFV neck.EN",
+                    "translation": ""fʊɔr" is what they call "neck" in English",
+                    "french": ""fʊɔr" est ce qu'ils appellent "cou" en anglais",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "200",
+            "key": [
+                "1",
+                200,
+                "200"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛrɛ dʊwõn jʊ para kɛ sɪ dɪɪr-nɪ̃",
+                    "morphemes": "j'ɛrɛ dʊwõn jʊ para kɛ sɪ dɪɪr-nɪ̃",
+                    "gloss": "DEM COP head part DEM 1PL learn-RE",
+                    "translation": "Here are the upper parts we learned",
+                    "french": "Voici les parties supérieures que nous avons apprises",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "201",
+            "key": [
+                "1",
+                201,
+                "201"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ nɪ̃nɪ̃ kɛ j'ɛr do-n tõmbi par kɛ j'ɛr ha-n thĩnthĩn j'ɛrɛ sa dɪɪr nĩĩ sa dɪɪr nɪ̃nɪ̃",
+                    "morphemes": "sɪ nɪ̃nɪ̃ kɛ j'ɛr do-n tõmbi par kɛ j'ɛr ha-n thĩnthĩn j'ɛrɛ sa dɪɪr nĩĩ sa dɪɪr nɪ̃nɪ̃",
+                    "gloss": "C1 now DEM DEM COP body part DEM DEM COP-IPFV middle DEM 1PL.FUT learn today 1PL.FUT learn now",
+                    "translation": "We will now learn the middle body parts",
+                    "french": "Nous allons maintenant apprendre les parties médianes du corps",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
