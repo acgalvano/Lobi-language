@@ -770,6 +770,9 @@ var StoryView = React.createClass({
   getStoryAuthor: function() {
     return _.get(this.getStory(), 'author', "");
   },
+  getStoryURL: function() {
+    return _.get(this.getStory(), 'link', "");
+  },
   //toggles interlinear gloss or not
   toggleGloss: function() {
     var new_show_gloss = !this.state.show_gloss;
