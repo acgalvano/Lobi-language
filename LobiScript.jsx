@@ -888,7 +888,7 @@ var StoryView = React.createClass({
             </div>
 
             <iframe width="560" height="315" 
-            src={this.getURL()}
+            src={this.getStoryURL()}
             title="YouTube video player" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
@@ -953,6 +953,9 @@ var StoryViewFR = React.createClass({
   //return author of story by searching story data for this story's id
   getStoryAuthor: function() {
     return _.get(this.getStory(), 'author', "");
+  },
+  getStoryURL: function() {
+    return _.get(this.getStory(), 'link', "");
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
@@ -1071,7 +1074,7 @@ var StoryViewFR = React.createClass({
             </div>
 
             <iframe width="560" height="315" 
-            src="https://www.youtube.com/embed/fMIiQwCIzGQ?si=d3gMisqGeOdMJyw1" 
+            src={this.getStoryURL()}
             title="YouTube video player" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
