@@ -1,5 +1,5 @@
 {
-    "total_rows": 201,
+    "total_rows": 244,
     "offset": 0,
     "rows": [
         {
@@ -5167,5 +5167,1123 @@
                 }
             }
         }
+        ,
+        {
+            "id": "202",
+            "key": [
+                "1",
+                202,
+                "202"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ ɡba fʊɔr wo",
+                    "morphemes": "nɪ ɡba fʊɔr wo",
+                    "gloss": "2PL take greeting again",
+                    "translation": "Hello/good morning/good afternoon/good evening again",
+                    "french": "Bonjour/bonjour/bonsoir à nouveau",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "203",
+            "key": [
+                "1",
+                203,
+                "203"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ nĩĩ kɛ j'ɛr sa dɪɪr-nɪ mɔ̃ lobi thɪ̃khoda para mɔ̃ dɪ̃ɪ̃ ha",
+                    "morphemes": "dɪ nĩĩ kɛ j'ɛr sa dɪɪr-nɪ mɔ̃ lobi thɪ̃khoda para mɔ̃ dɪ̃ɪ̃ ha",
+                    "gloss": "C2 today DEM what 1PL.FUT learn-RE how Lobi food place how 3SG.IPFV COP",
+                    "translation": "Today what we are going to learn are Lobi  mealtime norms",
+                    "french": "Aujourd'hui, nous allons apprendre les normes alimentaires des Lobi.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "204",
+            "key": [
+                "1",
+                204,
+                "204"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ ɟɪ-rɛ a nɪ ɡal lobi lobi a wʊ thɪɪ thɪɛ̃ a wʊ cʊʊ thɪ̃khodaa tɪbla ã kho thɪ̃khodáà=rá bɪɛl bɪɛl a",
+                    "morphemes": "nɪ ɟɪ-rɛ a nɪ ɡal lobi lobi a wʊ thɪɪ thɪɛ̃ a wʊ cʊʊ thɪ̃khodaa tɪbla ã kho thɪ̃khodáà=rá bɪɛl bɪɛl a",
+                    "gloss": "2PL know-RE if/when 2PL go Lobi Lobi if/when 3PL cook thing.PL if/when 3PL make food person.PL NEG.IPFV eat food=DEF one one NEG",
+                    "translation": "You know, in Lobi culture, people don't eat alone",
+                    "french": "Vous savez, dans la culture Lobi, les gens ne mangent pas seuls.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "205",
+            "key": [
+                "1",
+                205,
+                "205"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a khɛr-a thɪɪ thɪ̃khodaa dɪ a thɪ̃̀ɪ̃́n dɪ wʊ̃ thɪ̃̀ɪ̃́n thɪ̃khodáà=rá dɪ sɪ̃̀ɪ̃́ kho=kha thɪɛ̃=nã fɔɪ",
+                    "morphemes": "a khɛr-a thɪɪ thɪ̃khodaa dɪ a thɪ̃̀ɪ̃́n dɪ wʊ̃ thɪ̃̀ɪ̃́n thɪ̃khodáà=rá dɪ sɪ̃̀ɪ̃́ kho=kha thɪɛ̃=nã fɔɪ",
+                    "gloss": "when woman-PL cook food C2 to set.IPFV C2 3PL.IPFV set.IPFV food=DEF and 1PL.IPFV eat=together thing.PL=DEF all",
+                    "translation": "After the women have cooked, they set up the food, and we eat together",
+                    "french": "Après que les femmes ont cuisiné, elles préparent la nourriture et nous mangeons ensemble.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "206",
+            "key": [
+                "1",
+                206,
+                "206"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ ɡba fʊɔ-rɪ",
+                    "morphemes": "nɪ ɡba fʊɔ-rɪ",
+                    "gloss": "2PL take greeting-NMLZ",
+                    "translation": "Hello; good morning/afternoon",
+                    "french": "Bonjour; bonjour/après-midi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "207",
+            "key": [
+                "1",
+                207,
+                "207"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nĩĩ-n kɛ lobi tʰĩ́kʰoda sá dɪɪr",
+                    "morphemes": "nĩĩ-n kɛ lobi tʰĩ́kʰoda sá dɪɪr",
+                    "gloss": "today-IPFV DEM Lobi food 1PL learn",
+                    "translation": "Today we're going to learn about Lobi food",
+                    "french": "Aujourd'hui, nous allons découvrir la nourriture Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "208",
+            "key": [
+                "1",
+                208,
+                "208"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a nɪ ɡal lɔ́bɛ dʊɔ tʰĩ́kʰoda kɛ do-n lɔbɛ tʰĩ́kʰoda j'ɛ-r sa dɪɪr nĩĩ",
+                    "morphemes": "a nɪ ɡal lɔ́bɛ dʊɔ tʰĩ́kʰoda kɛ do-n lɔbɛ tʰĩ́kʰoda j'ɛ-r sa dɪɪr nĩĩ",
+                    "gloss": "if/when 2PL go Lobi.PL village food DEM COP-IPFV Lobi.PL food that.which 1PL learn today",
+                    "translation": "We're going to learn today about the food you would discover when you go to a Lobi village",
+                    "french": "Nous allons découvrir aujourd'hui la nourriture que vous découvrirez en allant dans un village Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "209",
+            "key": [
+                "1",
+                209,
+                "209"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lɔbɛ ɟʊr sĩ dɪ ɟʊr dʊwo-n sɪ tʰĩ́kʰoda do-n sɪ tʰĩ́kʰoda kɛ nakɛ",
+                    "morphemes": "lɔbɛ ɟʊr sĩ dɪ ɟʊr dʊwo-n sɪ tʰĩ́kʰoda do-n sɪ tʰĩ́kʰoda kɛ nakɛ",
+                    "gloss": "Lobi.PL fufu 1PL.IPFV eat fufu COP-IPFV 1PL.POSS food COP-IPFV 1PL.POSS food REL EMPH",
+                    "translation": "We Lobi, fufu is our main food",
+                    "french": "Nous les Lobi, le fufu est notre nourriture principale",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "210",
+            "key": [
+                "1",
+                210,
+                "210"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ ɟʊr=ra ɟʊ ca jẽtʰer lɔbɛ-n dɪ",
+                    "morphemes": "dɪ ɟʊr=ra ɟʊ ca jẽtʰer lɔbɛ-n dɪ",
+                    "gloss": "EXPL fufu=DEF fufu type.of three Lobi.PL-IPFV eat",
+                    "translation": "There are three types of fufu",
+                    "french": "Il existe trois types de fufu",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "211",
+            "key": [
+                "1",
+                211,
+                "211"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "lɔbɛ-n d-rɛ ɔlɟɔ ɟʊr ɟɔ ɟʊr na po ɟʊr",
+                    "morphemes": "lɔbɛ-n d-rɛ ɔlɟɔ ɟʊr ɟɔ ɟʊr na po ɟʊr",
+                    "gloss": "Lobi.PL-IPFV eat-RE corn fufu millet fufu and yam fufu",
+                    "translation": "The Lobi eat corn fufu, millet fufu, and yam fufu",
+                    "french": "Les Lobi mangent du fufu de maïs, du fufu de millet et du fufu d'igname.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "212",
+            "key": [
+                "1",
+                212,
+                "212"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ ɔlɟɔ́ ɟʊr ɔlɟɔ wʊ̃ ɡbá a tʰʊ́ dɪ dɪ̃́ dó mɪ̃n",
+                    "morphemes": "sɪ ɔlɟɔ́ ɟʊr ɔlɟɔ wʊ̃ ɡbá a tʰʊ́ dɪ dɪ̃́ dó mɪ̃n",
+                    "gloss": "C1 corn fufu corn 3PL.IPFV take to pound C2 3SG.IPFV become flour",
+                    "translation": "To get the corn fufu, they pound the corn to get the flour",
+                    "french": "Pour obtenir le foufou de maïs, ils pilent le maïs pour obtenir la farine",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "213",
+            "key": [
+                "1",
+                213,
+                "213"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́n=na wʊ̃ ɡba a kʰɔɔ nã ɟʊr=ra",
+                    "morphemes": "mɪ̃́n=na wʊ̃ ɡba a kʰɔɔ nã ɟʊr=ra",
+                    "gloss": "flour=DEF 3PL.IPFV take to make.fufu with.EX fufu=DEF",
+                    "translation": "The flour is then used to make the fufu",
+                    "french": "La farine est ensuite utilisée pour faire le fufu",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "214",
+            "key": [
+                "1",
+                214,
+                "214"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ tʰale dɪ̃ cʊʊ dɪkʰã́ tʰale wʊ̃ cʊʊ dɪkʰã́ na ɟɔ ɟʊr",
+                    "morphemes": "dɪ tʰale dɪ̃ cʊʊ dɪkʰã́ tʰale wʊ̃ cʊʊ dɪkʰã́ na ɟɔ ɟʊr",
+                    "gloss": "C2 this.way 3SG.IPFV make also/too this.way 3PL.IPFV make also for millet fufu",
+                    "translation": "This is also the way millet fufu is made up",
+                    "french": "C'est aussi ainsi que l'on prépare le fufu de mil",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "215",
+            "key": [
+                "1",
+                215,
+                "215"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɟɔ dɪkhã́ dɪ wʊ̃ thʊ́ ɟɔ́=ra dɪ ń dó mɪ̃ɪ̃(n) dɪ wʊ̃ tí na tɛmɪ̃ mɔ̃ wʊ̃ ti-n ɔlɟɔ́ mɪ̃ɪ̃(n) dɪkhã dɪ wʊ̃ tí na tɛmɪ̃ a khɔɔ dɪ-ń do ɟʊr dɪ tɪbla-n dɪ",
+                    "morphemes": "ɟɔ dɪkhã́ dɪ wʊ̃ thʊ́ ɟɔ́=ra dɪ ń dó mɪ̃ɪ̃(n) dɪ wʊ̃ tí na tɛmɪ̃ mɔ̃ wʊ̃ ti-n ɔlɟɔ́ mɪ̃ɪ̃(n) dɪkhã dɪ wʊ̃ tí na tɛmɪ̃ a khɔɔ dɪ-ń do ɟʊr dɪ tɪbla-n dɪ",
+                    "gloss": "millet also EXPL 3PL.IPFV pound millet=DEF and 3SG become flour EXPL 3PL.IPFV strain with strainer how 3PL.IPFV strain-IPFV corn flour also EXPL 3PL.IPFV strain with strainer to cook EXPL-IPFV make fufu EXPL person.PL-IPFV eat",
+                    "translation": "For millet, they pound it and it becomes flour, and they filter it with a strainer, like they do with corn flour. Then, they cook it and they eat.",
+                    "french": "Pour le mil, ils le pilent et cela devient de la farine, et ils la filtrent avec une passoire, comme ils le font pour la farine de maïs. Ensuite, ils la font cuire et la mangent.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "216",
+            "key": [
+                "1",
+                216,
+                "216"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ po ɟʊr kɛ por wʊ̃ thɪɪ dɪ wʊ̃ thɪɪ por=ra",
+                    "morphemes": "sɪ po ɟʊr kɛ por wʊ̃ thɪɪ dɪ wʊ̃ thɪɪ por=ra",
+                    "gloss": "C1 yam fufu DEM yam 3PL.IPFV boil EXPL 3PL.IPFV boil yam=DEF",
+                    "translation": "For yam fufu, they boil the yam first",
+                    "french": "Pour le yam fufu, ils font d'abord bouillir l'igname",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "217",
+            "key": [
+                "1",
+                217,
+                "217"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a pór=ra bɪ̃ dɪ wʊ̃ tiir a ɡba ɡbṍṍ na ɡbṍṍsɪr a thʊ́ dɪ n do ɟʊr dɪ tɪ́bla-n dɪ",
+                    "morphemes": "a pór=ra bɪ̃ dɪ wʊ̃ tiir a ɡba ɡbṍṍ na ɡbṍṍsɪr a thʊ́ dɪ n do ɟʊr dɪ tɪ́bla-n dɪ",
+                    "gloss": "when yam=DEF be.cooked EXPL 3PL.IPFV take.from and take mortar and pestle and pound and 3SG become fufu and person.PL-IPFV eat",
+                    "translation": "When the yam is cooked, they pound it and it becomes fufu, and they eat",
+                    "french": "Quand l'igname est cuite, ils la pilent et elle devient du fufu, et ils la mangent.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "218",
+            "key": [
+                "1",
+                218,
+                "218"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ dɪ j'ɛr kɛ mɪ só-n wãã dɪ jɛ thaa(r) phɔsɛ a",
+                    "morphemes": "sɪ dɪ j'ɛr kɛ mɪ só-n wãã dɪ jɛ thaa(r) phɔsɛ a",
+                    "gloss": "C2 EXPL what DEM 1SG say-IPFV 3PL.NEG eat DEM like alone NEG",
+                    "translation": "The fufu is not eaten by itself",
+                    "french": "Le fufu ne se mange pas seul",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "219",
+            "key": [
+                "1",
+                219,
+                "219"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "bíí wʊ̃ dɪ nã ɟʊr=ra",
+                    "morphemes": "bíí wʊ̃ dɪ nã ɟʊr=ra",
+                    "gloss": "soup 3PL.IPFV eat with fufu=DEF",
+                    "translation": "The fufu is eaten with soup",
+                    "french": "Le fufu se mange avec de la soupe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "220",
+            "key": [
+                "1",
+                220,
+                "220"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ bí cáà=cáà ha-le",
+                    "morphemes": "dɪ bí cáà=cáà ha-le",
+                    "gloss": "C2 soup different=different COP-RE",
+                    "translation": "There are different kinds of soup",
+                    "french": "Il existe différents types de soupe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "221",
+            "key": [
+                "1",
+                221,
+                "221"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ a nɪ gal lobi dʊɔ bíí kɛ do-n lɔbɛ bíí wʊ̃ dɪ-n lɔbɛ-n d-rɛ bí cá ɟɔɟɔ",
+                    "morphemes": "dɪ a nɪ gal lobi dʊɔ bíí kɛ do-n lɔbɛ bíí wʊ̃ dɪ-n lɔbɛ-n d-rɛ bí cá ɟɔɟɔ",
+                    "gloss": "C2 if 2PL go Lobi country/village soup DEM COP-IPFV Lobi.PL soup 3PL.IPFV eat-IPFV Lobi.PL-IPFV eat-RE soup kind many",
+                    "translation": "So if you go to Lobi country, you will find different soups that they eat",
+                    "french": "Donc si vous allez au pays Lobi, vous trouverez différentes soupes qu'ils mangent",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "222",
+            "key": [
+                "1",
+                222,
+                "222"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí thɔ̃ bíí phʊ́ bíí hjɛ bíí",
+                    "morphemes": "kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí thɔ̃ bíí phʊ́ bíí hjɛ bíí",
+                    "gloss": "peanut soup pistachio soup soumala.Djoula soup eggplant soup potash soup okra soup bean soup",
+                    "translation": "Peanut soup, pistachio soup, locust bean soup, eggplant soup, potash soup, okra soup, bean soup",
+                    "french": "Soupe aux arachides, soupe aux pistaches, soupe aux caroubes, soupe aux aubergines, soupe à la potasse, soupe au gombo, soupe aux haricots",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "223",
+            "key": [
+                "1",
+                223,
+                "223"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "fa bíí ha-le dɪkhã dɪ faa=rá fa bíí=ra ca jenther ha-le",
+                    "morphemes": "fa bíí ha-le dɪkhã dɪ faa=rá fa bíí=ra ca jenther ha-le",
+                    "gloss": "leaf soup COP-RE also C2 leaf=DEF leaf soup=DEF kind three COP-RE",
+                    "translation": "There are three types of leafy soup",
+                    "french": "Il existe trois types de soupe aux feuilles",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "224",
+            "key": [
+                "1",
+                224,
+                "224"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɪnfa bíí bʊɔn bíí na pàá bíí",
+                    "morphemes": "ɪnfa bíí bʊɔn bíí na pàá bíí",
+                    "gloss": "leafy.green soup daa.Djoula soup and kulala.Baoule soup",
+                    "translation": "These are the three leafy soups",
+                    "french": "Ce sont les trois soupes aux feuilles",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "225",
+            "key": [
+                "1",
+                225,
+                "225"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ j'ɛkha hjɛ fa bíí ha-le dɪ wʊ̃ ɡba hjɛ faa a l'ʊɔ-ra bíí",
+                    "morphemes": "sɪ j'ɛkha hjɛ fa bíí ha-le dɪ wʊ̃ ɡba hjɛ faa a l'ʊɔ-ra bíí",
+                    "gloss": "C1 sometimes bean leaf soup COP-RE C2 3PL.IPFV take bean leaf to cook-LOC soup",
+                    "translation": "Sometimes they also cook soup with bean leaf",
+                    "french": "Parfois, ils cuisinent aussi de la soupe avec des feuilles de haricot.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "226",
+            "key": [
+                "1",
+                226,
+                "226"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ bí cá j'ɛrɛ mɪ so-n nɪ jɪ-rɛ ɔlɟɔ́ ɟʊr na ɟɔ ɟʊr bí cá j'ɛrɛ mɪ so-n fɔɔ wʊ púnṍ-nẽ wʊ dɪ-nã ɔlɟɔ́ ɟʊr na ɟɔ ɟʊr",
+                    "morphemes": "sɪ bí cá j'ɛrɛ mɪ so-n nɪ jɪ-rɛ ɔlɟɔ́ ɟʊr na ɟɔ ɟʊr bí cá j'ɛrɛ mɪ so-n fɔɔ wʊ púnṍ-nẽ wʊ dɪ-nã ɔlɟɔ́ ɟʊr na ɟɔ ɟʊr",
+                    "gloss": "C1 soup kind DEM 1SG say-IPFV 2PL see-RE corn fufu and millet fufu coup kind DEM 1SG say-IPFV all 3PL can-RE 3PL eat-LOC corn fufu and millet fufu",
+                    "translation": "These soups that I mentioned can be eaten with corn fufu and millet fufu",
+                    "french": "Ces soupes que j'ai mentionnées peuvent être consommées avec du fufu de maïs et du fufu de millet",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "227",
+            "key": [
+                "1",
+                227,
+                "227"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ po ɟʊr le mɪ so-n á a do bíí fɔɔ wʊ̃ dɪ-nã po ɟʊ́r=ra",
+                    "morphemes": "sɪ po ɟʊr le mɪ so-n á a do bíí fɔɔ wʊ̃ dɪ-nã po ɟʊ́r=ra",
+                    "gloss": "C1 yam fufu DEM 1SG say-IPFV 3SG NEG COP soup all 3PL.IPFV eat-LOC yam fufu=DEF",
+                    "translation": "But the yam fufu is not eaten with all types of soup",
+                    "french": "Mais le yam fufu ne se mange pas avec tous les types de soupe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "228",
+            "key": [
+                "1",
+                228,
+                "228"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "wã dɪ-nã fa bíí po ɟʊr a",
+                    "morphemes": "wã dɪ-nã fa bíí po ɟʊr a",
+                    "gloss": "3PL.NEG eat-LOC leaf soup yam fufu NEG",
+                    "translation": "They don't eat yam fufu with leafy soup",
+                    "french": "Ils ne mangent pas de yam fufu avec de la soupe aux feuilles",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "229",
+            "key": [
+                "1",
+                229,
+                "229"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "fa punõ na ɡba infa bíí fɪ dɪ-nã po ɟʊr a",
+                    "morphemes": "fa punõ na ɡba infa bíí fɪ dɪ-nã po ɟʊr a",
+                    "gloss": "2SG.NEG can to take leafy.green soup 2SG eat-LOC yam fufu NEG",
+                    "translation": "You can't eat yam fufu with leafy green soup",
+                    "french": "Vous ne pouvez pas manger du yam fufu avec une soupe de légumes verts",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "230",
+            "key": [
+                "1",
+                230,
+                "230"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a do mɪ̃ a bí cá j'ele fɔɔ fɪ punõ-nẽ fɪ dɪ-nã ɔlɟɔ́ ɟʊr na ɟɔ ɟʊr",
+                    "morphemes": "sɪ a do mɪ̃ a bí cá j'ele fɔɔ fɪ punõ-nẽ fɪ dɪ-nã ɔlɟɔ́ ɟʊr na ɟɔ ɟʊr",
+                    "gloss": "C1 if COP how NEG soup kind other all 2SG can-RE 2SG eat-LOC corn fufu and millet fufu",
+                    "translation": "Otherwise, you can eat corn fufu and millet fufu with all other soups",
+                    "french": "Sinon, vous pouvez manger du fufu de maïs et du fufu de millet avec toutes les autres soupes",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "231",
+            "key": [
+                "1",
+                231,
+                "231"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ po ɟʊr dɪbára na punõ na dɪ-nã fa bíí a sɪ a do mɪ̃ a bí j'ele nɪ punõ-nẽ nɪ dɪ-nã nɪ ɡba nɪ dɪ-nã po ɟʊr ɔɔ j'ɛr wʊ̃ so=n dɪkhã́ ɟʊ thʊ̃́nã́-nɛ̃",
+                    "morphemes": "sɪ po ɟʊr dɪbára na punõ na dɪ-nã fa bíí a sɪ a do mɪ̃ a bí j'ele nɪ punõ-nẽ nɪ dɪ-nã nɪ ɡba nɪ dɪ-nã po ɟʊr ɔɔ j'ɛr wʊ̃ so=n dɪkhã́ ɟʊ thʊ̃́nã́-nɛ̃",
+                    "gloss": "C1 yam fufu only 2PL.NEG can NEG eat-with leaf soup NEG but NEG COP way NEG soup other.PL 2PL can-RE 2PL eat-with 2PL take 2PL eat-with yam fufu or DEM.COP 3PL.NI say=NI also fufu pound-RE",
+                    "translation": "Yam fufu is the only one you can't eat with leafy soup; otherwise, you can eat yam fufu (pounded fufu) with any other soup",
+                    "french": "Le yam fufu est le seul que vous ne pouvez pas manger avec une soupe aux feuilles ; sinon, vous pouvez manger du yam fufu (fufu pilé) avec n'importe quelle autre soupe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "232",
+            "key": [
+                "1",
+                232,
+                "232"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ bí j'ɛrɛ kɛ mɪ̃ so=n a wa l'ʊɔr wʊ̃ punõ-nẽ wʊ̃ l'ʊɔr-na nʊ̃ʊ̃(n) ɔɔ thʊ̃mã nʊ̃ʊ̃khɪɪ jáà thʊ̃khɪɪ jáà jɔlɔ jáà hɔ̃ thʊ̃ nʊ̃ʊ̃ jáà j'ɛrɛ fɔ jɪ wʊ punõ-nẽ wʊ l'ʊɔr-na wʊ ɡba wʊ l'ʊɔr-na bíí=ra",
+                    "morphemes": "sɪ bí j'ɛrɛ kɛ mɪ̃ so=n a wa l'ʊɔr wʊ̃ punõ-nẽ wʊ̃ l'ʊɔr-na nʊ̃ʊ̃(n) ɔɔ thʊ̃mã nʊ̃ʊ̃khɪɪ jáà thʊ̃khɪɪ jáà jɔlɔ jáà hɔ̃ thʊ̃ nʊ̃ʊ̃ jáà j'ɛrɛ fɔ jɪ wʊ punõ-nẽ wʊ l'ʊɔr-na wʊ ɡba wʊ l'ʊɔr-na bíí=ra",
+                    "gloss": "C1 soup DEM.PROX REL 1SG say=NI when 3PL.IMPERS cook.soup 3PL.IPFV can-RE 3PL.IPFV cook.soup-LOC meat or fish dried.meat either dried.fish either chicken either forest thing meat either DEM.COP all COP 3PL.IMPERS can-RE 3PL.IMPERS cook.soup-LOC 3PL.IMPERS take 3PL.IMPERS cook.soup-LOC soup=DEF",
+                    "translation": "The soup can be cooked with meat, fish, dried meat, dried fish, chicken, wild meat",
+                    "french": "La soupe peut être cuisinée avec de la viande, du poisson, de la viande séchée, du poisson séché, du poulet, de la viande sauvage",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "233",
+            "key": [
+                "1",
+                233,
+                "233"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ mɪ sór ɔlɟɔ ɟʊr na ɟɔ ɟʊr mɪ̃ɪ̃ wʊ̃ ɡba ɔlɟɔ mɪ̃ɪ̃ ɔɔ ɟɔ mɪ̃ɪ̃ wʊ̃ ɡba a khɔɔ-na",
+                    "morphemes": "sɪ mɪ sór ɔlɟɔ ɟʊr na ɟɔ ɟʊr mɪ̃ɪ̃ wʊ̃ ɡba ɔlɟɔ mɪ̃ɪ̃ ɔɔ ɟɔ mɪ̃ɪ̃ wʊ̃ ɡba a khɔɔ-na",
+                    "gloss": "C1 1SG say corn fufu and millet fufu flour 3PL.IPFV take corn flour or millet flour 3PL.IPFV take to cook.fufu-LOC",
+                    "translation": "Corn and millet fufu are made up with corn and millet flour",
+                    "french": "Le foufou de maïs et de millet est préparé à partir de farine de maïs et de millet",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "234",
+            "key": [
+                "1",
+                234,
+                "234"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ po ɟʊr=le mɪ so nɪ-nẽ por wʊ̃ thii a thʊ dɪ̃ ɪ̃́ do ɟʊr",
+                    "morphemes": "sɪ po ɟʊr=le mɪ so nɪ-nẽ por wʊ̃ thii a thʊ dɪ̃ ɪ̃́ do ɟʊr",
+                    "gloss": "C1 yam fufu=DEM 1SG say 2PL-RE yam 3PL.IPFV boil to pound to 3SG become fufu",
+                    "translation": "Yam fufu is made up with boiled, pounded yam",
+                    "french": "Le fufu d'igname est préparé à partir d'igname bouillie et pilée.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "235",
+            "key": [
+                "1",
+                235,
+                "235"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a nɪ ɡal dɪ kpii sʊnɔ̃-nã do-n amerik-ra ɔɔ frãns-ra na jɪ-rɛ tɪbla dɪ̃ wʊ̃ dolõ po mɪ̃ɪ̃(n)",
+                    "morphemes": "sɪ a nɪ ɡal dɪ kpii sʊnɔ̃-nã do-n amerik-ra ɔɔ frãns-ra na jɪ-rɛ tɪbla dɪ̃ wʊ̃ dolõ po mɪ̃ɪ̃(n)",
+                    "gloss": "but if/when 2PL go country other PL-LOC COP-IPFV America-LOC or France-LOC 2PL.FUT see-RE person.PL to 3SG.IPFV sell yam flour",
+                    "translation": "But when you go to some other countries, like America and France, people sell yam flour",
+                    "french": "Mais quand vous allez dans d’autres pays, comme l’Amérique et la France, les gens vendent de la farine d’igname.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "236",
+            "key": [
+                "1",
+                236,
+                "236"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ma ɟɪ mɔ̃ wʊ̃ cʊʊ-nɪ̃ po mɪ̃ɪ̃(n)-na a sɪ dɪ wʊ̃ dolõ po mɪ̃ɪ̃(n) kartɔ̃-na dɪ tɪblã-n the",
+                    "morphemes": "ma ɟɪ mɔ̃ wʊ̃ cʊʊ-nɪ̃ po mɪ̃ɪ̃(n)-na a sɪ dɪ wʊ̃ dolõ po mɪ̃ɪ̃(n) kartɔ̃-na dɪ tɪblã-n the",
+                    "gloss": "1SG.NEG know how 3PL.IPFV make-RE yam flour-LOC NEG but C2 3PL.IPFV sell yam flour box-LOC EXPL person.PL-IPFV buy",
+                    "translation": "I don't know how they make the flour, but they sell it in boxes",
+                    "french": "Je ne sais pas comment ils font la farine, mais ils la vendent en boîtes.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "237",
+            "key": [
+                "1",
+                237,
+                "237"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ wʊ̃ khɔɔ mɔ̃ wʊ̃ khɔɔ-nɪ̃ ɔlɟɔ ɟʊr dɪ̃ ɪ̃ do ɟʊr dɪ wʊ̃ dɪ",
+                    "morphemes": "dɪ wʊ̃ khɔɔ mɔ̃ wʊ̃ khɔɔ-nɪ̃ ɔlɟɔ ɟʊr dɪ̃ ɪ̃ do ɟʊr dɪ wʊ̃ dɪ",
+                    "gloss": "C2 3PL.IPFV cook.fufu how 3PL.IPFV cook.fufu-RE corn fufu to 3SG become fufu C2 3PL.IPFV eat",
+                    "translation": "In this case, the yam fufu is cooked like corn fufu",
+                    "french": "Dans ce cas, le fufu d'igname est cuit comme le fufu de maïs",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "238",
+            "key": [
+                "1",
+                238,
+                "238"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a a do ɔlɟɔ ɟʊr jɪ a po mɪ̃ɪ̃(n) jɪ mɪ̃ɪ̃(n) wʊ ɡba por wʊ ɡba a cʊʊ a ɡbaŋɡa dɪ ɪ̃ do mɪ̃ɪ̃(n) dɪ wʊ̃ dolõ",
+                    "morphemes": "sɪ a a do ɔlɟɔ ɟʊr jɪ a po mɪ̃ɪ̃(n) jɪ mɪ̃ɪ̃(n) wʊ ɡba por wʊ ɡba a cʊʊ a ɡbaŋɡa dɪ ɪ̃ do mɪ̃ɪ̃(n) dɪ wʊ̃ dolõ",
+                    "gloss": "but 3SG NEG COP corn fufu COP NEG yam flour COP flour 3PL take yam 3PL take to make to transform and 3SG become flour and 3PL.IPFV sell",
+                    "translation": "But it's not corn fufu; it is a yam fufu made up with yam flour that people sell",
+                    "french": "Mais ce n'est pas du fufu de maïs ; c'est un fufu d'igname fait avec de la farine d'igname que les gens vendent",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "239",
+            "key": [
+                "1",
+                239,
+                "239"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ j'ɛrɛ kɛ a hanã-nɪ̃ ɡbõõsri a wãã jɪ ɡbõõsri kɪkɛ a j'ɛr dɔ nɔɔ dɪ tɪbla ɡba por=ra a ɡbaŋɡa dɪ ɪ̃ do mɪ̃ɪ̃(n) dɪ wʊ̃ khɔɔ",
+                    "morphemes": "dɪ j'ɛrɛ kɛ a hanã-nɪ̃ ɡbõõsri a wãã jɪ ɡbõõsri kɪkɛ a j'ɛr dɔ nɔɔ dɪ tɪbla ɡba por=ra a ɡbaŋɡa dɪ ɪ̃ do mɪ̃ɪ̃(n) dɪ wʊ̃ khɔɔ",
+                    "gloss": "C2 DEM.PL EMPH NEG have-RE mortar NEG 3PL.IMPERS find mortar LOC NEG DEM COP reason C2 person.PL take yam=DEF to transform and 3SG become flour and 3PL.IPFV cook.fufu",
+                    "translation": "Since we don't find a mortar here, the yam is transformed into a flour that is used to cook the fufu",
+                    "french": "Comme on ne trouve pas de mortier ici, l'igname est transformée en farine qui sert à cuire le foufou",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "240",
+            "key": [
+                "1",
+                240,
+                "240"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a wʊ khɔ́ɔ́ dɪ ɪ̃ hó ɔlɟɔ ɟʊr sɪ a á do ɔlɟɔ ɟʊr jɪ a",
+                    "morphemes": "sɪ a wʊ khɔ́ɔ́ dɪ ɪ̃ hó ɔlɟɔ ɟʊr sɪ a á do ɔlɟɔ ɟʊr jɪ a",
+                    "gloss": "C1 if/when 3PL cook.fufu C2 3SG look.like corn fufu but 3SG NEG COP corn fufu COP NEG",
+                    "translation": "When they cook it, it looks like corn fufu but it's not",
+                    "french": "Quand ils le cuisinent, cela ressemble à du foufou de maïs, mais ce n'est pas du tout ça.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "241",
+            "key": [
+                "1",
+                241,
+                "241"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ tha-ra nakɛ dɪ ɪ̃ ha kpíí á a do ɔlɟɔ ɟʊr jɪ a a do ɟɔ ɟʊr jɪ a po ɟʊr jɪ",
+                    "morphemes": "a fɪ tha-ra nakɛ dɪ ɪ̃ ha kpíí á a do ɔlɟɔ ɟʊr jɪ a a do ɟɔ ɟʊr jɪ a po ɟʊr jɪ",
+                    "gloss": "if/when 2SG touch-3SG even C2 3SG COP different 3SG NEG COP corn fufu COP 3SG NEG COP millet fufu COP NEG yam fufu COP",
+                    "translation": "Even when you touch it, it feels different compared to corn and millet fufu",
+                    "french": "Même lorsque vous le touchez, il est différent du foufou de maïs et de millet",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "242",
+            "key": [
+                "1",
+                242,
+                "242"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a jɪ a mɪ̃ jɪ a lobi-i dʊɔ wã ɡba po mɪ̃ɪ̃ a khɔɔ-nã po ɟʊr a",
+                    "morphemes": "sɪ a jɪ a mɪ̃ jɪ a lobi-i dʊɔ wã ɡba po mɪ̃ɪ̃ a khɔɔ-nã po ɟʊr a",
+                    "gloss": "C1 if COP NEG this.way COP NEG Lobi-POSS village/country 3PL.IMPERS take yam flour to cook-LOC yam fufu NEG",
+                    "translation": "Otherwise, yam fufu is not normally made with flour",
+                    "french": "Sinon, le yam fufu n'est généralement pas fait avec de la farine",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "243",
+            "key": [
+                "1",
+                243,
+                "243"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ ã khɔɔ po ɟʊr a lɔbɛ ã khɔɔ po ɟʊr a wʊ̃ thʊ-rɛ po ɟʊr wʊ ̃ã khɔɔ a",
+                    "morphemes": "sɪ ã khɔɔ po ɟʊr a lɔbɛ ã khɔɔ po ɟʊr a wʊ̃ thʊ-rɛ po ɟʊr wʊ ̃ã khɔɔ a",
+                    "gloss": "1PL NEG.IPFV cook.fufu yam fufu NEG Lobi.PL NEG.IPFV cook.fufu yam fufu NEG 3PL.IPFV pound-RE yam fufu 3PL NEG.IPFV cook.fufu NEG",
+                    "translation": "Lobi don't make yam fufu with flour; they only pound the boiled yam",
+                    "french": "Les Lobi ne font pas de fufu d'igname avec de la farine ; ils pilent seulement l'igname bouillie",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "244",
+            "key": [
+                "1",
+                244,
+                "244"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛr mɪ̃ j'aa-l j'ɛr mɪ na n mɪɛ nɪ nĩĩ mɔ̃ dɪ ha-n n-rɛ hɪ̃nã fuɔr",
+                    "morphemes": "j'ɛr mɪ̃ j'aa-l j'ɛr mɪ na n mɪɛ nɪ nĩĩ mɔ̃ dɪ ha-n n-rɛ hɪ̃nã fuɔr",
+                    "gloss": "DEM.COP 1SG.IPFV look-RE DEM.COP 1SG want 1SG tell 2PL today how 3SG COP-IPFV 2PL-RE have salutation",
+                    "translation": "That's what I was looking to tell you today; thank you",
+                    "french": "C'est ce que je voulais vous dire aujourd'hui ; merci",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }  
     ]
 }
