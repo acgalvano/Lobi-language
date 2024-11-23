@@ -1,5 +1,5 @@
 {
-    "total_rows": 244,
+    "total_rows": 289,
     "offset": 0,
     "rows": [
         {
@@ -6276,6 +6276,1176 @@
                     "gloss": "DEM.COP 1SG.IPFV look-RE DEM.COP 1SG want 1SG tell 2PL today how 3SG COP-IPFV 2PL-RE have salutation",
                     "translation": "That's what I was looking to tell you today; thank you",
                     "french": "C'est ce que je voulais vous dire aujourd'hui ; merci",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+                ,
+        {
+            "id": "245",
+            "key": [
+                "1",
+                245,
+                "245"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ́ ɡba fʊ́ɔ́-rɪ́",
+                    "morphemes": "nɪ́ ɡba fʊ́ɔ́-rɪ́",
+                    "gloss": "2PL take greeting-NMLZ",
+                    "translation": "Hello; good morning/afternoon/evening",
+                    "french": "Bonjour; bonjour/bonsoir",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "246",
+            "key": [
+                "1",
+                246,
+                "246"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nĩ́ĩ́=ꜜkɛ́ lobi sã́ã̀ ꜜdɪ́ɪ́-r dɪ tómbri sá ꜜdɪ́ɪ́-r",
+                    "morphemes": "nĩ́ĩ́=ꜜkɛ́ lobi sã́ã̀ ꜜdɪ́ɪ́-r dɪ tómbri sá ꜜdɪ́ɪ́-r",
+                    "gloss": "today=DEM.PROX Lobi 1PL.PROG learn-RE C1 body 1PL learn-RE",
+                    "translation": "Today we are going to learn the body parts in Lobi",
+                    "french": "Aujourd'hui, nous allons apprendre les parties du corps chez les Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "247",
+            "key": [
+                "1",
+                247,
+                "247"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ ɟɪ́-rɛ́ tombir=rá párá jẽnthér",
+                    "morphemes": "nɪ ɟɪ́-rɛ́ tombir=rá párá jẽnthér",
+                    "gloss": "2PL know-RE body=DEF part three",
+                    "translation": "As you know, we have three body parts",
+                    "french": "Comme vous le savez, nous avons trois parties du corps",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "248",
+            "key": [
+                "1",
+                248,
+                "248"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ hánã́-ꜜnɪ̃́ jʊ́ párá sɪ hánã́-ꜜnɪ̃́ thĩthĩ́ĩ́n=ꜜkɛ́ na tɪɛ́r=ꜜkɛ́",
+                    "morphemes": "sɪ hánã́-ꜜnɪ̃́ jʊ́ párá sɪ hánã́-ꜜnɪ̃́ thĩthĩ́ĩ́n=ꜜkɛ́ na tɪɛ́r=ꜜkɛ́",
+                    "gloss": "1PL have-REL head part 1PL have-REL middle=DEM.PROX and bottom=DEM.PROX",
+                    "translation": "We have the upper, middle, and lower parts",
+                    "french": "Nous avons les parties supérieure, médiane et inférieure",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "249",
+            "key": [
+                "1",
+                249,
+                "249"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ jʊ́ párá=ꜜkɛ́ ɪle sá ꜜdɪ́ɪ́-r ꜜɓo",
+                    "morphemes": "dɪ jʊ́ párá=ꜜkɛ́ ɪle sá ꜜdɪ́ɪ́-r ꜜɓo",
+                    "gloss": "C1 head part=DEM.PROX DEM 1PL learn-RE first",
+                    "translation": "So, we are going to learn the upper part first",
+                    "french": "Alors, nous allons d'abord apprendre la partie supérieure",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "250",
+            "key": [
+                "1",
+                250,
+                "250"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ʊ́rɛ́ lobĩ=n wé ꜜjʊ́ʊ́ ꜜjʊ́ʊ́",
+                    "morphemes": "ʊ́rɛ́ lobĩ=n wé ꜜjʊ́ʊ́ ꜜjʊ́ʊ́",
+                    "gloss": "DEM.PROX Lobi=IPFV call head head",
+                    "translation": "This (head) is what Lobi call \"jʊʊ"\",
+                    "french": "C'est ce que les Lobi appellent \"jʊʊ\"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "251",
+            "key": [
+                "1",
+                251,
+                "251"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ ʊ́rɛ́ ꜜkɛ́ jʊ́=tɪɪn jʊ́=tɪɪn",
+                    "morphemes": "dɪ ʊ́rɛ́ ꜜkɛ́ jʊ́=tɪɪn jʊ́=tɪɪn",
+                    "gloss": "C1 DEM.PROX DEM.PROX head=hair head=hair",
+                    "translation": "This (head hair) is \"jʊtɪɪn"\",
+                    "french": "Ceci (les cheveux de la tête) est \"jʊtɪɪn"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "252",
+            "key": [
+                "1",
+                252,
+                "252"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kure kure",
+                    "morphemes": "kure kure",
+                    "gloss": "forehead forehead",
+                    "translation": "forehead",
+                    "french": "front",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "253",
+            "key": [
+                "1",
+                253,
+                "253"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "bã́ã́bri bã́ã́bri j'ɛkhã́ só dɪkhã́ bã́ã́bir bã́ã́bir ʊkhá púnṍ-ꜜnẽ a só dɪkhã́ bã́ãbre bã́ã́bre biɛ́l=lá ꜜjɪ́",
+                    "morphemes": "bã́ã́bri bã́ã́bri j'ɛkhã́ só dɪkhã́ bã́ã́bir bã́ã́bir ʊkhá púnṍ-ꜜnẽ a só dɪkhã́ bã́ãbre bã́ã́bre biɛ́l=lá ꜜjɪ́",
+                    "gloss": "back.of.head back.of.head some say also back.of.head back.of.head someone can-RE 3SG say also back.of.head back.of.head one=DEF COP",
+                    "translation": "back of the head (bããbri); someone can also say \"bããbir"\ or \"bããbre"\; they are all the same",
+                    "french": "arrière de la tête (bããbri) ; quelqu'un peut aussi dire « bããbir » ou « bããbre » ; ils sont tous pareils",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "254",
+            "key": [
+                "1",
+                254,
+                "254"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɔfaa nɔfaa",
+                    "morphemes": "nɔfaa nɔfaa",
+                    "gloss": "lip lip",
+                    "translation": "lip(s)",
+                    "french": "lèvres)",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "255",
+            "key": [
+                "1",
+                255,
+                "255"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "jírí jírí j'ɛkhã́=n só dɪkhã́ jíré jíré a bɪ́ɛl jɪ́",
+                    "morphemes": "jírí jírí j'ɛkhã́=n só dɪkhã́ jíré jíré a bɪ́ɛl jɪ́",
+                    "gloss": "eye eye some=IPFV say also eye eye when one COP",
+                    "translation": "eye (jiri); someone can also say \"jire,"\ when it is one",
+                    "french": "œil (jiri) ; quelqu'un peut aussi dire « jire », quand c'est un",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "256",
+            "key": [
+                "1",
+                256,
+                "256"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a d-ɪ ɟɔ́rɔ́ a do jɛ́ɲɔ dɪ wʊ̃ so jínã́ jínã́",
+                    "morphemes": "sɪ a d-ɪ ɟɔ́rɔ́ a do jɛ́ɲɔ dɪ wʊ̃ so jínã́ jínã́",
+                    "gloss": "C1 when EXPL-COP many 3SG COP two C2 3PL.IPFV say eye.PL eye.PL",
+                    "translation": "But when there are many, when there are two, then they say \"jinã"\",
+                    "french": "Mais quand il y en a plusieurs, quand il y en a deux, alors ils disent « jinã »",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "257",
+            "key": [
+                "1",
+                257,
+                "257"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kɪ́ɛ́r ꜜkɛ́ wʊ̃́ só jífaar jífaar",
+                    "morphemes": "kɪ́ɛ́r ꜜkɛ́ wʊ̃́ só jífaar jífaar",
+                    "gloss": "DEM.PROX DEM.PROX 3PL.IPFV say eyelash eyelash",
+                    "translation": "This (eyelash) is what they call \"jifaa"\",
+                    "french": "C'est ce qu'ils appellent « jifaa »",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "258",
+            "key": [
+                "1",
+                258,
+                "258"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ʊ́rɛ́ ꜜkɛ́ nũũ(n) nũũ(n)",
+                    "morphemes": "ʊ́rɛ́ ꜜkɛ́ nũũ(n) nũũ(n)",
+                    "gloss": "DEM.PROX DEM.PROX ear ear",
+                    "translation": "This (ear(s)) is \"nũũ(n)"\",
+                    "french": "Cette (oreille(s)) est \"nũũ(n)"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "259",
+            "key": [
+                "1",
+                259,
+                "259"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "mɪ̃́=kaar mɪ̃́=kaar",
+                    "morphemes": "mɪ̃́=kaar mɪ̃́=kaar",
+                    "gloss": "snot=hole snot=hole",
+                    "translation": "nose",
+                    "french": "nez",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "260",
+            "key": [
+                "1",
+                260,
+                "260"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɡbʊnã ɡbʊnã",
+                    "morphemes": "ɡbʊnã ɡbʊnã",
+                    "gloss": "cheek cheek",
+                    "translation": "cheek",
+                    "french": "joue",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "261",
+            "key": [
+                "1",
+                261,
+                "261"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nokhólsɪɛ nokhólsɪɛ nɔkhólsɪɛ",
+                    "morphemes": "nokhólsɪɛ nokhólsɪɛ nɔkhólsɪɛ",
+                    "gloss": "beard beard beard",
+                    "translation": "beard",
+                    "french": "barbe",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "262",
+            "key": [
+                "1",
+                262,
+                "262"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nʊɔ nʊɔ",
+                    "morphemes": "nʊɔ nʊɔ",
+                    "gloss": "mouth mouth",
+                    "translation": "mouth",
+                    "french": "bouche",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "263",
+            "key": [
+                "1",
+                263,
+                "263"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɲɪ́mã́ ɲɪ́mã́",
+                    "morphemes": "ɲɪ́mã́ ɲɪ́mã́",
+                    "gloss": "tooth tooth",
+                    "translation": "tooth/teeth",
+                    "french": "dent/dents",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "264",
+            "key": [
+                "1",
+                264,
+                "264"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "délnbri délnbri j'ɛkhã́=n so dɪkhã́ délénbri délénbri nɪ púnṍ-ꜜnẽ́ nɪ nɪ́ɛ́ dɪkhã́ délnbir délnbir bɪɛl=lá ꜜjɪ́",
+                    "morphemes": "délnbri délnbri j'ɛkhã́=n so dɪkhã́ délénbri délénbri nɪ púnṍ-ꜜnẽ́ nɪ nɪ́ɛ́ dɪkhã́ délnbir délnbir bɪɛl=lá ꜜjɪ́",
+                    "gloss": "tongue tongue some=IPFV say also tongue tongue 2PL can-RE 2PL hear also tongue tongue one=DEF COP",
+                    "translation": "Tongue (delnbri); you can also hear \"delenbri"\ or \"delnbir,"\ they are all the same",
+                    "french": "Langue (delnbri) ; on peut aussi entendre « delenbri » ou « delnbir », ils sont tous identiques",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "265",
+            "key": [
+                "1",
+                265,
+                "265"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kɪ́ɛ́r wʊ̃́ wé fʊɔr fʊɔr fʊɔr",
+                    "morphemes": "kɪ́ɛ́r wʊ̃́ wé fʊɔr fʊɔr fʊɔr",
+                    "gloss": "DEM.PROX 3PL.IPFV call neck neck neck",
+                    "translation": "This (neck) is \"fʊɔr"\",
+                    "french": "Ce (cou) est \"fʊɔr"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "266",
+            "key": [
+                "1",
+                266,
+                "266"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ nɪ̃́nɪ̃́=ꜜkɛ́ thɪ̃thɪ̃́n=ꜜkɛ sá ꜜdɪ́ɪ́-r",
+                    "morphemes": "dɪ nɪ̃́nɪ̃́=ꜜkɛ́ thɪ̃thɪ̃́n=ꜜkɛ sá ꜜdɪ́ɪ́-r",
+                    "gloss": "C2 now=DEM middle=DEM.PROX 1PL.FUT learn-RE",
+                    "translation": "Now we are going to learn the middle part",
+                    "french": "Maintenant, nous allons apprendre la partie médiane",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "267",
+            "key": [
+                "1",
+                267,
+                "267"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kṹkũ(n) kṹkũ(n)",
+                    "morphemes": "kṹkũ(n) kṹkũ(n)",
+                    "gloss": "chest chest",
+                    "translation": "chest",
+                    "french": "poitrine",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "268",
+            "key": [
+                "1",
+                268,
+                "268"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɟélbir ɟélbri a d-ɪ ɟɔ́rɔ́ dɪ lobĩ-n só ɟɛ́lb(ɪ́)nã ɟɛ́lb(ɪ́)nã",
+                    "morphemes": "ɟélbir ɟélbri a d-ɪ ɟɔ́rɔ́ dɪ lobĩ-n só ɟɛ́lb(ɪ́)nã ɟɛ́lb(ɪ́)nã",
+                    "gloss": "rib rib when EXPL-COP many C2 Lobi-IPFV say rib.PL rib.PL",
+                    "translation": "Rib (ɟelbir); when there are many, Lobi say \"ɟɛlb(ɪ)nã"\",
+                    "french": "Rib (ɟelbir) ; lorsqu'il y en a beaucoup, les Lobi disent \"ɟɛlb(ɪ)nã"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "269",
+            "key": [
+                "1",
+                269,
+                "269"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛkhã́=n só dɪkhã́ ɟélbre a á dó bɪɛl sɪ́ á d-ɪ ɟɔ́rɔ́ ʊ̃khá púnó a só a d-ɪ ɟɔ́rɔ́ dɪ wʊ̃́ só ɟélb(ɪ)na",
+                    "morphemes": "j'ɛkhã́=n só dɪkhã́ ɟélbre a á dó bɪɛl sɪ́ á d-ɪ ɟɔ́rɔ́ ʊ̃khá púnó a só a d-ɪ ɟɔ́rɔ́ dɪ wʊ̃́ só ɟélb(ɪ)na",
+                    "gloss": "some=IPFV say also rib when 3SG COP one C1 when EXPL-COP many someone can to say when EXPL-COP many C2 3PL say rib.PL",
+                    "translation": "Some can also say \"ɟelbre,"\ and when there are many, they say "ɟɛlb(ɪ)nã"",
+                    "french": "Certains peuvent aussi dire « ɟelbre », et quand ils sont nombreux, ils disent « ɟɛlb(ɪ)nã ».",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "270",
+            "key": [
+                "1",
+                270,
+                "270"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kɪ-kɪ́ɛ́r lobi=n wé ɲɛ̃ɡbɛ́ɡbɛl ɲɛ̃ɡbɛ́ɡbɛl",
+                    "morphemes": "kɪ-kɪ́ɛ́r lobi=n wé ɲɛ̃ɡbɛ́ɡbɛl ɲɛ̃ɡbɛ́ɡbɛl",
+                    "gloss": "RED-DEM.PROX Lobi=IPFV call shoulder shoulder",
+                    "translation": "This right here is \"ɲɛ̃ɡbɛ́ɡbɛl"\",
+                    "french": "Ici c'est \"ɲɛ̃ɡbɛ́ɡbɛl"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "271",
+            "key": [
+                "1",
+                271,
+                "271"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ kɪ-kɪ́ɛ́r kɛ́ lobi=n só ɡɔr ɡɔr",
+                    "morphemes": "dɪ kɪ-kɪ́ɛ́r kɛ́ lobi=n só ɡɔr ɡɔr",
+                    "gloss": "C2 RED-DEM.PROX DEM.PROX Lobi=IPFV say upper.back upper.back",
+                    "translation": "This right here is \"ɡɔr"\",
+                    "french": "Ceci est \"ɡɔr"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "272",
+            "key": [
+                "1",
+                272,
+                "272"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ́ khír=ꜜkɛ́ ʊ́rɛ́ lobĩ=n só khír j'ɛkhã́ púnṍ-ꜜné wʊ só dɪkhã́ khírí khír ɔɔ khírí",
+                    "morphemes": "sɪ́ khír=ꜜkɛ́ ʊ́rɛ́ lobĩ=n só khír j'ɛkhã́ púnṍ-ꜜné wʊ só dɪkhã́ khírí khír ɔɔ khírí",
+                    "gloss": "C1 back=DEM 3SG Lobi=IPFV say back some can-RE 3PL say also back back or back",
+                    "translation": "The back can be pronounced \"khiri"\ or \"khir"\",
+                    "french": "Le dos peut être prononcé « khiri » ou « khir »",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "273",
+            "key": [
+                "1",
+                273,
+                "273"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kɪ-kɪ́ɛ́r ꜜkɛ́ tɪɛr=kɛ́ lobi=n só sɪ́kɪr sɪ́kɪr sɪ́kɪr",
+                    "morphemes": "kɪ-kɪ́ɛ́r ꜜkɛ́ tɪɛr=kɛ́ lobi=n só sɪ́kɪr sɪ́kɪr sɪ́kɪr",
+                    "gloss": "RED-DEM.PROX DEM.PROX down=DEM.PROX Lobi=IPFV say lower.back lower.back lower.back",
+                    "translation": "This right here is called \"sɪcɪr"\",
+                    "french": "Ceci ici s'appelle \"sɪcɪr\"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "274",
+            "key": [
+                "1",
+                274,
+                "274"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ́ j'ɛ́rɛ́ ꜜkɛ́ lobi=n wé ɲɔ̃ɔ̃ ɲɔ̃ɔ̃ a d-ɪ ɟɔ́rɔ́ lobi=n só ɲɛ̃ɛ̃ ɲɛ̃ɛ̃",
+                    "morphemes": "sɪ́ j'ɛ́rɛ́ ꜜkɛ́ lobi=n wé ɲɔ̃ɔ̃ ɲɔ̃ɔ̃ a d-ɪ ɟɔ́rɔ́ lobi=n só ɲɛ̃ɛ̃ ɲɛ̃ɛ̃",
+                    "gloss": "C1 DEM.PROX DEM.PROX Lobi=IPFV call arm arm when EXPL-COP many Lobi=IPFV say arm.PL arm.PL",
+                    "translation": "These are called \"ɲɔ̃ɔ̃"\ (singular) and \"ɲɛ̃ɛ̃"\ (plural)",
+                    "french": "On les appelle \"ɲɔ̃ɔ̃"\ (singulier) et \"ɲɛ̃ɛ̃"\ (pluriel)",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "275",
+            "key": [
+                "1",
+                275,
+                "275"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ kɪ-kɪ́ɛ́r ꜜkɛ́ lobi=n wé ɲɛ̃pɪɛl ɲɛ̃pɪɛl ɔɔ ɲɔ̃pɪɛl ɲɔ̃pɪɛl",
+                    "morphemes": "dɪ kɪ-kɪ́ɛ́r ꜜkɛ́ lobi=n wé ɲɛ̃pɪɛl ɲɛ̃pɪɛl ɔɔ ɲɔ̃pɪɛl ɲɔ̃pɪɛl",
+                    "gloss": "C2 RED-DEM.PROX DEM.PROX Lobi=IPFV call palm palm or palm.PL palm.PL",
+                    "translation": "This here is called \"ɲɛ̃pɪɛl"\ (singular) or \"ɲɔ̃pɪɛl"\ (plural)",
+                    "french": "Ici, on l'appelle \"ɲɛ̃pɪɛl\" (singulier) ou \"ɲɔ̃pɪɛl\" (pluriel)",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "276",
+            "key": [
+                "1",
+                276,
+                "276"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ʊ́rɛ́ lobi=n wé ɲɔ̃́bir ʊkhã́=n púnṍ-ꜜnẽ a só dɪkhã́ ɲɔ̃́bri ɔɔ ɲɔ̃́bir a d-ɪ ɟɔ́rɔ́ lobi=n só ɲɛ̃́bɪnã ɲɛ̃́bɪnã",
+                    "morphemes": "ʊ́rɛ́ lobi=n wé ɲɔ̃́bir ʊkhã́=n púnṍ-ꜜnẽ a só dɪkhã́ ɲɔ̃́bri ɔɔ ɲɔ̃́bir a d-ɪ ɟɔ́rɔ́ lobi=n só ɲɛ̃́bɪnã ɲɛ̃́bɪnã",
+                    "gloss": "DEM.PROX Lobi=IPFV say finger someone=IPFV can-RE 3SG say also finger or finger if EXPL-COP many Lobi=IPFV say finger.PL finger.PL",
+                    "translation": "This is called \"ɲɔ̃bir"\ or \"ɲɔ̃bri"\ (singular); if it is plural, it's called "ɲɛ̃bɪnã"",
+                    "french": "Cela s'appelle \"ɲɔ̃bir\" ou \"ɲɔ̃bri\" (singulier) ; s'il est au pluriel, cela s'appelle "ɲɛ̃bɪnã"",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "277",
+            "key": [
+                "1",
+                277,
+                "277"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ kɪ-kɪ́ɛ́r kɛ́ lobi=n só ɲɔ̃́kur ɲɔ̃́kur",
+                    "morphemes": "dɪ kɪ-kɪ́ɛ́r kɛ́ lobi=n só ɲɔ̃́kur ɲɔ̃́kur",
+                    "gloss": "C2 RED-DEM.PROX DEM.PROX Lobi=IPFV say elbow elbow",
+                    "translation": "This is called \"ɲɔ̃kur"\",
+                    "french": "Ceci s'appelle \"ɲɔ̃kur"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "278",
+            "key": [
+                "1",
+                278,
+                "278"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ʊ́rɛ́ kɛ́ lobi=n só bɪ́nɪ̃́ bɪ́nɪ̃́ bɪ́nɪ̃́",
+                    "morphemes": "ʊ́rɛ́ kɛ́ lobi=n só bɪ́nɪ̃́ bɪ́nɪ̃́ bɪ́nɪ̃́",
+                    "gloss": "DEM.PROX DEM.PROX Lobi=IPFV say belly belly belly",
+                    "translation": "This is called \"bɪnɪ̃"\",
+                    "french": "Ceci s'appelle \"bɪnɪ̃"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "279",
+            "key": [
+                "1",
+                279,
+                "279"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ ɟɪkhã́ búú=ꜜkɛ́ há-n kɪ-kɪ́ɛ́r sɪ hánã́ j'ɛ́r fɔ́ lobi=n só hjɛ́bir hjɛ́bir nɪ púnṍ-ꜜnẽ́ nɪ nɪ́ɛ́ dɪkhã́ ʊkhã́ só hjɛ́bre hjɛ́bre bɪɛl-lá ꜜjɪ́",
+                    "morphemes": "dɪ ɟɪkhã́ búú=ꜜkɛ́ há-n kɪ-kɪ́ɛ́r sɪ hánã́ j'ɛ́r fɔ́ lobi=n só hjɛ́bir hjɛ́bir nɪ púnṍ-ꜜnẽ́ nɪ nɪ́ɛ́ dɪkhã́ ʊkhã́ só hjɛ́bre hjɛ́bre bɪɛl-lá ꜜjɪ́",
+                    "gloss": "C2 something.PROX small=DEM.PROX COP-REL RED-DEM.PROX 1PL have DEM.PROX all Lobi=IPFV say bellybutton bellybutton 2PL can-RE 2PL hear also someone say bellybutton bellybutton one-LOC COP",
+                    "translation": "This small thing is called \"hjɛbir"\ or you can also hear \"hjɛbre"\",
+                    "french": "Cette petite chose s'appelle \"hjɛbir\"\ ou vous pouvez aussi entendre \"hjɛbre\"\",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "280",
+            "key": [
+                "1",
+                280,
+                "280"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kɪ-kɪɛ́r ꜜkɛ́ lobi=n só kpɪ̃́kpã́ã̀(n) kpɪ̃́kpã́ã̀(n) a d-ɪ ɟɔ́rɔ́ dɪ wʊ̃́ só kpɪ̃́kpã́nã kpɪ̃́kpã́nã",
+                    "morphemes": "kɪ-kɪɛ́r ꜜkɛ́ lobi=n só kpɪ̃́kpã́ã̀(n) kpɪ̃́kpã́ã̀(n) a d-ɪ ɟɔ́rɔ́ dɪ wʊ̃́ só kpɪ̃́kpã́nã kpɪ̃́kpã́nã",
+                    "gloss": "RED-DEM.PROX DEM.PROX Lobi=IPFV say hip hip if EXPL-COP many C2 3PL.IPFV say hip.PL hip.PL",
+                    "translation": "This is called \"kpɪ̃́kpã́ã̀(n)"\ (singular); when it's plural, it's called \"kpɪ̃́kpã́nã"\",
+                    "french": "Cela s'appelle \"kpɪ̃́kpã́ã̀(n)\" (singulier) ; quand c'est au pluriel, cela s'appelle \"kpɪ̃́kpã́nã\"",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "281",
+            "key": [
+                "1",
+                281,
+                "281"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛ́r duwõn mɪ mɪ́ɛ́ ꜜnɪ̃́n nakɛ́ sɪ dɪ́r-nɪ̃ nɪ̃nɪ̃ thĩthĩ́n=ꜜkɛ́ sɪ dɪ́r-nɪ̃ sɪ dɪ́ɪ́-rɛ́ jʊ́ párá a dɪ́-r thĩ́thĩn nɪ̃́nɪ̃́=ꜜkɛ́ sɪ dɪ́-r tɪɛr tɪɛr párá=ꜜkɛ́",
+                    "morphemes": "j'ɛ́r duwõn mɪ mɪ́ɛ́ ꜜnɪ̃́n nakɛ́ sɪ dɪ́r-nɪ̃ nɪ̃nɪ̃ thĩthĩ́n=ꜜkɛ́ sɪ dɪ́r-nɪ̃ sɪ dɪ́ɪ́-rɛ́ jʊ́ párá a dɪ́-r thĩ́thĩn nɪ̃́nɪ̃́=ꜜkɛ́ sɪ dɪ́-r tɪɛr tɪɛr párá=ꜜkɛ́",
+                    "gloss": "DEM.PROX COP 1SG tell 2PL.IPFV EMPH 1PL learn-REL now middle=DEM.PROX 1PL learn-REL 1PL learn-RE head part and learn-RE middle now=DEM 1PL learn-RE bottom bottom part=DEM.PROX",
+                    "translation": "We have learned the upper and middle parts; now we learn the bottom part",
+                    "french": "Nous avons appris les parties supérieure et médiane ; maintenant nous apprenons la partie inférieure",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "282",
+            "key": [
+                "1",
+                282,
+                "282"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ tɪ́ɛ́r pár=ꜜrá mɪ kɔɔ so=n nɪ̃́nɪ̃́ sá komãse nã́ nɪ̃ kpɪ̃́kpã́(ǹ) kpɪ̃́kpã́(ǹ) kpɪ̃́kpã́nã a d-ɪ ɟɔ́rɔ́ kpɪ̃́kpã́nã",
+                    "morphemes": "dɪ tɪ́ɛ́r pár=ꜜrá mɪ kɔɔ so=n nɪ̃́nɪ̃́ sá komãse nã́ nɪ̃ kpɪ̃́kpã́(ǹ) kpɪ̃́kpã́(ǹ) kpɪ̃́kpã́nã a d-ɪ ɟɔ́rɔ́ kpɪ̃́kpã́nã",
+                    "gloss": "C2 bottom part=DEF 1SG PST say=IPFV now 1PL.FUT start.FR with EXPL hip hip hip.PL when/if EXPL-COP many hip.PL",
+                    "translation": "We start with \"kpɪ̃́kpã(n)"\(hip), or \"kpɪ̃́kpã́nã"\ (hips) when it's plural",
+                    "french": "Nous commençons par \"kpɪ̃́kpã(n)"\(hanche), ou \"kpɪ̃́kpã́nã"\ (hanches) lorsqu'il est au pluriel",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "283",
+            "key": [
+                "1",
+                283,
+                "283"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ʊ́rɛ́ kɛ́ lobĩ-n só nɔ́ɔ́ j'ɛ́rɛ́ fɔɔ lobĩ-n wé nɔ́ɔ́ nɔ́ɔ́ jɛɲɔ=rá a d-ɪ ɟɔ́rɔ́ lobi-n só nɛ́ɛ́ nɛ́ɛ́",
+                    "morphemes": "ʊ́rɛ́ kɛ́ lobĩ-n só nɔ́ɔ́ j'ɛ́rɛ́ fɔɔ lobĩ-n wé nɔ́ɔ́ nɔ́ɔ́ jɛɲɔ=rá a d-ɪ ɟɔ́rɔ́ lobi-n só nɛ́ɛ́ nɛ́ɛ́",
+                    "gloss": "DEM.PROX DEM.PROX Lobi-REL say leg DEM.PROX.PL all Lobi-REL call leg leg two=DEF if/when EXPL-COP many Lobi-REL say leg.PL leg.PL",
+                    "translation": "Here is what Lobi call \"nɔ́ɔ́"\ (leg), or \"nɛ́ɛ́"\ (legs) when it's plural",
+                    "french": "Voici ce que les Lobi appellent \"nɔ́ɔ́"\ (jambe), ou \"nɛ́ɛ́"\ (jambes) quand c'est au pluriel",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "284",
+            "key": [
+                "1",
+                284,
+                "284"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ kɪ-kɪ́ɛ́r ꜜkɛ́ lobĩ-n só nɔ́khíl nɔ́khíl j'ɛkhã́ só nɛ́khílé a d-ɪ ɟɔ́rɔ́ nɛ́khílé nɛ́khílé ɔɔ nɛ́khíl nɛ́khíl kɪ́ɛ́r ꜜkɛ́",
+                    "morphemes": "sɪ kɪ-kɪ́ɛ́r ꜜkɛ́ lobĩ-n só nɔ́khíl nɔ́khíl j'ɛkhã́ só nɛ́khílé a d-ɪ ɟɔ́rɔ́ nɛ́khílé nɛ́khílé ɔɔ nɛ́khíl nɛ́khíl kɪ́ɛ́r ꜜkɛ́",
+                    "gloss": "C1 RED-DEM.PROX DEM.PROX Lobi-REL say knee knee some say knee.PL if/when EXPL-COP many knee.PL knee.PL or knee.PL knee.PL DEM.PROX DEM.PROX",
+                    "translation": "Here is what Lobi call \"nɔkhil"\ (knee), or \"nɛkhile"\ or \"nɛkhil"\ (knees) when it's plural",
+                    "french": "Voici ce que les Lobi appellent \"nɔkhil\" (genou), ou \"nɛkhile\" ou \"nɛkhil\" (genoux) quand c'est au pluriel",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "285",
+            "key": [
+                "1",
+                285,
+                "285"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɛ́khí́l ɔɔ nɛ́khílé a d-ɪ ɟɔ́rɔ́ dɪ wʊ̃́ só nɛ́khílá nɛ́khílá nɛ́khílá jɛɲɔ",
+                    "morphemes": "nɛ́khí́l ɔɔ nɛ́khílé a d-ɪ ɟɔ́rɔ́ dɪ wʊ̃́ só nɛ́khílá nɛ́khílá nɛ́khílá jɛɲɔ",
+                    "gloss": "knee.PL or knee.PL if/when EXPL-COP many C2 3PL.IPFV say knee.PL knee.PL knee.PL two",
+                    "translation": "You can also say \"nɛkhíla"\ for plural (knees)",
+                    "french": "Vous pouvez également dire \"nɛkhíla"\ pour le pluriel (genoux)",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "286",
+            "key": [
+                "1",
+                286,
+                "286"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ kɪ-kɪ́ɛ́r ꜜkɛ́ lobĩ-n wé nɔ́pɪɛl nɔ́pɪɛl",
+                    "morphemes": "sɪ kɪ-kɪ́ɛ́r ꜜkɛ́ lobĩ-n wé nɔ́pɪɛl nɔ́pɪɛl",
+                    "gloss": "C1 RED-DEM.PROX DEM.PROX Lobi-REL call sole sole",
+                    "translation": "Here is called \"nɔpɪɛl"\ (sole of the foot)",
+                    "french": "Ici, on l'appelle \"nɔpɪɛl"\ (plante du pied)",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "287",
+            "key": [
+                "1",
+                287,
+                "287"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ hánã́-ꜜnɛ̃́ ɲɔ̃́pɪɛl a hánã́ nɔ́pɪɛl",
+                    "morphemes": "sɪ hánã́-ꜜnɛ̃́ ɲɔ̃́pɪɛl a hánã́ nɔ́pɪɛl",
+                    "gloss": "1PL have-RE palm and have sole",
+                    "translation": "We have ɲɔ̃pɪɛl (palm) and nɔpɪɛl (sole)",
+                    "french": "Nous avons ɲɔ̃pɪɛl (paume) et nɔpɪɛl (sole)",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "288",
+            "key": [
+                "1",
+                288,
+                "288"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ mɪ tó-r náfáà sɪ́ j'ɛ́r lobĩ=n wé dɪ hó-r lobi=n wé nɔ́bri nɔ́bri ɔɔ j'ɛkhã́ só nɛ́bri a d-ɪ ɟɔ́rɔ́ nɛ́b(ɪ)nã nɛ́b(ɪ́)nã",
+                    "morphemes": "dɪ mɪ tó-r náfáà sɪ́ j'ɛ́r lobĩ=n wé dɪ hó-r lobi=n wé nɔ́bri nɔ́bri ɔɔ j'ɛkhã́ só nɛ́bri a d-ɪ ɟɔ́rɔ́ nɛ́b(ɪ)nã nɛ́b(ɪ́)nã",
+                    "gloss": "C2 1SG wear-RE shoe C1 DEM.PROX Lobi=IPFV call EXPL look.like-RE Lobi=IPFV call toe toe or some say toe if/when EXPL-COP many toe.PL toe.PL",
+                    "translation": "Here (in the front of my shoe) is what is called \"nɔbri"\ or \"nɛbri"\ (toe), or \"nɛb(ɪ)nã"\ if it's plural",
+                    "french": "Ici (à l'avant de ma chaussure) se trouve ce qu'on appelle \"nɔbri\"\ ou \"nɛbri\"\ (orteil), ou \"nɛb(ɪ)nã\"\ si c'est au pluriel",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "289",
+            "key": [
+                "1",
+                289,
+                "289"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "vwala dɪ p(ɪ́)-rɛ́ j'ɛ́r sɪ dɪ́ɪ́-r ꜜnɪ̃́ɪ̃́ n-rɛ́ hɪ́nã́ fʊɔr n-rɛ́ hɪ́nã́ fʊɔr θæ̃ŋk ju",
+                    "morphemes": "vwala dɪ p(ɪ́)-rɛ́ j'ɛ́r sɪ dɪ́ɪ́-r ꜜnɪ̃́ɪ̃́ n-rɛ́ hɪ́nã́ fʊɔr n-rɛ́ hɪ́nã́ fʊɔr θæ̃ŋk ju",
+                    "gloss": "here.it.is.FR EXPL finish-RE DEM.PROX 1PL learn-RE today 2PL-RE have greeting/salutation 2PL-RE have greeting/salutation thank.EN you.EN",
+                    "translation": "We are done. Here is what we learned today. Thank you.",
+                    "french": "Nous avons terminé. Voici ce que nous avons appris aujourd'hui. Merci.",
                     "tags": "",
                     "syntacticCategory": "n n n Conj Adj.fr",
                     "syntacticTreeLatex": "",
