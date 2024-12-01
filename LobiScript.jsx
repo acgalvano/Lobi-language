@@ -413,19 +413,14 @@ var Orthography = React.createClass(
 
         </table>
 
-      <h5><sup>4</sup>/ɓ/ is an implosive stop to try making a swallowing motion/moving your “Adam’s apple” down while making the plain /l, j, w/ sounds
-      </h5>
-      <h5><sup>5</sup>Sometimes /k/ is pronounced like this, but it is not considered a phoneme in French
-      </h5>
-      <h5><sup>6</sup>Similar to but not the same as English /tʃ/ (e.g., choose); /c/ is a stop, while /tʃ/ is an affricate
-      </h5>
-      <h5><sup>7</sup>Lobi does not have grammatical gender so French translations can go either way
-      </h5>
-      <h5><sup>8</sup>/kp/ and /gb/ sound similar to /ɓ/ but the air does not actually go inward like an implosive; to make these, you need to literally make and release a velar and bilabial closure at the same time
-      </h5>
-      <h5><sup>9</sup>You’ll hear /r/ as a voiced trill or voiceless trill word-finally, or tapped word-medially; Sansan also varies</h5>
-      <h5><sup>10</sup>The glottalized sonorants /l’, j’, w’/ are produced similarly to implosive /ɓ/</h5>
-      <h5><sup>11</sup>Made from calabash and shaped like a ladle; kúr(ú)jer(i) (typical spoon, borrowing)</h5>
+      <h5><sup>4</sup>/ɓ/ is an implosive stop to try making a swallowing motion/moving your “Adam’s apple” down while making the plain /l, j, w/ sounds.</h5>
+      <h5><sup>5</sup>Sometimes /k/ is pronounced like this, but it is not considered a phoneme in French.</h5>
+      <h5><sup>6</sup>Similar to but not the same as English /tʃ/ (e.g., choose); /c/ is a stop, while /tʃ/ is an affricate.</h5>
+      <h5><sup>7</sup>Lobi does not have grammatical gender so French translations can go either way.</h5>
+      <h5><sup>8</sup>/kp/ and /gb/ sound similar to /ɓ/ but the air does not actually go inward like an implosive; to make these, you need to literally make and release a velar and bilabial closure at the same time.</h5>
+      <h5><sup>9</sup>You’ll hear /r/ as a voiced trill or voiceless trill word-finally, or tapped word-medially; Sansan also varies.</h5>
+      <h5><sup>10</sup>The glottalized sonorants /l’, j’, w’/ are produced similarly to implosive /ɓ/.</h5>
+      <h5><sup>11</sup>Made from calabash and shaped like a ladle; kúr(ú)jer(i) (typical spoon, borrowing).</h5>
 
       
       </div>
@@ -699,19 +694,14 @@ var OrthographyFR = React.createClass(
 
       </table>
 
-      <h5><sup>4</sup> /ɓ/ est un arrêt implosif pour essayer de faire un mouvement de déglutition/déplacer votre "pomme d'Adam" tout en faisant les sons simples /l, j, p/
-      </h5>
-      <h5><sup>5</sup> Parfois /k/ se prononce comme ça, mais ce n'est pas considéré comme un phonème en français
-      </h5>
-      <h5><sup>6</sup> Similaire mais non identique à l'anglais /tʃ/ (par exemple, choisir); /c/ est un arrêt, tandis que /tʃ/ est un afflicat
-      </h5>
-      <h5><sup>7</sup> Lobi n'a pas de genre grammatical, donc les traductions françaises peuvent aller dans les deux sens.
-      </h5>
-      <h5><sup>8</sup> /kp/ et /gb/ son semblable à /ɓ/ mais l'air ne va pas vraiment vers l'intérieur comme un implosif; pour les fabriquer, il faut littéralement faire et libérer une fermeture vélar et bilabial en même temps
-      </h5>
-      <h5><sup>9</sup>Vous entendrez /r/ comme un trille exprimé ou un trille sans voix mot-finalement, ou tapoté mot-médialement; Sansan varie aussi</h5>
-      <h5><sup>10</sup>Les sonorants glottalisés /l', j', w'/ sont produits de la même façon que les sonorants implosifs /ɓ/</h5>
-      <h5><sup>11</sup>Fabriqué à partir de calabaisse et en forme de louche; kúr(ú)jer(i) (cuillère typique, emprunt)</h5>
+      <h5><sup>4</sup> /ɓ/ est un arrêt implosif pour essayer de faire un mouvement de déglutition/déplacer votre "pomme d'Adam" tout en faisant les sons simples /l, j, p/.</h5>
+      <h5><sup>5</sup> Parfois /k/ se prononce comme ça, mais ce n'est pas considéré comme un phonème en français.</h5>
+      <h5><sup>6</sup> Similaire mais non identique à l'anglais /tʃ/ (par exemple, choisir); /c/ est un arrêt, tandis que /tʃ/ est un afflicat.</h5>
+      <h5><sup>7</sup> Lobi n'a pas de genre grammatical, donc les traductions françaises peuvent aller dans les deux sens.</h5>
+      <h5><sup>8</sup> /kp/ et /gb/ son semblable à /ɓ/ mais l'air ne va pas vraiment vers l'intérieur comme un implosif; pour les fabriquer, il faut littéralement faire et libérer une fermeture vélar et bilabial en même temps.</h5>
+      <h5><sup>9</sup>Vous entendrez /r/ comme un trille exprimé ou un trille sans voix mot-finalement, ou tapoté mot-médialement; Sansan varie aussi.</h5>
+      <h5><sup>10</sup>Les sonorants glottalisés /l', j', w'/ sont produits de la même façon que les sonorants implosifs /ɓ/.</h5>
+      <h5><sup>11</sup>Fabriqué à partir de calabaisse et en forme de louche; kúr(ú)jer(i) (cuillère typique, emprunt).</h5>
     
     </div>
   }
