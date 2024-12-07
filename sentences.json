@@ -7454,6 +7454,448 @@
                     "modifiedByUser": ""
                 }
             }
+        }
+        ,
+        {
+            "id": "290",
+            "key": [
+                "1",
+                290,
+                "290"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ ɡba fʊɔr wo",
+                    "morphemes": "nɪ ɡba fʊɔr wo",
+                    "gloss": "2PL take greeting again",
+                    "translation": "Hello/good morning/good afternoon/good evening again",
+                    "french": "Bonjour/bonjour/bonsoir à nouveau",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "291",
+            "key": [
+                "1",
+                291,
+                "291"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ nĩĩ kɛ j'ɛr sa dɪɪr-nɪ mɔ̃ lobi thɪ̃khoda para mɔ̃ dɪ̃ɪ̃ ha",
+                    "morphemes": "dɪ nĩĩ kɛ j'ɛr sa dɪɪr-nɪ mɔ̃ lobi thɪ̃khoda para mɔ̃ dɪ̃ɪ̃ ha",
+                    "gloss": "C2 today DEM what 1PL.FUT learn-RE how Lobi food place how 3SG.IPFV COP",
+                    "translation": "Today what we are going to learn are Lobi  mealtime norms",
+                    "french": "Aujourd'hui, nous allons apprendre les normes alimentaires des Lobi.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "292",
+            "key": [
+                "1",
+                292,
+                "292"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "nɪ ɟɪ-rɛ a nɪ ɡal lobi lobi a wʊ thɪɪ thɪɛ̃ a wʊ cʊʊ thɪ̃khodaa tɪbla ã kho thɪ̃khodáà=rá bɪɛl bɪɛl a",
+                    "morphemes": "nɪ ɟɪ-rɛ a nɪ ɡal lobi lobi a wʊ thɪɪ thɪɛ̃ a wʊ cʊʊ thɪ̃khodaa tɪbla ã kho thɪ̃khodáà=rá bɪɛl bɪɛl a",
+                    "gloss": "2PL know-RE if/when 2PL go Lobi Lobi if/when 3PL cook thing.PL if/when 3PL make food person.PL NEG.IPFV eat food=DEF one one NEG",
+                    "translation": "You know, in Lobi culture, people don't eat alone",
+                    "french": "Vous savez, dans la culture Lobi, les gens ne mangent pas seuls.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "293",
+            "key": [
+                "1",
+                293,
+                "293"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a khɛr-a thɪɪ thɪ̃khodaa dɪ a thɪ̃̀ɪ̃́n dɪ wʊ̃ thɪ̃̀ɪ̃́n thɪ̃khodáà=rá dɪ sɪ̃̀ɪ̃́ kho=kha thɪɛ̃=nã fɔɪ",
+                    "morphemes": "a khɛr-a thɪɪ thɪ̃khodaa dɪ a thɪ̃̀ɪ̃́n dɪ wʊ̃ thɪ̃̀ɪ̃́n thɪ̃khodáà=rá dɪ sɪ̃̀ɪ̃́ kho=kha thɪɛ̃=nã fɔɪ",
+                    "gloss": "when woman-PL cook food C2 to set.IPFV C2 3PL.IPFV set.IPFV food=DEF and 1PL.IPFV eat=together thing.PL=DEF all",
+                    "translation": "After the women have cooked, they set up the food, and we eat together",
+                    "french": "Après que les femmes ont cuisiné, elles préparent la nourriture et nous mangeons ensemble.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "294",
+            "key": [
+                "1",
+                294,
+                "294"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "kɔnã kho=kha dɪ khɛra-n kho=kha",
+                    "morphemes": "kɔnã kho=kha dɪ khɛra-n kho=kha",
+                    "gloss": "man.PL eat=together and/C2 woman.PL-IPFV eat=together",
+                    "translation": "Men eat together and women eat together",
+                    "french": "Les hommes mangent ensemble et les femmes mangent ensemble",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "295",
+            "key": [
+                "1",
+                295,
+                "295"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ punõ-nẽ sɪ ɟɔrɔ sɪ dɪ wʊ̃ khɛra=ra ɪnã thɪ̃khodaa=ra a thɪ̃ɪ̃",
+                    "morphemes": "sɪ punõ-nẽ sɪ ɟɔrɔ sɪ dɪ wʊ̃ khɛra=ra ɪnã thɪ̃khodaa=ra a thɪ̃ɪ̃",
+                    "gloss": "1PL can-RE 1PL be.many C1 C2 3PL.IPFV woman.PL=DEF come food=DEF to set",
+                    "translation": "We can be many people to eat the food at the same time",
+                    "french": "Nous pouvons être plusieurs à manger la même nourriture en même temps",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "296",
+            "key": [
+                "1",
+                296,
+                "296"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ punõ-nẽ dɪ do thɪ̃khoda jɛɲɔ thɪ̃khoda jenther ɟʊr ha kɪkɛ bíí ha kɪkɛ dɪ sĩĩ too kha sĩĩ too kha na sɪ thɪ na sɪ ɟẽ na sɪ ɔ̃khɔnã dɪ sĩĩ dɪ kha",
+                    "morphemes": "dɪ punõ-nẽ dɪ do thɪ̃khoda jɛɲɔ thɪ̃khoda jenther ɟʊr ha kɪkɛ bíí ha kɪkɛ dɪ sĩĩ too kha sĩĩ too kha na sɪ thɪ na sɪ ɟẽ na sɪ ɔ̃khɔnã dɪ sĩĩ dɪ kha",
+                    "gloss": "C2 can-RE C2 COP food two food three fufu COP DEM.PROX soup COP DEM.PROX C2 1PL.IPFV sit together 1PL.IPFV sit together with 1PL father with 1PL maternal.uncle with 1PL brother.PL C2 1PL.IPFV eat RECIP",
+                    "translation": "There can be two or three different foods -- fufu is here, soup is there -- that we eat together with our father, our uncle, and/or our brothers",
+                    "french": "Il peut y avoir deux ou trois aliments différents – le fufu est ici, la soupe est là – que nous mangeons avec notre père, notre oncle et/ou nos frères.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "297",
+            "key": [
+                "1",
+                297,
+                "297"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ sĩĩ hul ɲɛ̃ɛ̃ sɪ a nɪ ɡal lobi-ra ɲɛ̃ɛ̃ sĩĩ khɔ-nã tjɛ̃ ɲɛ̃ɛ̃ sĩĩ khɔ-nã tjɛ̃",
+                    "morphemes": "dɪ sĩĩ hul ɲɛ̃ɛ̃ sɪ a nɪ ɡal lobi-ra ɲɛ̃ɛ̃ sĩĩ khɔ-nã tjɛ̃ ɲɛ̃ɛ̃ sĩĩ khɔ-nã tjɛ̃",
+                    "gloss": "C2 1PL.IPFV wash.body hand.PL C1 if/when 2PL go Lobi-place hand.PL 1PL.IPFV eat-with thing.PL hand.PL 1PL.IPFV eat-with thing.PL",
+                    "translation": "We wash our hands and eat with our hands",
+                    "french": "Nous nous lavons les mains et mangeons avec nos mains",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "298",
+            "key": [
+                "1",
+                298,
+                "298"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ punõ-nẽ sɪ dii tjɛ̃=nã thɪ̃khodaa=ra dɪ fĩĩ l'ɔɔ a kur ɟʊr a pɛ bíí=ra a pɔnã a cɛna bíí a to nʊɔ a kho",
+                    "morphemes": "sɪ punõ-nẽ sɪ dii tjɛ̃=nã thɪ̃khodaa=ra dɪ fĩĩ l'ɔɔ a kur ɟʊr a pɛ bíí=ra a pɔnã a cɛna bíí a to nʊɔ a kho",
+                    "gloss": "1PL can-RE 1PL surround thing.PL=DEF food=DEF C2 2SG.IPFV dip to cut fufu to put.on soup=DEF to bring to scoop soup to put.in mouth to eat",
+                    "translation": "We surround the food and cut the fufu with our hands, dip it in the soup to scoop it up, and put it into the mouth to eat",
+                    "french": "Nous entourons la nourriture et coupons le foufou avec nos mains, le trempons dans la soupe pour le ramasser et le mettons dans la bouche pour le manger.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "299",
+            "key": [
+                "1",
+                299,
+                "299"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ khɛr-a dɪkhã khɛr-a dɪ wʊ̃ kho=kha tjɛ̃ nrɛ na ɔ̃khɛr-a sʊnɔ̃ na bi=khɛ̃n-ã sʊnɔ̃ mɪ̃ wʊ̃ kho=kha tjɛ̃",
+                    "morphemes": "dɪ khɛr-a dɪkhã khɛr-a dɪ wʊ̃ kho=kha tjɛ̃ nrɛ na ɔ̃khɛr-a sʊnɔ̃ na bi=khɛ̃n-ã sʊnɔ̃ mɪ̃ wʊ̃ kho=kha tjɛ̃",
+                    "gloss": "C2 woman-PL also woman-PL C2 3PL.IPFV eat=together thing.PL mother with sister-PL PL with small=woman-PL PL the.way 3PL.IPFV eat=together thing.PL",
+                    "translation": "Women (mothers, sisters, daughters) also eat together",
+                    "french": "Les femmes (mères, sœurs, filles) mangent aussi ensemble",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "300",
+            "key": [
+                "1",
+                300,
+                "300"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "dɪ-a do mɔ̃ dɪ-a ho mɔ̃ dablo-n sʊnɔ̃ kho-n tjɛ̃ dɪ a wʊ thɪɪ thɪ̃khodaa=ra dɪ ntɛ-n ɡal na ɔɔ tasa na ɔɔ kurjere a ɡba thɪ̃khodaa=ra a too ʊrɔ=bɪɛl na kho a lobi=ra dɪ-ã-n ha tha=le a",
+                    "morphemes": "dɪ-a do mɔ̃ dɪ-a ho mɔ̃ dablo-n sʊnɔ̃ kho-n tjɛ̃ dɪ a wʊ thɪɪ thɪ̃khodaa=ra dɪ ntɛ-n ɡal na ɔɔ tasa na ɔɔ kurjere a ɡba thɪ̃khodaa=ra a too ʊrɔ=bɪɛl na kho a lobi=ra dɪ-ã-n ha tha=le a",
+                    "gloss": "3SG-NEG COP how 3SG-NEG look.like how white.person-IPFV PL eat-IPFV thing.PL C2 if/when 3PL cook food=DEF C2 person-IPFV go with 3SG.POSS plate with 3SG.POSS spoon to take food=DEF and sit 3SG=one and eat NEG Lobi=DEF 3SG-NEG-IPFV COP way=DEM NEG",
+                    "translation": "It's not like how white people serve themselves and eat by themselves",
+                    "french": "Ce n'est pas comme les Blancs qui se servent et mangent seuls.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "301",
+            "key": [
+                "1",
+                301,
+                "301"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a fɪ jɪ́ lobi dɪ wʊ ha a thɪ̃khodaa dɪbara j'ɛkha kpakpal jɪ",
+                    "morphemes": "a fɪ jɪ́ lobi dɪ wʊ ha a thɪ̃khodaa dɪbara j'ɛkha kpakpal jɪ",
+                    "gloss": "if/when 2SG see Lobi C2 3PL.IMPERS give 3SG food alone/by.onself maybe stranger COP",
+                    "translation": "If you see someone eating by himself, maybe he/she is a stranger or guest",
+                    "french": "Si vous voyez quelqu'un manger seul, il s'agit peut-être d'un étranger ou d'un invité",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "302",
+            "key": [
+                "1",
+                302,
+                "302"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a kpakpal ɪ̃́ dɪ khɛra thɪɪ thɪ̃khodaa dɪ wʊ̃ ha a thɪ̃khodáà=ra ʊrɔ bɪɛl dɪ-n kho sɪ a do mɪ̃ ja mɪ̃=nã sĩ kho kha thɪɛ=nã fɔ tasa bɪɛl=la-ra fɔ sĩ kho",
+                    "morphemes": "a kpakpal ɪ̃́ dɪ khɛra thɪɪ thɪ̃khodaa dɪ wʊ̃ ha a thɪ̃khodáà=ra ʊrɔ bɪɛl dɪ-n kho sɪ a do mɪ̃ ja mɪ̃=nã sĩ kho kha thɪɛ=nã fɔ tasa bɪɛl=la-ra fɔ sĩ kho",
+                    "gloss": "if/when stranger come and woman.PL cook food C2 3PL.IPFV give 3SG food=DEF 3SG one C2-3SG eat but if COP way COP.NEG way=DEF 1PL.IPFV eat together things=DEF all plate one=DEF-LOC all 1PL.IPFV eat",
+                    "translation": "When a stranger comes and women cook, they serve him/her the food to eat by themself; otherwise, we usually all eat together in the same plate",
+                    "french": "Quand un étranger arrive et que les femmes cuisinent, elles lui servent la nourriture pour qu'il la mange seul ; sinon, nous mangeons généralement tous ensemble dans la même assiette.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "303",
+            "key": [
+                "1",
+                303,
+                "303"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ nɪ̃nɪ̃ na jɪ-rɛ lobɛ j'ɛkha ha-le dɪ wʊ̃ kho nɪ̃nɪ̃ nakɛ nɪ̃nɪ̃ dɪɪ kɛ ɡbãŋɡar wo na jɪ-rɛ tɪbla dɪ wʊ̃ kho thɪ̃ɛ̃ mɔ̃ dablo-n kho-n thɪ̃ɛ̃ dɪ wʊ̃ a hanã j'ɛr bɪɛl j'a tasa bɪɛl na curijere na fuʃɛtɪ",
+                    "morphemes": "sɪ nɪ̃nɪ̃ na jɪ-rɛ lobɛ j'ɛkha ha-le dɪ wʊ̃ kho nɪ̃nɪ̃ nakɛ nɪ̃nɪ̃ dɪɪ kɛ ɡbãŋɡar wo na jɪ-rɛ tɪbla dɪ wʊ̃ kho thɪ̃ɛ̃ mɔ̃ dablo-n kho-n thɪ̃ɛ̃ dɪ wʊ̃ a hanã j'ɛr bɪɛl j'a tasa bɪɛl na curijere na fuʃɛtɪ",
+                    "gloss": "C1 now 2PL.FUT see-RE Lobi.PL some COP-DEM C2 3PL.IPFV eat now even now society DEM change EMOTIVE 2PL.FUT see-RE person.PL C2 3PL.IPFV eat thing.PL how white.person-NI eat-NI thing.PL C2 3PL.IPFV to have 3PL.POSS one 3PL.POSS plate one and/with spoon and/with fork",
+                    "translation": "Now things in society have changed, so you can see a Lobi person eat themself like the white people do",
+                    "french": "Maintenant, les choses dans la société ont changé, vous pouvez donc voir une personne Lobi se manger comme le font les Blancs.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "304",
+            "key": [
+                "1",
+                304,
+                "304"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ a do mɪ̃ ja lobi lobi lobi kɛ nakɛ ka lobi dʊwɔ nakɛ ka lobi cɔ lobi dʊwɔ nakɛ sã kho thɪ̃ɛ̃ bɪɛl bɪɛl a mɪ̃ sĩ kho kha fɔ vwala sĩ kho kha fɔ thɪ̃khodaa=ra",
+                    "morphemes": "sɪ a do mɪ̃ ja lobi lobi lobi kɛ nakɛ ka lobi dʊwɔ nakɛ ka lobi cɔ lobi dʊwɔ nakɛ sã kho thɪ̃ɛ̃ bɪɛl bɪɛl a mɪ̃ sĩ kho kha fɔ vwala sĩ kho kha fɔ thɪ̃khodaa=ra",
+                    "gloss": "C1 if COP way COP.NEG Lobi Lobi Lobi DEM.PROX even where Lobi village even where Lobi house Lobi village even 1PL.IPFV.NEG eat thing.PL one one NEG way 1PL.IPFV eat together all voila.FR 1PL.IPFV eat together all food=DEF",
+                    "translation": "Otherwise, in Lobi society, people eat together",
+                    "french": "Sinon, dans la société Lobi, les gens mangent ensemble",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "305",
+            "key": [
+                "1",
+                305,
+                "305"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛ-r mɪ na n mɪɛ nɪ̃ nĩĩ khɛra thɪ̃khoda ha khɛrã kho thɪ̃khoda j'áà pa dɪ kɔnã kho thɪ̃khoda j'áà pa",
+                    "morphemes": "j'ɛ-r mɪ na n mɪɛ nɪ̃ nĩĩ khɛra thɪ̃khoda ha khɛrã kho thɪ̃khoda j'áà pa dɪ kɔnã kho thɪ̃khoda j'áà pa",
+                    "gloss": "DEM-RE 1SG want 1SG tell 2PL today women.PL food COP women.PL.IPFV cook food 3PL.POSS place and man.PL eat food 3PL.POSS place",
+                    "translation": "Women eat by themselves and men eat by themselves; that's what I wanted to tell you today",
+                    "french": "Les femmes mangent seules et les hommes mangent seuls ; c'est ce que je voulais vous dire aujourd'hui",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "306",
+            "key": [
+                "1",
+                306,
+                "306"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "sɪ j'ɛkha a na kho thɪ̃ɛ̃=nã a bíí pɪ dɪ nɪ̃ ɡba nɪ̃ we khɛr=ra ɔɔ ntɛ=kɛ do-n bɪsãn buu l'õl'õn bɪsãn buu dɪ nɪ̃ so a gala wʊ pɛrɔ bíí dɪ ɪ̃ ɡal dɪ wʊ pɛrɔ bíí dɪ a a ɪ̃-nã bíí=ra dɪ sĩ dɪ-nã ɟʊr=ra a pɪ-nã ɟʊr=ra",
+                    "morphemes": "sɪ j'ɛkha a na kho thɪ̃ɛ̃=nã a bíí pɪ dɪ nɪ̃ ɡba nɪ̃ we khɛr=ra ɔɔ ntɛ=kɛ do-n bɪsãn buu l'õl'õn bɪsãn buu dɪ nɪ̃ so a gala wʊ pɛrɔ bíí dɪ ɪ̃ ɡal dɪ wʊ pɛrɔ bíí dɪ a a ɪ̃-nã bíí=ra dɪ sĩ dɪ-nã ɟʊr=ra a pɪ-nã ɟʊr=ra",
+                    "gloss": "C1 sometimes if/when 2PL.IMPERS eat thing.PL=DEF if/when soup finish C2 2PL.IMPERS take 2PL.IMPERS call woman=DEF or person=DEM COP-NI child small younger child small C2 2PL.IMPERS say 3SG go.EX 3PL.IMPERS put soup C2 3SG.IPFV go and 3PL.IMPERS put soup C2 when he come-LOC soup=DEF C2 1PL.IPFV eat-LOC fufu=DEF to finish-LOC fufu=DEF",
+                    "translation": "Sometimes, when the soup runs out, we call a woman, or tell the youngest to go get the soup and bring it so we can finish eating the fufu",
+                    "french": "Parfois, quand la soupe est finie, on appelle une femme, ou on dit au plus jeune d'aller chercher la soupe et de l'apporter pour qu'on puisse finir de manger le foufou.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
         }  
     ]
 }
