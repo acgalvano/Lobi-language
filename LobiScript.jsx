@@ -944,7 +944,7 @@ var StoryViewFR = React.createClass({
   getStoryAuthor: function() {
     return _.get(this.getStory(), 'author', "");
   },
-  getStoryURL: function() {
+  getStoryURLFR: function() {
     return _.get(this.getStory(), 'link', "");
   },
   //toggles interlinear gloss or not
@@ -1064,7 +1064,7 @@ var StoryViewFR = React.createClass({
             </div>
 
             <iframe width="560" height="315" 
-            src={this.getStoryURL()}
+            src={this.getStoryURLFR()}
             title="YouTube video player" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
