@@ -945,7 +945,7 @@ var StoryViewFR = React.createClass({
     return _.get(this.getStory(), 'author', "");
   },
   getStoryURLFR: function() {
-    return _.get(this.getStory(), 'link', "");
+    return _.get(this.getStory(), 'linkFR', "");
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
