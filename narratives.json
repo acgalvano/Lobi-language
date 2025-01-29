@@ -12,6 +12,17 @@
         "link": "https://www.youtube.com/embed/IvgySgDOVm4?si=BpywaOpgvIysgmNo",
         "linkFR": "https://www.youtube.com/embed/Ui4xcvtKscg?si=XajX6wJge6mxJnJ5"
       }
+    },
+    {
+      "id": "4",
+      "key": "4",
+      "value": {
+        "name": "Lobi Food Culture",
+        "name_fr": "[FR] Culture alimentaire Lobi",
+        "author": "Sansan Claude Hien",
+        "link": "https://www.youtube.com/embed/dYDF1bskCEA?si=RUayKM3ynY8TXDmO",
+        "linkFR": "https://www.youtube.com/embed/9f7oKA4LGY4?si=OkowXwLGg8JMvcYT"
+      }
     }
   ]
 }
