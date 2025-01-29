@@ -7221,6 +7221,106 @@
                     "modifiedByUser": ""
                 }
             }
+        },
+        {
+            "id": "307",
+            "key": [
+                "4",
+                307,
+                "307"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "a sɪ dɪ pɪ́ a sɪ kho thɪ̃khodaa=rá pɪ j'ɛkha khɛra-n ɪ̃nã dɪ wʊ̃ khɪɪ tasa sʊnɔ̃ a gaala",
+                    "morphemes": "a sɪ dɪ pɪ́ a sɪ kho thɪ̃khodaa=rá pɪ j'ɛkha khɛra-n ɪ̃nã dɪ wʊ̃ khɪɪ tasa sʊnɔ̃ a gaala",
+                    "gloss": "if/when 1PL eat.fufu finish if/when 1PL eat food=DEF finish sometimes woman.PL-IPFV come to 3PL.IPFV pick.up plate PL to go",
+                    "translation": "After we finish eating, sometimes women come to pick up the plates to go",
+                    "french": "Après avoir fini de manger, il arrive parfois que des femmes viennent chercher les assiettes pour les emporter.",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "308",
+            "key": [
+                "4",
+                308,
+                "308"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "j'ɛkha kũ-bri kɛ do-n bɪsã buu ʊrɔ-n khɪa tasa sʊnɔ̃=nã dɪkhã a gaala",
+                    "morphemes": "j'ɛkha kũ-bri kɛ do-n bɪsã buu ʊrɔ-n khɪa tasa sʊnɔ̃=nã dɪkhã a gaala",
+                    "gloss": "sometimes man-small DEM COP-IPFV child small 3sg-ipfv pick.up plate PL=DEF also to go",
+                    "translation": "Sometimes it is the youngest boy who picks up the plates to go",
+                    "french": "Parfois, c'est le plus jeune garçon qui prend les assiettes pour aller",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "309",
+            "key": [
+                "4",
+                309,
+                "309"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "tha=le dɪ̃ ha lobi-ra",
+                    "morphemes": "tha=le dɪ̃ ha lobi-ra",
+                    "gloss": "how=DEM 3SG.IPFV cop Lobi-LOC",
+                    "translation": "That's how it is in Lobi culture",
+                    "french": "C'est comme ça dans la culture Lobi",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        },
+        {
+            "id": "310",
+            "key": [
+                "4",
+                310,
+                "310"
+            ],
+            "value": {
+                "story": "2",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "n-rɛ hɪnã fʊɔr",
+                    "morphemes": "n-rɛ hɪnã fʊɔr",
+                    "gloss": "2PL-RE have greeting",
+                    "translation": "Thank you all",
+                    "french": "Merci à tous",
+                    "tags": "",
+                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
         }  
     ]
 }
