@@ -1,5 +1,5 @@
 {
-    "total_rows": 318,
+    "total_rows": 306,
     "offset": 0,
     "rows": [
         {
@@ -455,309 +455,9 @@
         {
             "id": "46",
             "key": [
-                "3",
+                "1",
                 46,
                 "46"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "nɪ ɡba fʊɔ-rɪ",
-                    "morphemes": "nɪ ɡba fʊɔ-rɪ",
-                    "gloss": "2pl take greet-ni",
-                    "translation": "Hello; good morning/afternoon",
-                    "french": "Bonjour",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },     
-        {
-            "id": "47",
-            "key": [
-                "3",
-                47,
-                "47"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "nĩĩ kɛ wo lɔbɛ tʰɪ̃kʰoda sa dɪɪr",
-                    "morphemes": "nĩĩ kɛ wo lɔbɛ tʰɪ̃kʰoda sa dɪɪr",
-                    "gloss": "today dem again Lobi.pl food 1pl.fut learn",
-                    "translation": "Today we will talk about Lobi food again",
-                    "french": "Aujourd'hui, nous reparlerons de la nourriture Lobi.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-             "id": "48",
-            "key": [
-                "3",
-                48,
-                "48"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "tʰɪ̃kʰóda caar kɛ lɔbɛ-n kʰo-n j'ɛr sa dɪɪr",
-                    "morphemes": "tʰɪ̃kʰóda caar kɛ lɔbɛ-n kʰo-n j'ɛr sa dɪɪr",
-                    "gloss": "food type.of rel Lobi.pl-ipfv eat-ipfv what 1pl.fut learn",
-                    "translation": "We will learn what kind of foods Lobi eat",
-                    "french": "Nous allons apprendre quel genre de nourriture les Lobi mangent.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "49",
-            "key": [
-                "3",
-                49,
-                "49"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "dɪ lɔbɛ ɟʊ caa(r) kɛ lɔbɛ-n dɪ-n na bíí kɛ lɔbɛ-n dɪ-n j'ɛrɛ sa dɪɪr nĩĩ",
-                    "morphemes": "dɪ lɔbɛ ɟʊ caa(r) kɛ lɔbɛ-n dɪ-n na bíí kɛ lɔbɛ-n dɪ-n j'ɛrɛ sa dɪɪr nĩĩ",
-                    "gloss": "c2 Lobi.pl fufu type.of rel Lobi.pl-ipfv eat-ipfv and soup rel Lobi.pl-ipfv eat-ipfv what 1pl.fut learn today",
-                    "translation": "So today we will learn the type of fufu and soup that Lobi eat",
-                    "french": "Aujourd'hui, nous allons apprendre le type de fufu et de soupe que les Lobi mangent.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-             "id": "50",
-            "key": [
-                "3",
-                50,
-                "50"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "dɪ ɟʊ kɛ lɔbɛ-n dɪ́=ń ɟʊ caa(r) jẽnther",
-                    "morphemes": "dɪ ɟʊ kɛ lɔbɛ-n dɪ́=ń ɟʊ caa(r) jẽnther",
-                    "gloss": "c2 fufu rel Lobi.pl-ipfv eat-ipfv fufu type.of three",
-                    "translation": "So there are three types of fufu that Lobi eat",
-                    "french": "Donc il y a trois types de fufu que les Lobi mangent.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "51",
-            "key": [
-                "3",
-                51,
-                "51"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "a n(ɪ) gál lɔ́bɛ dʊɔ ɟʊr kɛ́ na jɪ́=ń tʰɪ̃kʰóda kɛ na jɪ́=ń dó-ń ɟʊr lɔbɛ dʊɔ",
-                    "morphemes": "a n(ɪ) gál lɔ́bɛ dʊɔ ɟʊr kɛ́ na jɪ́=ń tʰɪ̃kʰóda kɛ na jɪ́=ń dó-ń ɟʊr lɔbɛ dʊɔ",
-                    "gloss": "if 2pl go Lobi.pl country/village fufu rel 2pl.fut see=IPFV food rel 2pl.fut see-ipfv which.is-ipfv fufu Lobi.pl country/village",
-                    "translation": "If you go to Lobi's village, fufu is the main food you will see",
-                    "french": "Si vous allez au village des Lobis, le fufu est la nourriture principale que vous verrez.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-             "id": "52",
-            "key": [
-                "3",
-                52,
-                "52"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "sɪ hánã́-ꜜnɛ̃́ ɟʊ ca jẽnthér jɪ́",
-                    "morphemes": "sɪ hánã́-ꜜnɛ̃́ ɟʊ ca jẽnthér jɪ́",
-                    "gloss": "1pl have-re fufu type.of three cop",
-                    "translation": "We have three types of fufu",
-                    "french": "On a trois types de fufu.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-              "id": "53",
-            "key": [
-                "3",
-                53,
-                "53"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "sɪ hánã́-ꜜnɛ̃́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
-                    "morphemes": "sɪ hánã́-ꜜnɛ̃́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
-                    "gloss": "1pl have-re corn fufu millet fufu and yam fufu",
-                    "translation": "We have corn fufu, millet fufu, and yam fufu",
-                    "french": "On a du maïs, du millet et de l'igname fufu.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "54",
-            "key": [
-                "3",
-                54,
-                "54"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "ɔ́lɟɔ́ ɟʊr jɔ ɟʊr pó ɟʊr",
-                    "morphemes": "ɔ́lɟɔ́ ɟʊr jɔ ɟʊr pó ɟʊr",
-                    "gloss": "corn fufu millet fufu yam fufu",
-                    "translation": "Corn fufu, millet fufu, yam fufu",
-                    "french": "Maïs fufu, millet fufu, igname fufu.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "55",
-            "key": [
-                "3",
-                55,
-                "55"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "bíí kɛ́ lɔbɛ-n dɪ́=ń bí cá ɟɔɟɔ ha-le kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hjɛ bíí",
-                    "morphemes": "bíí kɛ́ lɔbɛ-n dɪ́=ń bí cá ɟɔɟɔ ha-le kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hjɛ bíí",
-                    "gloss": "soup rel Lobi.pl-ipfv eat-ipfv soup type.of many cop-re peanut soup pistachio soup soumala.Djoula soup eggplant soup potash soup okra soup bean soup",
-                    "translation": "Lobi eat many kinds of soup: peanut soup, pistachio soup, soumala soup, eggplant soup, potash soup, okra soup, and bean soup.",
-                    "french": "Les Lobis mangent de nombreuses sortes de soupe : soupe aux cacahuètes, soupe aux pistaches, soupe au soumbala, soupe aux aubergines, soupe à la potasse, soupe à gombo et soupe aux haricots",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-             "id": "56",
-            "key": [
-                "3",
-                56,
-                "56"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "fa bíí kɛ lɔbɛ-n dɪ-n dɪkʰã áà j'ɛr ma mɪɛ nɪ-n",
-                    "morphemes": "fa bíí kɛ lɔbɛ-n dɪ-n dɪkʰã áà j'ɛr ma mɪɛ nɪ-n",
-                    "gloss": "leaf soup rel Lobi.pl-ipfv eat-ipfv also cop what 1sg.fut tell 2pl-ipfv",
-                    "translation": "I will tell you about the leaf soup that Lobi eat.",
-                    "french": "Je vais vous parler de la soupe aux feuilles que les Lobis mangent.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "57",
-            "key": [
-                "3",
-                57,
-                "57"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "ɪ̃́nfá bíí bʊ́ɔ́n bíí pàá bíí hjɛ fa bíí tĩn fa bíí",
-                    "morphemes": "ɪ̃́nfá bíí bʊ́ɔ́n bíí pàá bíí hjɛ fa bíí tĩn fa bíí",
-                    "gloss": "leafy.green soup daa. Djoula soup kulala. Baoule soup bean leaf soup baobab leaf soup",
-                    "translation": "Different leafy green soups.",
-                    "french": "Différentes soupes à feuilles vertes.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        },
-        {
-            "id": "58",
-            "key": [
-                "1",
-                58,
-                "58"
             ],
             "value": {
                 "story": "2",
@@ -779,11 +479,11 @@
         }
         ,
         {
-            "id": "59",
+            "id": "47",
             "key": [
                 "1",
-                59,
-                "59"
+                47,
+                "47"
             ],
             "value": {
                 "story": "2",
@@ -805,11 +505,11 @@
         }
         ,
         {
-            "id": "60",
+            "id": "48",
             "key": [
                 "1",
-                60,
-                "60"
+                48,
+                "48"
             ],
             "value": {
                 "story": "2",
@@ -831,11 +531,11 @@
         }
         ,
         {
-            "id": "61",
+            "id": "49",
             "key": [
                 "1",
-                61,
-                "61"
+                49,
+                "49"
             ],
             "value": {
                 "story": "2",
@@ -857,11 +557,11 @@
         }
         ,
         {
-            "id": "62",
+            "id": "50",
             "key": [
                 "1",
-                62,
-                "62"
+                50,
+                "50"
             ],
             "value": {
                 "story": "2",
@@ -883,11 +583,11 @@
         }
         ,
         {
-            "id": "63",
+            "id": "51",
             "key": [
                 "1",
-                63,
-                "63"
+                51,
+                "51"
             ],
             "value": {
                 "story": "2",
@@ -909,11 +609,11 @@
         }
         ,
         {
-            "id": "64",
+            "id": "52",
             "key": [
                 "1",
-                64,
-                "64"
+                52,
+                "52"
             ],
             "value": {
                 "story": "2",
@@ -935,11 +635,11 @@
         }
         ,
         {
-            "id": "65",
+            "id": "53",
             "key": [
                 "1",
-                65,
-                "65"
+                53,
+                "53"
             ],
             "value": {
                 "story": "2",
@@ -961,11 +661,11 @@
         }
         ,
         {
-            "id": "66",
+            "id": "54",
             "key": [
                 "1",
-                66,
-                "66"
+                54,
+                "54"
             ],
             "value": {
                 "story": "2",
@@ -987,11 +687,11 @@
         }
         ,
         {
-            "id": "67",
+            "id": "55",
             "key": [
                 "1",
-                67,
-                "67"
+                55,
+                "55"
             ],
             "value": {
                 "story": "2",
@@ -1013,11 +713,11 @@
         }
         ,
         {
-            "id": "68",
+            "id": "56",
             "key": [
                 "1",
-                68,
-                "68"
+                56,
+                "56"
             ],
             "value": {
                 "story": "2",
@@ -1039,11 +739,11 @@
         }
         ,
         {
-            "id": "69",
+            "id": "57",
             "key": [
                 "1",
-                69,
-                "69"
+                57,
+                "57"
             ],
             "value": {
                 "story": "2",
@@ -1065,11 +765,11 @@
         }
         ,
         {
-            "id": "70",
+            "id": "58",
             "key": [
                 "1",
-                70,
-                "70"
+                58,
+                "58"
             ],
             "value": {
                 "story": "2",
@@ -1091,11 +791,11 @@
         }
         ,
         {
-            "id": "71",
+            "id": "59",
             "key": [
                 "1",
-                71,
-                "71"
+                59,
+                "59"
             ],
             "value": {
                 "story": "2",
@@ -1117,11 +817,11 @@
         }
         ,
         {
-            "id": "72",
+            "id": "60",
             "key": [
                 "1",
-                72,
-                "72"
+                60,
+                "60"
             ],
             "value": {
                 "story": "2",
@@ -1143,11 +843,11 @@
         }
         ,
         {
-            "id": "73",
+            "id": "61",
             "key": [
                 "1",
-                73,
-                "73"
+                61,
+                "61"
             ],
             "value": {
                 "story": "2",
@@ -1169,11 +869,11 @@
         }
         ,
         {
-            "id": "74",
+            "id": "62",
             "key": [
                 "1",
-                74,
-                "74"
+                62,
+                "62"
             ],
             "value": {
                 "story": "2",
@@ -1195,11 +895,11 @@
         }
         ,
         {
-            "id": "75",
+            "id": "63",
             "key": [
                 "1",
-                75,
-                "75"
+                63,
+                "63"
             ],
             "value": {
                 "story": "2",
@@ -1221,11 +921,11 @@
         }
         ,
         {
-            "id": "76",
+            "id": "64",
             "key": [
                 "1",
-                76,
-                "76"
+                64,
+                "64"
             ],
             "value": {
                 "story": "2",
@@ -1247,11 +947,11 @@
         }
         ,
         {
-            "id": "77",
+            "id": "65",
             "key": [
                 "1",
-                77,
-                "77"
+                65,
+                "65"
             ],
             "value": {
                 "story": "2",
@@ -1273,11 +973,11 @@
         }
         ,
         {
-            "id": "78",
+            "id": "66",
             "key": [
                 "1",
-                78,
-                "78"
+                66,
+                "66"
             ],
             "value": {
                 "story": "2",
@@ -1299,11 +999,11 @@
         }
         ,
         {
-            "id": "79",
+            "id": "67",
             "key": [
                 "1",
-                79,
-                "79"
+                67,
+                "67"
             ],
             "value": {
                 "story": "2",
@@ -1325,11 +1025,11 @@
         }
         ,
         {
-            "id": "80",
+            "id": "68",
             "key": [
                 "1",
-                80,
-                "80"
+                68,
+                "68"
             ],
             "value": {
                 "story": "2",
@@ -1351,11 +1051,11 @@
         }
         ,
         {
-            "id": "81",
+            "id": "69",
             "key": [
                 "1",
-                81,
-                "81"
+                69,
+                "69"
             ],
             "value": {
                 "story": "2",
@@ -1377,11 +1077,11 @@
         }
         ,
         {
-            "id": "82",
+            "id": "70",
             "key": [
                 "1",
-                82,
-                "82"
+                70,
+                "70"
             ],
             "value": {
                 "story": "2",
@@ -1403,11 +1103,11 @@
         }
         ,
         {
-            "id": "83",
+            "id": "71",
             "key": [
                 "1",
-                83,
-                "83"
+                71,
+                "71"
             ],
             "value": {
                 "story": "2",
@@ -1429,11 +1129,11 @@
         }
         ,
         {
-            "id": "84",
+            "id": "72",
             "key": [
                 "1",
-                84,
-                "84"
+                72,
+                "72"
             ],
             "value": {
                 "story": "2",
@@ -1455,11 +1155,11 @@
         }
         ,
         {
-            "id": "85",
+            "id": "73",
             "key": [
                 "1",
-                85,
-                "85"
+                73,
+                "73"
             ],
             "value": {
                 "story": "2",
@@ -6630,7 +6330,7 @@
             "key": [
                 "1",
                 284,
-                "284"
+                "2"
             ],
             "value": {
                 "story": "2",
@@ -7331,7 +7031,7 @@
                 "307"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "nɪ́ ɡba fʊ́ɔ́-rɪ́",
@@ -7357,7 +7057,7 @@
                 "308"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "nĩ́ĩ́=ꜜkɛ́ wo lɔbɛ tʰɪ́nkʰoda sá ꜜdɪ́ɪ́-r",
@@ -7383,7 +7083,7 @@
                 "309"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "tʰɪ̃kʰodá caar kɛ lɔbɛ̃=n kʰõ-n j'ɛr sá ꜜdɪ́ɪ́-r",
@@ -7409,7 +7109,7 @@
                 "310"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "dɪ lɔbɛ ɟʊ caa(r) kɛ́ lɔbɛ̃=n dɪ̃́-ń na bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń j'ɛr sá ꜜdɪ́ɪ́-r nĩĩ",
@@ -7435,7 +7135,7 @@
                 "311"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "dɪ ɟʊr kɛ́ lɔbɛ̃=n dɪ̃́-ń ɟʊ caa(r) jẽntʰér",
@@ -7461,7 +7161,7 @@
                 "312"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "a n(ɪ) gál lɔ́bɛ dʊ́ɔ̀ ɟʊr kɛ́ na jɪ̃́-ń tʰɪ̃kʰodá ꜜkɛ́ na jɪ̃́-ń dṍ-ń ɟʊr lɔbɛ dʊ́ɔ̀",
@@ -7487,7 +7187,7 @@
                 "313"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "sɪ hánã́-ꜜnɛ́ ɟʊ ca jẽntʰér jɪ́",
@@ -7513,7 +7213,7 @@
                 "314"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "sɪ hánã́-ꜜnɛ́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
@@ -7539,7 +7239,7 @@
                 "315"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "ɔlɟɔ́ ɟʊr ɟɔ ɟʊr pó ɟʊr",
@@ -7565,7 +7265,7 @@
                 "316"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń bí cá ɟɔɟɔ ha lé kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hɪɛ bíí",
@@ -7591,7 +7291,7 @@
                 "317"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "fa bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń dɪkʰã́ á j'ɛ́r má mɪɛ́ nɪ̃-n",
@@ -7610,14 +7310,14 @@
         }
         ,
         {
-            "id": "318",
+            "id": "306",
             "key": [
                 "1",
-                318,
-                "318"
+                306,
+                "306"
             ],
             "value": {
-                "story": "2",
+                "story": "3",
                 "sentence": {
                     "judgement": "",
                     "utterance": "ɪ̃́n fa bíí bʊ́ɔ́n bíí pàá bíí hɪɛ fa bíí tĩ́n fa bíí",
