@@ -145,14 +145,14 @@ var UrlParameterButton = React.createClass({
 })
 
 var _ENGLISH = 'eng';
-var _MORO = 'lobi';
+var _LOBI = 'lobi';
 
 var SearchBox = React.createClass({
   getInitialState: function() {
     return {
         search: GetVar('search', ''),
         regex: GetVar('regex', false),
-        search_language: GetVar('slang', _MORO),
+        search_language: GetVar('slang', _LOBI),
     };
   },
   setSearch: function(e) {
@@ -228,8 +228,8 @@ var SearchBox = React.createClass({
       <div className="field">
         <div className="ui radio checkbox">
           <input type="radio"
-                 name={_MORO}
-                 checked={this.state.search_language == _MORO}
+                 name={_LOBI}
+                 checked={this.state.search_language == _LOBI}
                  onChange={this.setSearchLanguage} />
           <label>Lobi</label>
         </div>
