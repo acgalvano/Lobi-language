@@ -99,7 +99,8 @@ var Homepage = React.createClass(
     {/* <h2> (Visit the Storytellers page to learn more about the people who you see and hear in the texts.) </h2> */}
 
     <h3> Sansan Claude Hien </h3>
-        <p> Lobi speaker </p> 
+        <p> Sansan Claude Hien is a Lobi speaker who grew up in the town of Agnibilékrou, Côte d’Ivoire, where there is a large Lobi neighborhood. He grew up speaking Lobi in the home, and continues to speak it with friends and family. 
+          He continues to be a vital collaborator on work with the Lobi language. </p> 
 
     <h3> Amber Galvano </h3>
         <p> <a href="https://ambergalvano.weebly.com/">Amber</a> is a Ph.D. student in Linguistics at UC Berkeley. </p>
@@ -135,7 +136,8 @@ var HomepageFR = React.createClass(
     {/* <h2> (Visit the Storytellers page to learn more about the people who you see and hear in the texts.) </h2> */}
 
     <h3> Sansan Claude Hien </h3>
-        <p> À déterminer </p> 
+        <p> Sansan Claude Hien est un locuteur Lobi qui a grandi dans la ville d'Agnibilékrou, en Côte d'Ivoire, où se trouve un grand quartier Lobi. Il a grandi en parlant le lobi à la maison et continue de le parler avec ses amis et sa famille. 
+          Il continue d'être un collaborateur essentiel dans le travail avec la langue Lobi. </p> 
 
     <h3> Amber Galvano </h3>
         <p> <a href="https://ambergalvano.weebly.com/">Amber</a> est doctorante en linguistique à l'Université de Californie à Berkeley.  </p>
