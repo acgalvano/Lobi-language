@@ -3,7 +3,7 @@
 // import "./pages/*.js"
 // import {Homepage, HomepageFR, Orthography, Glosspage, StoryView, StoryViewFR} from './pages/index.js'
 
-//Global variable for moro_click database
+//Global variable for lobi_click database
 var global_id_to_morpheme_definition = [];
 var global_id_to_row = {};
 var global_whole_data;
@@ -1414,7 +1414,7 @@ function get_occurrence_ids(morpheme_click, definition_click) {
           
       var match_found = false;
       for (var j = 0; j < morpheme_definition_pair.length; j++) {
-          if (morpheme_definition_pair[j]["moroword"] == morpheme_click && morpheme_definition_pair[j]["definition"] == definition_click) {
+          if (morpheme_definition_pair[j]["lobiword"] == morpheme_click && morpheme_definition_pair[j]["definition"] == definition_click) {
               match_found = true;
               break;
           }
@@ -1475,22 +1475,22 @@ function processword(word, glossword) {
       continue
     }
     if (rootindex==-1) {
-      results.push({moroword:[{word:morpheme, count:1}], definition:gloss});
-      click_database_result.push({moroword:morpheme, definition:gloss});
+      results.push({lobiword:[{word:morpheme, count:1}], definition:gloss});
+      click_database_result.push({lobiword:morpheme, definition:gloss});
     } else {
       if (i < rootindex) { 
         gloss = gloss+'-';
         morpheme = morpheme+'-';
-        results.push({moroword:[{word:morpheme, count:1}], definition:gloss});
-        click_database_result.push({moroword:morpheme, definition:gloss});
+        results.push({lobiword:[{word:morpheme, count:1}], definition:gloss});
+        click_database_result.push({lobiword:morpheme, definition:gloss});
       } else if (i > rootindex) {
         gloss = '-'+gloss;
         morpheme = '-'+morpheme;
-        results.push({moroword:[{word:morpheme, count:1}], definition:gloss});
-        click_database_result.push({moroword:morpheme, definition:gloss});
+        results.push({lobiword:[{word:morpheme, count:1}], definition:gloss});
+        click_database_result.push({lobiword:morpheme, definition:gloss});
       } else {
-        results.push({moroword:[{word:morpheme, count:1}], definition:gloss});
-        click_database_result.push({moroword:morpheme, definition:gloss});
+        results.push({lobiword:[{word:morpheme, count:1}], definition:gloss});
+        click_database_result.push({lobiword:morpheme, definition:gloss});
       }
     }
   }
@@ -1517,7 +1517,7 @@ function arrayUniqueClick(array) {
   var a = array.concat();
   for(var i=0; i<a.length; ++i) {
       for(var j=i+1; j<a.length; ++j) {
-          if(a[i]["moroword"] === a[j]["moroword"] && a[i]["definition"] === a[j]["definition"]) {
+          if(a[i]["lobiword"] === a[j]["lobiword"] && a[i]["definition"] === a[j]["definition"]) {
               a.splice(j--, 1);
           }
       }
@@ -1537,16 +1537,16 @@ function removePunc(word) {
 function sortAndRemoveCount(dict) {
   var toRtn = JSON.parse(JSON.stringify(dict));
   for(var i=0; i<toRtn.length; ++i) {
-      toRtn[i]["moroword"].sort(function(a, b) {
+      toRtn[i]["lobiword"].sort(function(a, b) {
           return parseFloat(b["count"]) - parseFloat(a["count"]);
       });
-      var moroWordsArray = []
-      for (var j=0; j<toRtn[i]["moroword"].length; ++j) {
-          delete toRtn[i]["moroword"][j]["count"]
-          var word = toRtn[i]["moroword"][j]["word"]
-          moroWordsArray.push(word)
+      var lobiWordsArray = []
+      for (var j=0; j<toRtn[i]["lobiword"].length; ++j) {
+          delete toRtn[i]["lobiword"][j]["count"]
+          var word = toRtn[i]["lobiword"][j]["word"]
+          lobiWordsArray.push(word)
       }
-      toRtn[i]["moroword"] = moroWordsArray
+      toRtn[i]["lobiword"] = lobiWordsArray
   }
   return toRtn
 }
@@ -1583,9 +1583,9 @@ function processdata(dirtydata){
                   for (var j = 0; j < results.length; j++) {
                       if (wordresults[k]["definition"] == results[j]["definition"]) {
                           existed = true;
-                          oldMoroword = results[j]["moroword"];
-                          newMoroword = arrayUnique(oldMoroword.concat(wordresults[k]["moroword"]));
-                          results[j]["moroword"] = newMoroword;
+                          oldLobiword = results[j]["lobiword"];
+                          newLobiword = arrayUnique(oldLobiword.concat(wordresults[k]["lobiword"]));
+                          results[j]["lobiword"] = newLobiword;
                           break;
                       }       
                   }
@@ -1606,10 +1606,10 @@ function processdata(dirtydata){
 //console.log(JSON.stringify(global_id_to_morpheme_definition))
 processedDict = sortAndRemoveCount(results)
 //console.log("DONE")
-//return morphemes/glosses by moro morphemes
+//return morphemes/glosses by lobi morphemes
 return _.sortBy(processedDict, function(j) {
-var moroword = _.cloneDeep(j.moroword);
-return _.map(moroword, function(x) {
+var lobiword = _.cloneDeep(j.lobiword);
+return _.map(lobiword, function(x) {
   if (x[0] == '-') {
     return x.slice(1);
   }
@@ -1632,22 +1632,22 @@ function assert(expected_value, actual) {
 
 function test_processdata() {
   var testcase1 = {rows:[{value:{sentence:{morphemes:'a', gloss:'A'}}}]};
-  assert([{moroword:['a'], definition:'a'}], processdata(testcase1));
+  assert([{lobiword:['a'], definition:'a'}], processdata(testcase1));
   var testcase2 = {rows:[{value:{sentence: {morphemes:'a-b d', gloss:'A-B A'}}}]};
-  assert([{moroword:['a','d'], definition:'a'}, {moroword:['b'], definition:'b'}], processdata(testcase2));
+  assert([{lobiword:['a','d'], definition:'a'}, {lobiword:['b'], definition:'b'}], processdata(testcase2));
   var testcase3 = {rows:[{value:{sentence:{morphemes:'"loman-nǝŋ maj-anda l-a-fo,', gloss:'day-indef man-assoc.pl cll-rtc-past.aux'}}}]};
-  assert([{moroword:['a-'], definition:'rtc-'},
-          {moroword:['anda'], definition:'assoc.pl'},
-          {moroword:['fo'], definition:'past.aux'},
-          {moroword:['l-'], definition:'cll-'},
-          {moroword:['loman'], definition:'day'}, 
-          {moroword:['maj'], definition:'man'},
-          {moroword:['nǝŋ'], definition:'indef'},
+  assert([{lobiword:['a-'], definition:'rtc-'},
+          {lobiword:['anda'], definition:'assoc.pl'},
+          {lobiword:['fo'], definition:'past.aux'},
+          {lobiword:['l-'], definition:'cll-'},
+          {lobiword:['loman'], definition:'day'}, 
+          {lobiword:['maj'], definition:'man'},
+          {lobiword:['nǝŋ'], definition:'indef'},
             ], processdata(testcase3));
   var testcase4 = {rows:[{value:{sentence:{morphemes:'"a,!?..', gloss:'A'}}}]};
-  assert([{moroword:['a'], definition:'a'}], processdata(testcase4));
+  assert([{lobiword:['a'], definition:'a'}], processdata(testcase4));
   var testcase5 = {rows:[{value:{sentence:{morphemes:'b-a c', gloss:'B-A C'}}}]};
-  assert([{moroword:['a'], definition:'a'}, {moroword:['b'], definition:'b'}, {moroword:['c'], definition:'c'}], processdata(testcase5));
+  assert([{lobiword:['a'], definition:'a'}, {lobiword:['b'], definition:'b'}, {lobiword:['c'], definition:'c'}], processdata(testcase5));
   } 
 //test_processdata();
 
@@ -1660,7 +1660,7 @@ var dictionary_data_promise = sentence_data_promise.then(function(data) {
 //ReactClass for rendering a definition
 var Definition = React.createClass({
   render: function() {
-    var morph_def_pairs = _.map(this.props.moroword, function(morpheme) {
+    var morph_def_pairs = _.map(this.props.lobiword, function(morpheme) {
       return {
         morpheme: morpheme,
         definition: this.props.definition
@@ -1696,8 +1696,8 @@ var Definition = React.createClass({
 var DictList = React.createClass({
   render: function() {
     var definitions=this.props.data.map(function(def) {
-      return ( <Definition key={def['moroword'] + ':' + def.definition}
-                            moroword={def['moroword']}
+      return ( <Definition key={def['lobiword'] + ':' + def.definition}
+                            lobiword={def['lobiword']}
                             definition={def['definition']}/> )
     });
 
@@ -1735,37 +1735,37 @@ function matchSearchFuncEngRegex (searchTerm) {
   }
 }
 
-//matchSearchFunc for moroword to searchTerm (MoroPlain)
-function matchSearchFuncMoroPlain (searchTerm) {
+//matchSearchFunc for lobiword to searchTerm (LobiPlain)
+function matchSearchFuncLobiPlain (searchTerm) {
   return function(element) {
-    return findMoroWordInArrayMoroPlain(element.moroword, searchTerm)
+    return findLobiWordInArrayLobiPlain(element.lobiword, searchTerm)
   }
 }
 
-//matchSearchFunc healper for moroword to searchTerm (without regrex)
-function findMoroWordInArrayMoroPlain (categories, moroword) {
+//matchSearchFunc healper for lobiword to searchTerm (without regrex)
+function findLobiWordInArrayLobiPlain (categories, lobiword) {
   var found = false;
   for (i = 0; i < categories.length && !found; i++) {
-    if (categories[i] === moroword) {
+    if (categories[i] === lobiword) {
       found = true;
     }
   }
   return found
 }
 
-//matchSearchFunc for moroword to searchTerm (MoroRegex)
-function matchSearchFuncMoroRegex (searchTerm) {
+//matchSearchFunc for lobiword to searchTerm (LobiRegex)
+function matchSearchFuncLobiRegex (searchTerm) {
   return function(element) {
-    return findMoroWordInArrayMoroRegex(element.moroword, searchTerm)
+    return findLobiWordInArrayLobiRegex(element.lobiword, searchTerm)
   }
 }
 
-//matchSearchFunc healper for moroword to searchTerm (with regrex)
-function findMoroWordInArrayMoroRegex (categories, moroword) {
+//matchSearchFunc healper for lobiword to searchTerm (with regrex)
+function findLobiWordInArrayLobiRegex (categories, lobiword) {
   var found = false;
   for (i = 0; i < categories.length && !found; i++) {
-    // if (categories[i] === moroword) {
-    var re = ".*" + moroword + ".*";
+    // if (categories[i] === lobiword) {
+    var re = ".*" + lobiword + ".*";
     if (categories[i].match(re)) {
       found = true;
     }
@@ -1799,9 +1799,9 @@ var DictPage = React.createClass({
         }
       } else {
         if(this.props.regex) {
-          filter = matchSearchFuncMoroRegex;
+          filter = matchSearchFuncLobiRegex;
         } else {
-          filter = matchSearchFuncMoroPlain;
+          filter = matchSearchFuncLobiPlain;
         }
       }
 
@@ -1847,9 +1847,9 @@ var DictBox = React.createClass({
       // Find the first index of each letter, grouping numbers.
       var alphabet = {}
       _.forEach(dictdata, function consider_word(word, index) {
-        var c = _.get(word, ["moroword", 0, 0], "");
+        var c = _.get(word, ["lobiword", 0, 0], "");
         if (c == "-") {
-          c = _.get(word, ["moroword", 0, 1], "");
+          c = _.get(word, ["lobiword", 0, 1], "");
         }
         c = "" + c;
         if (c.match(/[0-9]/)) {
