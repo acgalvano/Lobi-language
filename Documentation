@@ -1,1 +1,21 @@
+Overview:
+The site is all on one page, which is index.html, which utilizes LobiScript.jsx, utils.jsx, and several other scripts such as React.
+The other files will be expanded in more detail.
 
+LobiScript.jsx is the primary location of the site formating and page functionality. This imports from React, and creates variables from the
+narratives.json and sentences.json files. Additionally, it contains a boolean 'global_show_french' which functions as the toggle for
+displaying the English versus French pages. The json files are processed through Promise.
+
+Each visible page on the site is represented by a React.createClass variable, there is one for English and one for French, displayed by
+the toggle. These pages include the About, Orthography, Texts, Concordance, Search, and Glossing tabs. 
+
+StoryView and StoryViewFR parse the story data, which is collected from the sentences.json and narratives.json. It also handles the
+formating of the gloss and the Texts page. The stories are created on the Texts page by accessing the narratives.json
+
+narratives.json: each narrative in the json requires an id and a key value. The key value in narratives must match the key value for each
+entry of that story in sentences.json. Additionally, the "name", "name_fr", "author", "link" and "linkFR" are necessary for the Texts page
+and the individual story pages to function. The name and name_fr are the title of the Text, the author is additionally listed and the link
+must be the embed video link to the video corresponding to the toggled language.
+
+sentences.json: each line from twisted tongues should be represented as a unique entry in this json, with a requirement for the id of lines
+from the same story to match. This is important for the Texts page to function.
