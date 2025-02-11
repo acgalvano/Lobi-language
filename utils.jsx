@@ -145,7 +145,7 @@ var UrlParameterButton = React.createClass({
 })
 
 var _ENGLISH = 'eng';
-var _MORO = 'moro';
+var _MORO = 'lobi';
 
 var SearchBox = React.createClass({
   getInitialState: function() {
@@ -231,7 +231,7 @@ var SearchBox = React.createClass({
                  name={_MORO}
                  checked={this.state.search_language == _MORO}
                  onChange={this.setSearchLanguage} />
-          <label>Moro</label>
+          <label>Lobi</label>
         </div>
       </div>
       <div className="field">
