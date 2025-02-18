@@ -25,7 +25,7 @@ passages = re.split(r'\n{2,}', text_w_space.strip())
 # Now within each block, split by single newline, creating a list of lists
 list_of_passages = [passage.split('\n') for passage in passages]
 
-def create_javascript(passages, start_entry_num, story_num):
+def create_javascript(passages, start_entry_num, story_num=0):
     return_string = ""
     for passage in passages:
         if len(passage) < 3:
@@ -33,6 +33,7 @@ def create_javascript(passages, start_entry_num, story_num):
 
         for i in range(len(passage)):
             passage[i] = passage[i].replace("\"", "\\\"")
+            passage[i] = passage[i].replace("/", "\\/")
 
         translated = translator.translate(passage[2])
         return_string += f'''
@@ -40,7 +41,7 @@ def create_javascript(passages, start_entry_num, story_num):
         {{
             "id": "{start_entry_num}",
             "key": [
-                "1",
+                "{story_num}",
                 {start_entry_num},
                 "{start_entry_num}"
             ],
@@ -54,7 +55,7 @@ def create_javascript(passages, start_entry_num, story_num):
                     "translation": "{passage[2]}",
                     "french": "{translated}",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -67,8 +68,7 @@ def create_javascript(passages, start_entry_num, story_num):
     return return_string
 
 
-result = create_javascript(list_of_passages, id_num, story_num=0)
-#need parameter of number we start counting from
+result = create_javascript(list_of_passages, id_num, story_num)
 
         
 
