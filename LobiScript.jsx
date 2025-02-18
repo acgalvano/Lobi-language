@@ -720,6 +720,7 @@ var StoryView = React.createClass({
   getInitialState: function() {
     return {sentence: {data: [], loaded: false},
             story: {data: [], loaded: false},
+            show_IPA: false,
             show_gloss: false,
             story_view: false, 
             french_view: true, // EDIT: added french toggle
@@ -766,14 +767,14 @@ var StoryView = React.createClass({
     return _.get(this.getStory(), 'link', "");
   },
   //toggles IPA or not
-  toggleGloss: function() {
+  toggleIPA: function() {
     var new_show_IPA = !this.state.show_IPA;
     var new_story_view = this.state.story_view;
     if(new_show_IPA) {
       new_story_view = false;
     }
     this.setState({show_IPA: new_show_IPA,
-                   show_gloss: new_show_gloss,
+                   show_gloss: this.state.show_IPA,
                     story_view: new_story_view});
   },
   //toggles interlinear gloss or not
@@ -783,7 +784,7 @@ var StoryView = React.createClass({
     if(new_show_gloss) {
       new_story_view = false;
     }
-    this.setState({show_IPA: new_show_IPA,
+    this.setState({show_IPA: this.state.show_IPA,
                    show_gloss: new_show_gloss,
                     story_view: new_story_view});
   },
@@ -883,7 +884,7 @@ var StoryView = React.createClass({
 
             <div className="field">
               <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.show_IPA} onChange={this.toggleGloss}> </input>
+                <input type="radio" name="throughput" checked={this.state.show_IPA} onChange={this.toggleIPA}> </input>
                 <label>Show IPA</label>
               </div>
             </div>
@@ -927,6 +928,7 @@ var StoryViewFR = React.createClass({
   getInitialState: function() {
     return {sentence: {data: [], loaded: false},
             story: {data: [], loaded: false},
+            show_IPA: false,
             show_gloss: false,
             story_view: false, 
             french_view: true, // EDIT: added french toggle
@@ -980,7 +982,7 @@ var StoryViewFR = React.createClass({
       new_story_view = false;
     }
     this.setState({show_IPA: new_show_IPA, 
-                   show_gloss: new_show_gloss,
+                   show_gloss: this.state.show_gloss,
                     story_view: new_story_view});
   },
   //toggles interlinear gloss or not
@@ -990,7 +992,7 @@ var StoryViewFR = React.createClass({
     if(new_show_gloss) {
       new_story_view = false;
     }
-    this.setState({show_IPA: new_show_IPA, 
+    this.setState({show_IPA: this.state.show_IPA, 
                    show_gloss: new_show_gloss,
                     story_view: new_story_view});
   },
@@ -1092,7 +1094,7 @@ var StoryViewFR = React.createClass({
 
             <div className="field">
               <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.show_IPA} onChange={this.toggleGloss}> </input>
+                <input type="radio" name="throughput" checked={this.state.show_IPA} onChange={this.toggleIPA}> </input>
                 <label>Show IPA</label>
               </div>
             </div>
@@ -2151,6 +2153,7 @@ var SearchPane = React.createClass({
         var rendered_sentences = _.map(sentences, function(x) {
           return <Sentence key={x.key}
                             sentence={x.value.sentence}
+                            show_IPA={true}
                             show_gloss={true} />
         });
 
