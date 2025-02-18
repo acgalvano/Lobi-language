@@ -774,7 +774,7 @@ var StoryView = React.createClass({
       new_story_view = false;
     }
     this.setState({show_IPA: new_show_IPA,
-                   show_gloss: this.state.show_IPA,
+                   show_gloss: this.state.show_gloss,
                     story_view: new_story_view});
   },
   //toggles interlinear gloss or not
