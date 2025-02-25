@@ -1576,7 +1576,7 @@ function arrayUniqueClick(array) {
 
 //Remove punctuation from string excluding dashes and period in word
 function removePunc(word) {
-  var rtnWord = word.replace(/[,\/#?!\"\“\”$%\^&\*;:{}=_`~()]/g,"");
+  var rtnWord = word.replace(/[,#?!\"\“\”$%\^&\*;:{}=_`~()]/g,"");
   rtnWord = rtnWord.replace(/\b[.]+\B|\B[.]+\b/g, "");
   return rtnWord;
 }
