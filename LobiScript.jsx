@@ -2093,7 +2093,7 @@ var Sentence = React.createClass({
       var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
-      var combined = _.zip(utterance, morphemes, glosses);
+      var combined = _.zip(utterances, morphemes, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(combined).map(function(x, i){
         var utterances = x[0];
