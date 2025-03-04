@@ -2101,13 +2101,13 @@ var Sentence = React.createClass({
         var gloss = x[2];
         return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterances}<br/>{morpheme}<br/>{gloss}</div>
       }.bind(this)).value();
+      utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
     }
 
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
-      <b>{sentence.utterance}</b><br/>
-      {utterance}
+      {utterance}<br/>
       {gloss}
       {<span>{sentence.translation}<br/></span>}
       {sentence.french}
