@@ -2089,15 +2089,17 @@ var Sentence = React.createClass({
     }
     
     // interlinear gloss alignment
-    if (this.props.show_gloss || this.props.show_IPA) { //#or this.props.show_IPA
+    if (this.props.show_gloss || this.props.show_IPA) {
+      var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
-      var pairs = _.zip(morphemes, glosses);
+      var combined = _.zip(utterance, morphemes, glosses);
       // render one inline block div containing morpheme and gloss per word
-      var glosses = _(pairs).map(function(x, i){
-        var morpheme = x[0];
-        var gloss = x[1];
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
+      var glosses = _(combined).map(function(x, i){
+        var utterances = x[0];
+        var morpheme = x[1];
+        var gloss = x[2];
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterances}<br/>{morpheme}<br/>{gloss}</div>
       }.bind(this)).value();
       gloss = <span>{glosses}<br/></span>;
     }
@@ -2105,6 +2107,7 @@ var Sentence = React.createClass({
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
       <b>{sentence.utterance}</b><br/>
+      {utterance}
       {gloss}
       {<span>{sentence.translation}<br/></span>}
       {sentence.french}
