@@ -1075,7 +1075,7 @@ var StoryViewFR = React.createClass({
         function(x){
           return <Sentence key={x.key}
                     sentence={x.value.sentence}
-                    IPA={this.state.show_IPA}
+                    show_IPA={this.state.show_IPA}
                     show_gloss={this.state.show_gloss}/>;
         }.bind(this)
       ).value();
