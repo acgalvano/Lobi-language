@@ -7020,112 +7020,7 @@
                     "modifiedByUser": ""
                 }
             }
-        }
-                ,
-        {
-            "id": "307",
-            "key": [
-                "3",
-                307,
-                "307"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "nɪ́ ɡba fʊ́ɔ́-rɪ́",
-                    "morphemes": "nɪ́ ɡba fʊ́ɔ́-rɪ́",
-                    "gloss": "2PL take greet-NMLZ",
-                    "translation": "Hello; good morning\/afternoon\/evening.",
-                    "french": "Bonjour; bonjour\/après-midi\/bonsoir.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        }
-        ,
-        {
-            "id": "308",
-            "key": [
-                "3",
-                308,
-                "308"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "nĩ́ĩ́=ꜜkɛ́ wo lɔbɛ tʰɪ́nkʰoda sá ꜜdɪ́ɪ́-r",
-                    "morphemes": "nĩ́ĩ́=ꜜkɛ́ wo lɔbɛ tʰɪ́nkʰoda sá ꜜdɪ́ɪ́-r",
-                    "gloss": "today=DEM.PROX again Lobi.PL food 1PL.FUT learn-RE",
-                    "translation": "Today we will talk\/learn about Lobi food again.",
-                    "french": "Aujourd'hui encore, nous allons à nouveau parler de la nourriture Lobi.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        }
-        ,
-        {
-            "id": "309",
-            "key": [
-                "3",
-                309,
-                "309"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "tʰɪ̃kʰodá caar kɛ lɔbɛ̃=n kʰõ-n j'ɛr sá ꜜdɪ́ɪ́-r",
-                    "morphemes": "tʰɪ̃kʰodá caar kɛ lɔbɛ̃=n kʰõ-n j'ɛr sá ꜜdɪ́ɪ́-r",
-                    "gloss": "food type.of REL Lobi.PL=IPFV eat-NI 3PL.NS 1PL.FUT learn-RE",
-                    "translation": "We will learn what kind of foods Lobi people eat.",
-                    "french": "Nous allons apprendre quel genre de nourriture les Lobi mangent.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        }
-        ,
-        {
-            "id": "310",
-            "key": [
-                "3",
-                310,
-                "310"
-            ],
-            "value": {
-                "story": "3",
-                "sentence": {
-                    "judgement": "",
-                    "utterance": "dɪ lɔbɛ ɟʊ caa(r) kɛ́ lɔbɛ̃=n dɪ̃́-ń na bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń j'ɛr sá ꜜdɪ́ɪ́-r nĩĩ",
-                    "morphemes": "dɪ lɔbɛ ɟʊ caa(r) kɛ́ lɔbɛ̃=n dɪ̃́-ń na bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń j'ɛr sá ꜜdɪ́ɪ́-r nĩĩ",
-                    "gloss": "C2 Lobi.PL fufu type.of REL Lobi.PL=IPFV eat-NI and soup REL Lobi.PL=IPFV eat-NI 3PL.NS 1PL.FUT learn-RE today",
-                    "translation": "So today we will learn the type of fufu and soup that Lobi people eat.",
-                    "french": "Aujourd'hui, nous allons apprendre le type de foufous et de sauces que les Lobi mangent.",
-                    "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
-                    "syntacticTreeLatex": "",
-                    "validationStatus": "",
-                    "enteredByUser": "",
-                    "modifiedByUser": ""
-                }
-            }
-        }
-        ,
+        },
         {
             "id": "311",
             "key": [
@@ -7137,13 +7032,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "dɪ ɟʊr kɛ́ lɔbɛ̃=n dɪ̃́-ń ɟʊ caa(r) jẽntʰér",
-                    "morphemes": "dɪ ɟʊr kɛ́ lɔbɛ̃=n dɪ̃́-ń ɟʊ caa(r) jẽntʰér",
-                    "gloss": "C2 fufu REL Lobi.PL=IPFV eat-NI fufu type.of three",
-                    "translation": "So there are three types of fufu that Lobi people eat.",
-                    "french": "Donc il y a trois types de foufou que les Lobi mangent.",
+                    "utterance": "nɪ́ ɡba fʊ́ɔ́rɪ́",
+                    "morphemes": "nɪ́ ɡba fʊ́ɔ́-rɪ́",
+                    "gloss": "2PL take greet-NMLZ",
+                    "translation": "Hello; good morning\/afternoon",
+                    "french": "Bonjour; Bonjour \ / après-midi",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -7163,13 +7058,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "a n(ɪ) gál lɔ́bɛ dʊ́ɔ̀ ɟʊr kɛ́ na jɪ̃́-ń tʰɪ̃kʰodá ꜜkɛ́ na jɪ̃́-ń dṍ-ń ɟʊr lɔbɛ dʊ́ɔ̀",
-                    "morphemes": "a n(ɪ) gál lɔ́bɛ dʊ́ɔ̀ ɟʊr kɛ́ na jɪ̃́-ń tʰɪ̃kʰodá ꜜkɛ́ na jɪ̃́-ń dṍ-ń ɟʊr lɔbɛ dʊ́ɔ̀",
-                    "gloss": "if 2PL go Lobi.PL country\/village fufu REL 2PL.FUT see-NI food REL 2PL.FUT see-NI COP-NI fufu Lobi.PL country\/village",
-                    "translation": "If you go to Lobi's village, fufu is the main food you will see.",
-                    "french": "Si vous allez chez les Lobi, le tô ou le foufou est la nourriture principale que vous verrez.",
+                    "utterance": "nĩ́ĩ́ꜜkɛ́ wo lɔbɛ tʰɪ̃́nkʰoda sá ꜜdɪ́ɪ́r",
+                    "morphemes": "níín=kɛ́ wo lɔbɛ tʰɪ́nkʰoda sá dɪ́ɪ́-r",
+                    "gloss": "today=DEM.PROX again Lobi.PL food 1PL.FUT learn-RE",
+                    "translation": "Today we will talk about Lobi food again",
+                    "french": "Aujourd'hui, nous parlerons à nouveau de la nourriture lobi",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -7189,13 +7084,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "sɪ hánã́-ꜜnɛ́ ɟʊ ca jẽntʰér jɪ́",
-                    "morphemes": "sɪ hánã́-ꜜnɛ́ ɟʊ ca jẽntʰér jɪ́",
-                    "gloss": "1PL have-RE fufu type.of three COP",
-                    "translation": "We have three types of fufu.",
-                    "french": "On a trois types de tô et foutou.",
+                    "utterance": "tʰɪ̃kʰodá caar kɛ lɔbɛ̃n kʰõn j'ɛr sá ꜜdɪ́ɪ́",
+                    "morphemes": "tʰɪnkʰodá caar kɛ lɔbɛ=n kʰo-n j'ɛr sá dɪ́ɪ́-r",
+                    "gloss": "food type.of REL Lobi.PL=IPFV eat-NI 3PL.NS 1PL.FUT learn-RE",
+                    "translation": "We will learn what kind of foods Lobi eat",
+                    "french": "Nous apprendrons quel type d'aliments lobi mange",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -7215,13 +7110,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "sɪ hánã́-ꜜnɛ́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
-                    "morphemes": "sɪ hánã́-ꜜnɛ́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
-                    "gloss": "1PL have-RE corn fufu millet fufu and yam fufu",
-                    "translation": "We have corn fufu, millet fufu, and yam fufu.",
-                    "french": "On a le tô de maïs, le tô de mil et le foutou d'igname.",
+                    "utterance": "dɪ lɔbɛ ɟʊ caa\(r\) kɛ́ lɔbɛ̃n dɪ̃́ń na bíí ꜜkɛ́ lɔbɛ̃n dɪ̃́ń j'ɛ sá ꜜdɪ́ɪ́ nĩĩ",
+                    "morphemes": "dɪ lɔbɛ ɟʊ caar kɛ́ lɔbɛ=n dɪ́-ń na bíí kɛ́ lɔbɛ=n dɪ́-ń j'ɛr sá dɪ́ɪ́-r niin",
+                    "gloss": "C2 Lobi.PL fufu type.of REL Lobi.PL=IPFV eat-NI and soup REL Lobi.PL=IPFV eat-NI 3PL.NS 1PL.FUT learn-RE today",
+                    "translation": "So today we will learn the type of fufu and soup that Lobi eat",
+                    "french": "Alors aujourd'hui, nous apprendrons le type de fufu et de soupe que lobi mange",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -7241,13 +7136,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "ɔlɟɔ́ ɟʊr ɟɔ ɟʊr pó ɟʊr",
-                    "morphemes": "ɔlɟɔ́ ɟʊr ɟɔ ɟʊr pó ɟʊr",
-                    "gloss": "corn fufu millet fufu yam fufu",
-                    "translation": "Corn fufu, millet fufu, yam fufu.",
-                    "french": "Tô de maïs, tô de mil, foufou d'igname.",
+                    "utterance": "dɪ ɟʊr kɛ́ lɔbɛ̃n dɪ̃́ń ɟʊ caa jẽntʰér",
+                    "morphemes": "dɪ ɟʊr kɛ́ lɔbɛ=n dɪ́-ń ɟʊ caa\(r\) jentʰér",
+                    "gloss": "C2 fufu REL Lobi.PL=IPFV eat-NI fufu type.of three",
+                    "translation": "So there are three types of fufu that Lobi eat",
+                    "french": "Il y a donc trois types de fufu que les lobi mangent",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -7267,13 +7162,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń bí cá ɟɔɟɔ ha lé kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hɪɛ bíí",
-                    "morphemes": "bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń bí cá ɟɔɟɔ ha lé kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hɪɛ bíí",
-                    "gloss": "soup REL Lobi.PL=IPFV eat-NI soup type.of many COP DEM.DIST peanut soup pistachio soup soumala.Djoula soup eggplant soup potash soup okra soup bean soup",
-                    "translation": "Lobi people eat many kinds of soup: peanut soup, pistachio soup, soumala soup, eggplant soup, potash soup, okra soup, and bean soup.",
-                    "french": "Les Lobi mangent plusiers types sauce: la sauce arachide, la sauce pistache, la sauce soumala, la sauce aubergine, la sauce potasse, la sauce gombo et la sauce haircots.",
+                    "utterance": "a n\(ɪ\) gál lɔ́bɛ dʊ́ɔ̀ ɟʊr kɛ́ na jɪ̃́ń tʰɪ̃kʰodá ꜜkɛ́ na jɪ̃́ń dṍń ɟʊr lɔbɛ dʊ́ɔ̀",
+                    "morphemes": "a nɪ gál lɔ́bɛ dʊ́ɔ̀ ɟʊr kɛ́ na jɪ̃́-ń tʰɪ̃kʰodá kɛ́ na jɪ̃́-ń dṍ-ń ɟʊr lɔbɛ dʊ́ɔ̀",
+                    "gloss": "if 2PL go Lobi.PL country\/village fufu REL 2PL.FUT see-NI food REL 2PL.FUT see-NI COP-NI fufu Lobi.PL country\/village",
+                    "translation": "If you go to Lobi's village, fufu is the main food you will see",
+                    "french": "Si vous allez au village de Lobi, Fufu est la nourriture principale que vous verrez",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -7293,13 +7188,13 @@
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "fa bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń dɪkʰã́ á j'ɛ́r má mɪɛ́ nɪ̃-n",
-                    "morphemes": "fa bíí ꜜkɛ́ lɔbɛ̃=n dɪ̃́-ń dɪkʰã́ á j'ɛ́r má mɪɛ́ nɪ̃-n",
-                    "gloss": "leaf soup REL Lobi.PL=IPFV eat-NI also COP 3PL.NS 1SG.FUT tell 2PL-NI",
-                    "translation": "I will tell you about the leaf soup that Lobi eat.",
-                    "french": "Je vais vous parler des sauces feuilles que les Lobi mange.",
+                    "utterance": "sɪ hánã́ꜜnɛ́ ɟʊ ca jẽntʰér jɪ́",
+                    "morphemes": "sɪ hánán-nɛ́ ɟʊ ca jentʰér jɪ́",
+                    "gloss": "1PL have-RE fufu type.of three COP",
+                    "translation": "We have three types of fufu",
+                    "french": "Nous avons trois types de fufu",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
@@ -7309,29 +7204,134 @@
         }
         ,
         {
-            "id": "306",
+            "id": "318",
             "key": [
                 "3",
-                306,
-                "306"
+                318,
+                "318"
             ],
             "value": {
                 "story": "3",
                 "sentence": {
                     "judgement": "",
-                    "utterance": "ɪ̃́n fa bíí bʊ́ɔ́n bíí pàá bíí hɪɛ fa bíí tĩ́n fa bíí",
-                    "morphemes": "ɪ̃́n fa bíí bʊ́ɔ́n bíí pàá bíí hɪɛ fa bíí tĩ́n fa bíí",
-                    "gloss": "leafy.green leaf soup daa.Djoula soup kulala.Baoule soup bean leaf soup baobab leaf soup",
-                    "translation": "Different leafy green soups.",
-                    "french": "Différentes types de sauce feuilles.",
+                    "utterance": "sɪ hánã́ꜜnɛ́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
+                    "morphemes": "sɪ hánán-nɛ́ ɔ́lɟɔ́ ɟʊr ɟɔ ɟʊr na pó ɟʊr",
+                    "gloss": "1PL have-RE corn fufu millet fufu and yam fufu",
+                    "translation": "We have corn fufu, millet fufu, and yam fufu",
+                    "french": "Nous avons du maïs fufu, millet fufu et yam fufu",
                     "tags": "",
-                    "syntacticCategory": "n n n Conj Adj.fr",
+                    "syntacticCategory": "",
                     "syntacticTreeLatex": "",
                     "validationStatus": "",
                     "enteredByUser": "",
                     "modifiedByUser": ""
                 }
             }
-        } 
+        }
+        ,
+        {
+            "id": "319",
+            "key": [
+                "3",
+                319,
+                "319"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɔlɟɔ́ ɟʊr ɟɔ ɟʊr pó ɟʊr",
+                    "morphemes": "ɔlɟɔ́ ɟʊr ɟɔ ɟʊr pó ɟʊr",
+                    "gloss": "corn fufu millet fufu yam fufu",
+                    "translation": "Corn fufu, millet fufu, yam fufu",
+                    "french": "Corn Fufu, millet fufu, Yam Fufu",
+                    "tags": "",
+                    "syntacticCategory": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "320",
+            "key": [
+                "3",
+                320,
+                "320"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "bíí ꜜkɛ́ lɔbɛ̃n dɪ̃́ń bí cá ɟɔɟɔ ha lé kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔ̃ bíí pʰʊ́ bíí hɪɛ bíí",
+                    "morphemes": "bíí kɛ́ lɔbɛ=n dɪ́n-ń bí cá ɟɔɟɔ ha lé kɔ́lɔ́ bíí cʊ́lá bíí dé bíí ɓaɓu bíí tʰɔn bíí pʰʊ́ bíí hɪɛ bíí",
+                    "gloss": "soup REL Lobi.PL=IPFV eat-NI soup type.of many COP DEM.DIST peanut soup pistachio soup soumala.Djoula soup eggplant soup potash soup okra soup bean soup",
+                    "translation": "Lobi eat many kinds of soup: peanut soup, pistachio soup, soumala soup, eggplant soup, potash soup, okra soup, and bean soup",
+                    "french": "Lobi mange de nombreux types de soupe: soupe aux arachides, soupe aux pistaches, soupe de soumala, soupe auberge, soupe à la potasse, soupe de gombo et soupe aux haricots",
+                    "tags": "",
+                    "syntacticCategory": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "321",
+            "key": [
+                "3",
+                321,
+                "321"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "fa bíí ꜜkɛ́ lɔbɛ̃n dɪ̃́ń dɪkʰã́ á j'ɛ́r má mɪɛ́ nɪ̃n",
+                    "morphemes": "fa bíí kɛ́ lɔbɛ=n dɪ́-ń dɪkʰán á j'ɛ́r má mɪɛ́ nɪ-n",
+                    "gloss": "leaf soup REL Lobi.PL=IPFV eat-NI also COP 3PL.NS 1SG.FUT tell 2PL-NI",
+                    "translation": "I will tell you about the leaf soup that Lobi eat",
+                    "french": "Je vais vous parler de la soupe des feuilles que lobi mange",
+                    "tags": "",
+                    "syntacticCategory": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        ,
+        {
+            "id": "322",
+            "key": [
+                "3",
+                322,
+                "322"
+            ],
+            "value": {
+                "story": "3",
+                "sentence": {
+                    "judgement": "",
+                    "utterance": "ɪ̃́n fa bíí bʊ́ɔ́n bíí pàá bíí hɪɛ fa bíí tĩ́n fa bíí",
+                    "morphemes": "ɪ́n fa bíí bʊ́ɔ́n bíí pàá bíí hɪɛ fa bíí tín fa bíí",
+                    "gloss": "leafy.green leaf soup daa.Djoula soup kulala.Baoule soup bean leaf soup baobab leaf soup",
+                    "translation": "Different leafy green soups",
+                    "french": "Différentes soupes vertes feuillues",
+                    "tags": "",
+                    "syntacticCategory": "",
+                    "syntacticTreeLatex": "",
+                    "validationStatus": "",
+                    "enteredByUser": "",
+                    "modifiedByUser": ""
+                }
+            }
+        }
+        
     ]
 }
