@@ -545,9 +545,9 @@ var OrthographyFR = React.createClass(
 
     <h2 className='ortho dividing header'>Consonants</h2><table className='ui unstackable celled table '>
         <thead>
-          <tr><th>Sound</th>
-            <th>French analogue</th>
-            <th>Example in Lobi w/ French translations</th>
+          <tr><th>Son</th>
+            <th>Analogique français</th>
+            <th>Exemple en Lobi (avec traductions en français)</th>
           </tr></thead>
 
         <tbody>
