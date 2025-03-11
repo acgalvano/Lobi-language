@@ -2089,7 +2089,7 @@ var Sentence = React.createClass({
     }
     
     // interlinear gloss alignment
-    if (this.props.show_gloss || this.props.show_IPA) {
+    if (this.props.show_gloss) { //|| this.props.show_IPA
       var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
