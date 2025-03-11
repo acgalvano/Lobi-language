@@ -434,8 +434,8 @@ var OrthographyFR = React.createClass(
         
   {render: function() {
     return   <div className='ui text container'>
-      <h1 className='ui dividing header'>Orthography</h1>
-      <h2 className='ortho dividing header'>Vowels</h2>
+      <h1 className='ui dividing header'>Orthographe</h1>
+      <h2 className='ortho dividing header'>Voyelles</h2>
       <table className='ui unstackable celled table '>
         <thead>
           <tr><th>Son</th>
@@ -543,7 +543,7 @@ var OrthographyFR = React.createClass(
   <h5><sup>2</sup>Un peu plus nasal à Lobi.</h5>
   <h5><sup>3</sup>Sansan souligne que [bɛbɛ́] est une « mauvaise prononciation » courante de [ɓɛɓɛ́], même par certains Lobi.</h5>
 
-    <h2 className='ortho dividing header'>Consonants</h2><table className='ui unstackable celled table '>
+    <h2 className='ortho dividing header'>Consonnes</h2><table className='ui unstackable celled table '>
         <thead>
           <tr><th>Son</th>
             <th>Analogique français</th>
