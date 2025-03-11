@@ -265,7 +265,7 @@ var Orthography = React.createClass(
         <table className='ui unstackable celled table '>
           <thead>
             <tr><th>Sound</th>
-            <th>French analogue</th>
+            <th>English analogue</th>
             <th>English Translations</th>
           </tr></thead>
 
