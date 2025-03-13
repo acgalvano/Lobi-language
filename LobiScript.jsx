@@ -2099,7 +2099,7 @@ var Sentence = React.createClass({
         var utterance = x[0];
         var morpheme = x[1];
         var gloss = x[2];
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterances}<br/>{morpheme}<br/>{gloss}</div>
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{morpheme}<br/>{gloss}</div>
       }.bind(this)).value();
       utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
