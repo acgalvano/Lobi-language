@@ -1969,7 +1969,12 @@ var DictView = React.createClass({
 // React Class that renders list of stories with links to story content pages (w/loading dimmer)
 var TextBox = React.createClass({
   getInitialState: function() {
-    return {data: [], loaded: false};
+    return {data: [],
+      <div className='ui text container'>
+        <h1 className='ui dividing header'>Texts</h1>
+        <div className="ui segment">
+          <img className="ui medium spaced rounded image" src="./images/Fufu Cooking5.8.png" alt="Image of children cooking" />
+        </div>loaded: false};
   },
   componentDidMount: function() {
     story_data_promise.then(function(rawdata){
