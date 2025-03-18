@@ -163,7 +163,7 @@ var Orthography = React.createClass(
           <tbody>
           <tr>
             <td data-label="IPA">i</td>
-            <td data-label="Orthography"></td>
+            <td data-label="Orthography">happ<b>y</b></td>
             <td data-label="Example">s<b>íí</b> 'snake'; d<b>ìì</b> 'yesterday'</td>
           </tr>
           <tr>
@@ -173,17 +173,17 @@ var Orthography = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">ɪ</td>
-            <td data-label="Orthography"></td>
+            <td data-label="Orthography">b<b>ig</b></td>
             <td data-label="Example">d<b>ɪɪ</b> 'village'; b<b>ɪ</b>ɛl 'one'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɪ̃</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-</td>
               <td data-label="Example">c<b>ɪ̃</b>ncɛ̃́nã́ 'flies'; <b>ɪ̃</b>nɛ̃ 'to come'</td>
           </tr>
           <tr>
             <td data-label="IPA">e</td>
-            <td data-label="Orthography"></td>
+            <td data-label="Orthography">-</td>
             <td data-label="Example"><b>féé</b> (or fér) 'breath (noun)'; d<b>éé</b>kùn<sup>1</sup> 'joking ally'</td>
           </tr>
           <tr>
@@ -193,62 +193,62 @@ var Orthography = React.createClass(
           </tr>
           <tr>
               <td data-label="IPA">ɛ</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">dr<b>e</b>ss</td>
               <td data-label="Example">kh<b>ɛ́</b>r 'woman'; p<b>ɛ́ɛ́</b> 'intestines'; ɓ<b>ɛ̀</b>ɓ<b>ɛ́</b> 'Kpèkpè'<sup>3</sup></td>
           </tr>
           <tr>
             <td data-label="IPA">ɛ̃</td>
-            <td data-label="Orthography"></td>
+            <td data-label="Orthography">-</td>
             <td data-label="Example">ɲ<b>ɛ̃̀ɛ̃̀</b> 'arms'</td>
           </tr>
           <tr>
             <td data-label="IPA">a</td>
-            <td data-label="Orthography"></td>
+            <td data-label="Orthography">-</td>
             <td data-label="Example">j’<b>àá</b> 'market; week'</td>
           </tr>
           <tr>
               <td data-label="IPA">ã</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-</td>
               <td data-label="Example">b<b>ã́ã́</b>nbri 'bracelet'</td>
           </tr>
           <tr>
             <td data-label="IPA">u</td>
-            <td data-label="Orthography"></td>
+            <td data-label="Orthography">f<b>oo</b>d</td>
             <td data-label="Example">p<b>ù</b>r 'pigeon'</td>
           </tr>
           <tr>
               <td data-label="IPA">ũ</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-</td>
               <td data-label="Example">k<b>ũ̀</b>(n) 'man, friend'</td>
           </tr>
           <tr>
               <td data-label="IPA">ʊ</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">f<b>oo</b>t</td>
               <td data-label="Example">b<b>ʊ̀</b> 'goat'; c<b>ʊ́</b>lá 'pistachio'; ɟ<b>ʊ̀</b>r 'fufu'</td>
           </tr>
           <tr>
               <td data-label="IPA">ʊ̃</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-</td>
               <td data-label="Example">á g<b>ʊ̃́</b>nɛ̃́ 'he climbed'</td>
           </tr>
           <tr>
               <td data-label="IPA">o</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-</td>
               <td data-label="Example">l<b>ó</b>bi 'Lobi'; mĩ́ĩ̀ k<b>ó</b> 'my husband'</td>
           </tr>
           <tr>
               <td data-label="IPA">õ</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-</td>
               <td data-label="Example">l<b>ṍṍ</b> 'door'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɔ</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography"><b>au</b>dio</td>
               <td data-label="Example"><b>ɔ̀</b>lɟ<b>ɔ́</b> 'corn'; l<b>ɔ́ɔ́</b>'farm'</td>
           </tr>
           <tr>
               <td data-label="IPA">ɔ̃</td>
-              <td data-label="Orthography"></td>
+              <td data-label="Orthography">-</td>
               <td data-label="Example">g<b>ɔ̃́</b>gʊ̃́w<b>ɔ̃̀</b>(n) 'mountain'</td>
           </tr>
             
