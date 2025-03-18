@@ -848,7 +848,7 @@ var StoryView = React.createClass({
           <div className="ui grid">
             <div className="eight wide column"
                 style={{"padding": "0px"}}>
-                <h2>Atchan</h2>
+                <h2>Lobi</h2>
             </div>
             <div className="eight wide column"
                 style={{"padding": "0px"}}>
@@ -1058,11 +1058,11 @@ var StoryViewFR = React.createClass({
           <div className="ui grid">
             <div className="eight wide column"
                 style={{"padding": "0px"}}>
-                <h2>Atchan</h2>
+                <h2>Lobi</h2>
             </div>
             <div className="eight wide column"
                 style={{"padding": "0px"}}>
-                <h2>French</h2>
+                <h2>Française</h2>
             </div>
           {sentence_rows}
           </div>
