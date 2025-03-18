@@ -2107,7 +2107,7 @@ var Sentence = React.createClass({
 
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
-      {utterance}<br/>
+      {sentence.utterance}<br/>
       {gloss}
       {<span>{sentence.translation}<br/></span>}
       {sentence.french}
