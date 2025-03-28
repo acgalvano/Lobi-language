@@ -2054,7 +2054,7 @@ var TextBoxFR = React.createClass({
         return <li key={x.key}><Link to='StoryFR' params={{key: x.key}}>{x.value.name_fr}</Link> de {x.value.author}</li>
       });
       return <div>
-       <img className="ui medium spaced rounded image" src="./images/FufuCooking5.8.jpg"></img>
+       <img className="ui medium spaced rounded image" src="./images/FufuCooking.jpg"></img>
         <ul>{results}</ul></div>;
     }
     else {
