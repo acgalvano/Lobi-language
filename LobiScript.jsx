@@ -2052,9 +2052,19 @@ var TextBoxFR = React.createClass({
     if (this.state.loaded){
       var results = this.state.data.rows.map(function (x) {
         return <li key={x.key}><Link to='StoryFR' params={{key: x.key}}>{x.value.name_fr}</Link> de {x.value.author}</li>
-
       });
-      return <div><ul>{results}</ul></div>;
+      return <div>
+        <img 
+          src="./images/Fufu Cooking5.8.png" 
+          alt="Page Header" 
+          style={{
+            width: '100%', 
+            maxHeight: '300px', 
+            objectFit: 'cover',
+            marginBottom: '20px'
+          }} 
+        />
+        <ul>{results}</ul></div>;
     }
     else {
       return <div className="ui active dimmer">
