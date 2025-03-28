@@ -2054,7 +2054,16 @@ var TextBoxFR = React.createClass({
         return <li key={x.key}><Link to='StoryFR' params={{key: x.key}}>{x.value.name_fr}</Link> de {x.value.author}</li>
       });
       return <div>
-       <img src="/images/Fufu Cooking5.8-min.png" alt="Cooking Img" />
+      <img 
+        src="https://raw.githubusercontent.com/acgalvano/Lobi-language/main/images/Fufu%20Cooking5.8-min.png"
+        alt="Page Header"
+        style={{
+          width: '100%', 
+          maxHeight: '300px', 
+          objectFit: 'cover',
+          marginBottom: '20px'
+        }} 
+      />
         <ul>{results}</ul></div>;
     }
     else {
