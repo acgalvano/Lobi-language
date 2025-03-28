@@ -2055,7 +2055,7 @@ var TextBoxFR = React.createClass({
       });
       return <div>
         <img 
-          src="./images/Fufu Cooking5.8.png" 
+          src="./images/FufuCooking5.8.jpg" 
           alt="Page Header" 
           style={{
             width: '100%', 
