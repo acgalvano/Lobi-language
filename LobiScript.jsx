@@ -2028,7 +2028,18 @@ var TextBox = React.createClass({
         return <li key={x.key}><Link to='Story' params={{key: x.key}}>{x.value.name}</Link> by {x.value.author}</li>
 
       });
-      return <div><ul>{results}</ul></div>;
+      return <div>
+        <img 
+        src="https://raw.githubusercontent.com/acgalvano/Lobi-language/main/images/Fufu%20Cooking5.8-min.png"
+        alt="Page Header"
+        style={{
+          width: '100%', 
+          maxHeight: '300px', 
+          objectFit: 'cover',
+          marginBottom: '20px'
+        }} 
+      />
+        <ul>{results}</ul></div>;
     }
     else {
       return <div className="ui active dimmer">
