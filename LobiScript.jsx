@@ -768,13 +768,13 @@ var StoryView = React.createClass({
   },
   //toggles IPA or not
   toggleIPA: function() {
-    var new_show_gloss = !this.state.show_gloss;
+    var new_show_IPA = !this.state.show_IPA;
     var new_story_view = this.state.story_view;
     if(new_show_gloss or new_show_IPA) {
       new_story_view = false;
     }
-    this.setState({show_IPA: this.state.show_IPA,
-                   show_gloss: new_show_gloss,
+    this.setState({show_IPA: new_show_IPA,
+                   show_gloss: this.state.show_gloss,
                     story_view: new_story_view});
   },
   //toggles interlinear gloss or not
