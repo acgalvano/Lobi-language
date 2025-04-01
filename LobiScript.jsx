@@ -168,7 +168,7 @@ var Orthography = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">ĩ</td>
-            <td data-label="Orthography"></td>
+            <td data-label="Orthography">m<b>ea</b>n</td>
             <td data-label="Example">an<b>ĩ̀ĩ̀</b> ‘oil’; s<b>ĩ̀ĩ̀</b> ‘urine’</td>
           </tr>
           <tr>
@@ -178,17 +178,17 @@ var Orthography = React.createClass(
           </tr>
           <tr>
               <td data-label="IPA">ɪ̃</td>
-              <td data-label="Orthography">-</td>
+              <td data-label="Orthography">m<b>i</b>nt</td>
               <td data-label="Example">c<b>ɪ̃</b>ncɛ̃́nã́ 'flies'; <b>ɪ̃</b>nɛ̃ 'to come'</td>
           </tr>
           <tr>
             <td data-label="IPA">e</td>
-            <td data-label="Orthography">-</td>
+            <td data-label="Orthography">w<b>a</b>y</td>
             <td data-label="Example"><b>féé</b> (or fér) 'breath (noun)'; d<b>éé</b>kùn<sup>1</sup> 'joking ally'</td>
           </tr>
           <tr>
               <td data-label="IPA">ẽ</td>
-              <td data-label="Orthography">-</td>
+              <td data-label="Orthography">m<b>a</b>in</td>
               <td data-label="Example">mɪ̃́ɪ̃̀n ɟ<b>ẽ́</b> 'my uncle'</td>
           </tr>
           <tr>
@@ -198,12 +198,12 @@ var Orthography = React.createClass(
           </tr>
           <tr>
             <td data-label="IPA">ɛ̃</td>
-            <td data-label="Orthography">-</td>
+            <td data-label="Orthography">m<b>e</b>n</td>
             <td data-label="Example">ɲ<b>ɛ̃̀ɛ̃̀</b> 'arms'</td>
           </tr>
           <tr>
             <td data-label="IPA">a</td>
-            <td data-label="Orthography">-</td>
+            <td data-label="Orthography">m<b>o</b>uth</td>
             <td data-label="Example">j’<b>àá</b> 'market; week'</td>
           </tr>
           <tr>
@@ -233,7 +233,7 @@ var Orthography = React.createClass(
           </tr>
           <tr>
               <td data-label="IPA">o</td>
-              <td data-label="Orthography">-</td>
+              <td data-label="Orthography">b<b>o</b>at</td>
               <td data-label="Example">l<b>ó</b>bi 'Lobi'; mĩ́ĩ̀ k<b>ó</b> 'my husband'</td>
           </tr>
           <tr>
