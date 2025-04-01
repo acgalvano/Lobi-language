@@ -775,7 +775,7 @@ var StoryView = React.createClass({
     }
     this.setState({show_IPA: new_show_IPA,
                    show_gloss: this.state.show_gloss,
-                    story_view: new_story_view});
+                    story_view: this.state.story_view});
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
@@ -786,7 +786,7 @@ var StoryView = React.createClass({
     }
     this.setState({show_IPA: this.state.show_IPA,
                    show_gloss: new_show_gloss,
-                    story_view: new_story_view});
+                    story_view: this.state.story_view});
   },
   //toggles story view
   toggleStoryView: function() {
@@ -983,7 +983,7 @@ var StoryViewFR = React.createClass({
     }
     this.setState({show_IPA: new_show_IPA, 
                    show_gloss: this.state.show_gloss,
-                    story_view: new_story_view});
+                    story_view: this.state.story_view});
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
@@ -994,7 +994,7 @@ var StoryViewFR = React.createClass({
     }
     this.setState({show_IPA: this.state.show_IPA, 
                    show_gloss: new_show_gloss,
-                    story_view: new_story_view});
+                    story_view: this.state.story_view});
   },
   //toggles story view
   toggleStoryView: function() {
