@@ -768,28 +768,35 @@ var StoryView = React.createClass({
   },
   //toggles IPA or not
   toggleIPA: function() {
-    var new_show_IPA = !this.state.show_IPA;
-    this.setState({show_IPA: new_show_IPA});
+    this.setState(prevState => ({ show_IPA: !prevState.show_IPA }), () => {
+        console.log('show_IPA:', this.state.show_IPA);
+    });
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
-    var new_show_gloss = !this.state.show_gloss;
-    this.setState({show_gloss: new_show_gloss});
+    this.setState(prevState => ({ show_gloss: !prevState.show_gloss }), () => {
+        console.log('show_gloss:', this.state.show_gloss);
+    });
   },
   //toggles story view
   toggleStoryView: function() {
-    var new_show_IPA = this.state.show_IPA;
-    var new_show_gloss = this.state.show_gloss;
-    var new_story_view = !this.state.story_view;
-    var new_french_view = this.state.french_view; // EDIT
-    if(new_story_view) {
-      new_show_gloss = false;
-      new_show_IPA = false;
-    }
-    this.setState({show_IPA: new_show_IPA,
-                   show_gloss: new_show_gloss,
-                    story_view: new_story_view,
-                    french_view: new_french_view}); // EDIT
+    this.setState(prevState => {
+        const new_story_view = !prevState.story_view;
+        if (new_story_view) {
+            return {
+                show_IPA: false,
+                show_gloss: false,
+                story_view: new_story_view
+            };
+        }
+        return {
+            story_view: new_story_view
+        };
+    }, () => {
+        console.log('story_view:', this.state.story_view);
+        console.log('show_IPA:', this.state.show_IPA);
+        console.log('show_gloss:', this.state.show_gloss);
+    });
   },
   //renders component
   render: function() {
@@ -965,16 +972,12 @@ var StoryViewFR = React.createClass({
   //toggles IPA or not
   toggleIPA: function() {
     var new_show_IPA = !this.state.show_IPA;
-    this.setState({show_IPA: new_show_IPA, 
-                   show_gloss: this.state.show_gloss,
-                    story_view: this.state.story_view});
+    this.setState({show_IPA: new_show_IPA});
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
     var new_show_gloss = !this.state.show_gloss;
-    this.setState({show_IPA: this.state.show_IPA, 
-                   show_gloss: new_show_gloss,
-                    story_view: this.state.story_view});
+    this.setState({show_gloss: new_show_gloss});
   },
   //toggles story view
   toggleStoryView: function() {
