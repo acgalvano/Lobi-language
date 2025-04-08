@@ -768,15 +768,13 @@ var StoryView = React.createClass({
   },
   //toggles IPA or not
   toggleIPA: function() {
-    this.setState(prevState => ({ show_IPA: !prevState.show_IPA }), () => {
-        console.log('show_IPA:', this.state.show_IPA);
-    });
+    var new_show_IPA = !this.state.show_IPA;
+    this.setState({show_IPA: new_show_IPA});
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
-    this.setState(prevState => ({ show_gloss: !prevState.show_gloss }), () => {
-        console.log('show_gloss:', this.state.show_gloss);
-    });
+    var new_show_gloss = !this.state.show_gloss;
+    this.setState({show_gloss: new_show_gloss});
   },
   //toggles story view
   toggleStoryView: function() {
