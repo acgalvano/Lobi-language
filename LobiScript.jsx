@@ -769,16 +769,12 @@ var StoryView = React.createClass({
   //toggles IPA or not
   toggleIPA: function() {
     var new_show_IPA = !this.state.show_IPA;
-    this.setState({show_IPA: new_show_IPA,
-                   show_gloss: this.state.show_gloss,
-                    story_view: this.state.story_view});
+    this.setState({show_IPA: new_show_IPA});
   },
   //toggles interlinear gloss or not
   toggleGloss: function() {
     var new_show_gloss = !this.state.show_gloss;
-    this.setState({show_IPA: this.state.show_IPA,
-                   show_gloss: new_show_gloss,
-                    story_view: this.state.story_view});
+    this.setState({show_gloss: new_show_gloss});
   },
   //toggles story view
   toggleStoryView: function() {
