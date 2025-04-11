@@ -2091,30 +2091,17 @@ var Sentence = React.createClass({
     }
     
     // interlinear gloss alignment
-    if (this.props.show_gloss && !this.props.show_IPA) { //|| this.props.show_IPA
+    if (this.props.show_gloss) { //|| this.props.show_IPA
       var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
-      var combined = _.zip(morphemes, glosses);
+      var combined = _.zip(utterances, morphemes, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(combined).map(function(x, i){
-        //var utterance = x[0];
-        var morpheme = x[0];
-        var gloss = x[1];
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
-      }.bind(this)).value();
-      morpheme = <span>{morpheme}<br/></span>;
-      gloss = <span>{glosses}<br/></span>;
-    } elif(this.props.show_IPA) { //adding in IPA gloss alignment
-      var utterances = sentence.utterance.split(' ');
-      //var morphemes = sentence.morphemes.split(' ');
-      var glosses = sentence.gloss.split(' ');
-      var combined = _.zip(utterances, glosses);
-      var glosses = _(combined).map(function(x, i){
         var utterance = x[0];
-        //var morpheme = x[1];
-        var gloss = x[1];
-        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{gloss}</div>
+        var morpheme = x[1];
+        var gloss = x[2];
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{morpheme}<br/>{gloss}</div>
       }.bind(this)).value();
       utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
