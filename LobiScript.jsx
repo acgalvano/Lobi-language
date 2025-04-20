@@ -877,21 +877,21 @@ var StoryView = React.createClass({
 
             <div className="field">
               <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.show_IPA} onChange={this.toggleIPA}> </input>
+                <input type="checkbox" name="IPA" checked={this.state.show_IPA} onChange={this.toggleIPA}> </input>
                 <label>Show IPA</label>
               </div>
             </div>
 
             <div className="field">
               <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.show_gloss} onChange={this.toggleGloss}> </input>
+                <input type="checkbox" name="glosses" checked={this.state.show_gloss} onChange={this.toggleGloss}> </input>
                 <label>Show Glosses</label>
               </div>
             </div>
 
             <div className="field">
               <div className="ui slider checkbox">
-                <input type="radio" name="throughput" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
+                <input type="checkbox" name="story" checked={this.state.story_view} onChange={this.toggleStoryView}> </input>
                 <label>Story View</label>
               </div>
             </div>
