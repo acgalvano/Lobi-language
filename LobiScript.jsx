@@ -2097,12 +2097,14 @@ var Sentence = React.createClass({
       var glosses = sentence.gloss.split(' ');
       var combined = _.zip(utterances, morphemes, glosses);
       // render one inline block div containing morpheme and gloss per word
-      var gloss = _(combined).map(function(x, i){
+      var glosses = _(combined).map(function(x, i){
         var utterance = x[0];
         var morpheme = x[1];
         var gloss = x[2];
         return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{morpheme}<br/>{gloss}</div>
-      }.value();
+      }.bind(this)).value();
+      utterance = <span>{utterances}<br/></span>;
+      gloss = <span>{glosses}<br/></span>;
     }
 
     // render utterance and translation
