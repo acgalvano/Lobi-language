@@ -2097,22 +2097,23 @@ var Sentence = React.createClass({
       var glosses = sentence.gloss.split(' ');
       var combined = _.zip(utterances, morphemes, glosses);
       // render one inline block div containing morpheme and gloss per word
-      var glosses = _(combined).map(function(x, i){
+      var gloss = _(combined).map(function(x, i){
         var utterance = x[0];
         var morpheme = x[1];
         var gloss = x[2];
         return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{morpheme}<br/>{gloss}</div>
-      }.bind(this)).value();
-      utterance = <span>{utterances}<br/></span>;
-      gloss = <span>{glosses}<br/></span>;
+      }.value();
     }
 
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
       {sentence.utterance}<br/>
       {gloss}
-      {<span>{sentence.translation}<br/></span>}
-      {sentence.french}
+      {
+        this.props.only_french
+        ? <span>{sentence.french}<br/></span>
+        : <span>{sentence.translation}<br/></span>
+      }
     </div>
   } // EDIT: sentence.translation to <span>{sentence.translation}<br/></span> to add french
 });
