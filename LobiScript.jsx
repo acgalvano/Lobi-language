@@ -2112,7 +2112,7 @@ var Sentence = React.createClass({
       {sentence.utterance}<br/>
       {gloss}
       {
-        this.props.only_french
+        this.global_show_french
         ? <span>{sentence.french}<br/></span>
         : <span>{sentence.translation}<br/></span>
       }
