@@ -2106,16 +2106,13 @@ var Sentence = React.createClass({
       utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
     }
+    const translation = global_show_french ? sentence.french : sentence.translation;
 
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
       {sentence.utterance}<br/>
       {gloss}
-      {
-        this.global_show_french
-        ? <span>{sentence.french}<br/></span>
-        : <span>{sentence.translation}<br/></span>
-      }
+      <span>{translation}<br/></span>
     </div>
   } // EDIT: sentence.translation to <span>{sentence.translation}<br/></span> to add french
 });
