@@ -2069,72 +2069,52 @@ var TextBoxFR = React.createClass({
 // A component to render a single sentence.
 var Sentence = React.createClass({
   render: function() {
-    const { sentence, show_gloss, show_IPA } = this.props;
+    var gloss = '';
+    var sentence = this.props.sentence;
 
-    const utterance = sentence.utterance.split(' ');
-    const morphemes = sentence.morphemes.split(' ');
-    const glosses = sentence.gloss.split(' ');
+    if (this.props.only_utterance) {
+      return <div style={{marginBottom: "10px"}}>
+        {sentence.utterance}
+      </div>;
+    }
 
-    const alignedContent = _.zip(utterances, morphemes, glosses).map((tuple, index) => {
-      const [utterance, morpheme, gloss] = tuple;
+    if (this.props.only_translation) {
+      return <div style={{marginBottom: "10px"}}>
+        {sentence.translation}
+      </div>;
+    }
 
-      return (
-        <div style={{ display: "inline-block", marginRight: "10px", textAlign: "center" }} key={index}>
-          {show_IPA && <div>{utterance}</div>}
-          <div>{morpheme}</div>
-          {show_gloss && <div>{gloss}</div>}
-        </div>
-      );
-    });
-
-    return <div style={{ marginBottom: "10px" }}>{alignedContent}</div>;
-  }
-  //   var gloss = '';
-  //   var sentence = this.props.sentence;
-
-  //   if (this.props.only_utterance) {
-  //     return <div style={{marginBottom: "10px"}}>
-  //       {sentence.utterance}
-  //     </div>;
-  //   }
-
-  //   if (this.props.only_translation) {
-  //     return <div style={{marginBottom: "10px"}}>
-  //       {sentence.translation}
-  //     </div>;
-  //   }
-
-  //   if (this.props.only_french) {
-  //     return <div style={{marginBottom: "10px"}}>
-  //       {sentence.french}
-  //     </div>;
-  //   }
+    if (this.props.only_french) {
+      return <div style={{marginBottom: "10px"}}>
+        {sentence.french}
+      </div>;
+    }
     
-  //   // interlinear gloss alignment
-  //   if (this.props.show_gloss) { //|| this.props.show_IPA
-  //     var utterances = sentence.utterance.split(' ');
-  //     var morphemes = sentence.morphemes.split(' ');
-  //     var glosses = sentence.gloss.split(' ');
-  //     var combined = _.zip(utterances, morphemes, glosses);
-  //     // render one inline block div containing morpheme and gloss per word
-  //     var glosses = _(combined).map(function(x, i){
-  //       var utterance = x[0];
-  //       var morpheme = x[1];
-  //       var gloss = x[2];
-  //       return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{morpheme}<br/>{gloss}</div>
-  //     }.bind(this)).value();
-  //     utterance = <span>{utterances}<br/></span>;
-  //     gloss = <span>{glosses}<br/></span>;
-  //   }
-  //   const translation = global_show_french ? sentence.french : sentence.translation;
+    // interlinear gloss alignment
+    if (this.props.show_gloss) { //|| this.props.show_IPA
+      var utterances = sentence.utterance.split(' ');
+      var morphemes = sentence.morphemes.split(' ');
+      var glosses = sentence.gloss.split(' ');
+      var combined = _.zip(utterances, morphemes, glosses);
+      // render one inline block div containing morpheme and gloss per word
+      var glosses = _(combined).map(function(x, i){
+        var utterance = x[0];
+        var morpheme = x[1];
+        var gloss = x[2];
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{morpheme}<br/>{gloss}</div>
+      }.bind(this)).value();
+      utterance = <span>{utterances}<br/></span>;
+      gloss = <span>{glosses}<br/></span>;
+    }
+    const translation = global_show_french ? sentence.french : sentence.translation;
 
-  //   // render utterance and translation
-  //   return <div style={{marginBottom: "10px"}}>
-  //     {sentence.utterance}<br/>
-  //     {gloss}
-  //     <span>{translation}<br/></span>
-  //   </div>
-  // } // EDIT: sentence.translation to <span>{sentence.translation}<br/></span> to add french
+    // render utterance and translation
+    return <div style={{marginBottom: "10px"}}>
+      {sentence.utterance}<br/>
+      {gloss}
+      <span>{translation}<br/></span>
+    </div>
+  } // EDIT: sentence.translation to <span>{sentence.translation}<br/></span> to add french
 });
 
 
