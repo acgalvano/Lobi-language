@@ -2066,7 +2066,7 @@ var TextBoxFR = React.createClass({
   }
 });
 
-// A component to render a single sentence.
+// A component to render a single sentence. For generating the Texts glossing/IPA/translation
 var Sentence = React.createClass({
   render: function() {
     var gloss = '';
@@ -2090,7 +2090,7 @@ var Sentence = React.createClass({
       </div>;
     }
     
-    // interlinear gloss alignment
+    // interlinear gloss alignment for gloss and IPA toggled
     if (this.props.show_gloss && this.props.show_IPA) { //|| this.props.show_IPA
       var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
@@ -2105,7 +2105,7 @@ var Sentence = React.createClass({
       }.bind(this)).value();
       //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
-      
+    // interlinear gloss alignment for only gloss toggled
     } else if (this.props.show_gloss) {
       var utterances = sentence.utterance.split(' ');
       //var morphemes = sentence.morphemes.split(' ');
@@ -2120,6 +2120,7 @@ var Sentence = React.createClass({
       }.bind(this)).value();
       //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
+    // interlinear gloss alignment for only IPA toggled
     } else if (this.props.show_IPA) {
       var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
@@ -2134,8 +2135,9 @@ var Sentence = React.createClass({
       }.bind(this)).value();
       //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
+    // displaying the utterance when nothing is toggled
     } else {
-      gloss = sentence.utterance
+      gloss = <span>{sentence.utterance}<br/></span>
     }
     const translation = global_show_french ? sentence.french : sentence.translation;
 
