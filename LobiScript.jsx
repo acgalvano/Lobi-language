@@ -2095,7 +2095,7 @@ var Sentence = React.createClass({
       var utterances = sentence.utterance.split(' ');
       //var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
-      var combined = _.zip(morphemes, glosses);
+      var combined = _.zip(utterances, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(combined).map(function(x, i){
         var utterance = x[0];
@@ -2107,17 +2107,39 @@ var Sentence = React.createClass({
       gloss = <span>{glosses}<br/></span>;
       
     } else if (this.props.show_gloss) {
+      //var utterances = sentence.utterance.split(' ');
+      var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
+      var combined = _.zip(morphemes, glosses);
+      // render one inline block div containing morpheme and gloss per word
+      var glosses = _(combined).map(function(x, i){
+        //var utterance = x[0];
+        var morpheme = x[0];
+        var gloss = x[1];
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
+      }.bind(this)).value();
+      //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
     } else if (this.props.show_IPA) {
-      var glosses = sentence.utterance.split(' ');
+      var utterances = sentence.utterance.split(' ');
+      var morphemes = sentence.morphemes.split(' ');
+      //var glosses = sentence.gloss.split(' ');
+      var combined = _.zip(morphemes, glosses);
+      // render one inline block div containing morpheme and gloss per word
+      var glosses = _(combined).map(function(x, i){
+        var utterance = x[1];
+        var morpheme = x[0];
+        //var gloss = x[1];
+        return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{utterance}</div>
+      }.bind(this)).value();
+      //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
     }
     const translation = global_show_french ? sentence.french : sentence.translation;
 
     // render utterance and translation
     return <div style={{marginBottom: "10px"}}>
-      {sentence.morphemes}<br/>
+{/*       {sentence.morphemes}<br/> */}
       {gloss}
       <span>{translation}<br/></span>
     </div>
