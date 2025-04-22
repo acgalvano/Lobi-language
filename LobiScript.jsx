@@ -2134,6 +2134,8 @@ var Sentence = React.createClass({
       }.bind(this)).value();
       //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
+    } else {
+      gloss = sentence.utterance
     }
     const translation = global_show_french ? sentence.french : sentence.translation;
 
