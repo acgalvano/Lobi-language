@@ -2105,7 +2105,7 @@ var Sentence = React.createClass({
       // }.bind(this)).value();
       //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
-    } elif (this.props.show_gloss && this.props.show_IPA) { //|| this.props.show_IPA
+    } else if (this.props.show_gloss && this.props.show_IPA) { //|| this.props.show_IPA
       var utterances = sentence.utterance.split(' ');
       //var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
