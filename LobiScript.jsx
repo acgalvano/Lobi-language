@@ -2098,7 +2098,7 @@ var Sentence = React.createClass({
       var combined = _.zip(morphemes, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(combined).map(function(x, i){
-        #var utterance = x[0];
+        //var utterance = x[0];
         var morpheme = x[0];
         var gloss = x[1];
         return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{gloss}</div>
