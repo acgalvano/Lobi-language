@@ -2106,18 +2106,11 @@ var Sentence = React.createClass({
       //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
       
-    } else if (this.props.show_gloss) { //|| this.props.show_IPA
-      //var morphemes = sentence.morphemes.split(' ');
+    } else if (this.props.show_gloss) {
       var glosses = sentence.gloss.split(' ');
-      // var combined = _.zip(morphemes, glosses);
-      // render one inline block div containing morpheme and gloss per word
-      // var glosses = _(combined).map(function(x, i){
-      //   var utterance = x[0];
-      //   //var morpheme = x[0];
-      //   var gloss = x[1];
-      //   return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{utterance}<br/>{gloss}</div>
-      // }.bind(this)).value();
-      //utterance = <span>{utterances}<br/></span>;
+      gloss = <span>{glosses}<br/></span>;
+    } else if (this.props.show_IPA) {
+      var glosses = sentence.utterance.split(' ');
       gloss = <span>{glosses}<br/></span>;
     }
     const translation = global_show_french ? sentence.french : sentence.translation;
