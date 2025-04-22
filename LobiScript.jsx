@@ -2095,7 +2095,7 @@ var Sentence = React.createClass({
       var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
       var glosses = sentence.gloss.split(' ');
-      var combined = _.zip(utterances, glosses);
+      var combined = _.zip(morphemes, utterances, glosses);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(combined).map(function(x, i){
         var utterance = x[1];
@@ -2124,11 +2124,11 @@ var Sentence = React.createClass({
       var utterances = sentence.utterance.split(' ');
       var morphemes = sentence.morphemes.split(' ');
       //var glosses = sentence.gloss.split(' ');
-      var combined = _.zip(morphemes, glosses);
+      var combined = _.zip(utterances, morphemes);
       // render one inline block div containing morpheme and gloss per word
       var glosses = _(combined).map(function(x, i){
-        var utterance = x[1];
-        var morpheme = x[0];
+        var utterance = x[0];
+        var morpheme = x[1];
         //var gloss = x[1];
         return <div style={{display: "inline-block", marginRight: "5px"}} key={i}>{morpheme}<br/>{utterance}</div>
       }.bind(this)).value();
