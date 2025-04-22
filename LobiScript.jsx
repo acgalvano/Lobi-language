@@ -2134,6 +2134,9 @@ var Sentence = React.createClass({
       }.bind(this)).value();
       //utterance = <span>{utterances}<br/></span>;
       gloss = <span>{glosses}<br/></span>;
+    } else {
+      glosses = sentence.morphemes.split(' ');
+      gloss = <span>{glosses}<br/></span>;
     }
     const translation = global_show_french ? sentence.french : sentence.translation;
 
