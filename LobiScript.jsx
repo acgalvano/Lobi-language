@@ -104,6 +104,7 @@ var Homepage = React.createClass(
 
     <h3> Amber Galvano </h3>
         <p> <a href="https://ambergalvano.weebly.com/">Amber</a> is a Ph.D. student in Linguistics at UC Berkeley. </p>
+        <div style={{ marginBottom: '20px' }}></div>
 
       </div>
    
