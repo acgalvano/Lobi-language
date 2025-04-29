@@ -108,7 +108,6 @@ var Homepage = React.createClass(
       </div>
    
       }
-    </br>
   }
 )
 
