@@ -106,8 +106,9 @@ var Homepage = React.createClass(
         <p> <a href="https://ambergalvano.weebly.com/">Amber</a> is a Ph.D. student in Linguistics at UC Berkeley. </p>
 
       </div>
-    </br>
+   
       }
+    </br>
   }
 )
 
