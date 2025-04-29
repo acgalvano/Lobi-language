@@ -19,3 +19,6 @@ must be the embed video link to the video corresponding to the toggled language.
 
 sentences.json: each line from twisted tongues should be represented as a unique entry in this json, with a requirement for the id of lines
 from the same story to match. This is important for the Texts page to function.
+--
+
+To-do: update "Glossing" to reflect Lobi conventions, put French version in French
